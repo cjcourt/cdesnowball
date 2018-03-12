@@ -6,6 +6,7 @@ Corpus directories can be set in .relex.settings.settings.py
 
 """
 from .snowball import Snowball
+from relex import snowball_systems
 from ..doc.document import Document
 import os
 import time
@@ -50,6 +51,7 @@ class SnowballTrainer(object):
         self._ppty = relationship_name
 
     def train(self):
+        snowball_systems = []
         t0 = time.clock()
         print("Reading training corpora")
         corpus = []
@@ -74,6 +76,7 @@ class SnowballTrainer(object):
                       )
 
         sb.train(corpus)
+        snowball_systems.append(sb)
 
         t1 = time.clock()
         print("Trained in", t1-t0, "Seconds")
