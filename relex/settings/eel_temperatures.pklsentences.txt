@@ -1,0 +1,489 @@
+in BiMnFe2O6 as a broad cusp at TN = 212 K ;
+, BiMn0.9Fe2.1O6 , BiMn1.1Fe1.9O6 ( Fig . 9a ) , exhibit similar AFM order , with TN of 224 and 204 K ,
+in BiMnFe2O6 at TN = 212 K .
+antiferromagnetic YMn2 exhibits a giant volume contraction of about 5 % at Neél temperature ( TN = 100 K )
+is ZnCr2S4 which shows two antiferromagnetic transitions ( TN1 = 15 K and TN2 = 8 K )
+of Pb(Fe2/3W1/3)O3 , its near ZTE also occurs below its antiferromagnetic phase transition ( TN = 340 K )
+for Fe ( TN = 85 K )
+and Pr ( TN = 11 K )
+, LaMnAsO is an antiferromagnetic ( AFM ) semiconductor with a pretty high Néel temperature of 317 K .
+of Tb2PdSi3 at TN = 23 K is
+antiferromagnetic MnO sample disappeared because its Néel temperature (TN = 122 K )
+the Néel temperature (TN) of 286 K , CrN is
+ CaM2O4 phases with M = Fe and Mn order antiferromagnetically , with Néel temperatures of 160 and 220 K ,
+For Mn0.8Co0.2Sb2O4 , NPD data showed additional weak peaks , corresponding to a very small ( 0 . 01 wt % ) MnO impurity ; this was included as a cubic Fm3 ̄ m phase at 300 K ( above the Néel temperature, 120 K )
+Bulk α-Fe2O3 is an antiferromagnet with a high Neel temperature (TN) of 960 K which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about 260 K ,
+, CoO , which as a bulk material is antiferromagnetic ( AFM , TN = 293 K )
+ BaTcO3 is predicted to have an even higher Neel temperature of about 1200 K .
+( TN = 260 K ) of the transition metal ions ( Fe3 + and Cr3 + ) in YCr0.5Fe0.5O3 were
+, YCrO3 ( TN = 140 K )
+and YFeO3 ( TN = 640 K )
+ YFe0.5Cr0.5O3 exhibits a magnetic ordering at TN = 246 K ,
+( Néel temperature is 955 K in hematite , but only 300 K in eskolaite )
+, BiFeO3 is antiferromagnetic ( TN = 643 K )
+, BiFe0.5Mn0.5O3 , synthesized at high pressure and temperature , has an orthorhombic structure and exhibits a temperature - induced magnetization reversal below TN = 240 K .
+in La3Fe(MoO4)6 are antiferromagnetically ordered below TN = 6.6 K in
+the Tb magnetic moments start to magnetically order or “ crystallize ” below a Neel temperature of 2.1 K .
+ NaFeP2O7 undergoes a 3D antiferromagnetic ordering with a Néel temperature TN = 29.0 K without
+ LiFeP2O7 exhibits similar magnetic properties ; it undergoes a 3D antiferromagnetic ordering at TN = 22 K without
+Perovskite BFO has a ferroelectric Curie temperature TC of 1103 K , and an antiferromagnetic Néel temperature TN of 643 K .
+Since BFO is known to be antiferromagnetic below TN = 643 K ,
+in LaCrO3 is G - type antiferromagnetic ( TN = 282 K )
+of Ba2CoS3 at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at 46 K ( see Fig . 3 ) and this is consistent with the signature of a TN in
+the cobalt vanadate indicated long - range spin - canted antiferromagnetic ordering at TN = 71 K .
+ BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
+ Chromium sesquiselenide has a rhombohedral - type superstructure , which leads to complex antiferromagnetic arrangements below the Néel temperature TN = 43 K .
+insulating chromium sesquioxide is an antiferromagnet with a Néel temperature TN = 307.5 K .
+. Cr2Se0.7O2.3nanoparticles show antiferromagnetic behaviour with a Néel temperature TN of 11 K .
+for Cr2Se3 ( TN = 43 K )
+spinel Co3O4 ( which has a Néel temperature of 33 K )
+( BiFeO3 ) is a room - temperature multiferroic material exhibiting ferroelectricity with a high Curie temperature ( TC ∼ 1103 K ) and anti - ferromagnetism with a high Neel temperature (TN ∼ 673 K )
+, SrTcO3 is antiferromagnetic , whose surprisingly high Néel temperature is TN → 1000 K and
+The TN of h-YbMnO3 was 88 K , and that of o-DyMnO3 was 6.5 K ,
+the h-Yb0.5Dy0.5MnO3 crystal ( TN is 4.4 K )
+, α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
+, BaLa2MnS5 with θ = - 96 . 0 K and TN = 58.5 K ,
+, MnSb2Se4 with θ = - 74 . 0 K and TN = 20.0 K ,
+, PbMnInS5 with θ = - 66 . 6 K and TN around 25.0 K ,
+, Sm2Mn3Sb4S12 with θ = - 221 . 9 K and TN around 40.0 K ,
+member Mn4Gd2S7 ( 3 ) featuring a richer density of Mn2 + ions to display a moderate θ value at - 40 . 25 K and a high TN at 70 K .
+ α-Mn2O3 shows a weak antiferromagnetic transition ( TN = 80 K )
+that α-Mn2O3 has an antiferromagnetic ordering at TN = 90 K .
+Bulk MnO has an antiferromagnetic transition at 118 K , but there is no indication of any magnetic transition in the neighborhood of TN ,
+the Neel temperature for bulk Cr2O3 is 307 K ,
+, MnO is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of TN = 118 K ,
+that Mn5O8 orders antiferromagnetically at Néel temperature TN ≃ 136 K ,
+as Cd2Mn3O8 ( TN ≃ 10 K )
+and Ca2Mn3O8 ( TN ≃ 60 K )
+that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K , and TN ≃ 126 K .
+; LaSrNi0.5Ru0.5O4 is evidenced by the presence of long - range magnetic ordering at a Néel temperature of 125 K ,
+ordered La2CoRuO6 and La2NiRuO6 are AFM below the Néel temperatures, 26 and 32 K ,
+disordered LaSrNi0.5Ru0.5O4 sample shows a divergence between the ZFC and FC curves below 150 K , above the Néel temperature of 125 K ,
+and LaSrNi0.5Ru0.5O4 evidences a long - range magnetic ordering below a Néel temperature of 125 K .
+the NiO system with TN = 523 K .
+temperature TN ≈ 40 K of bulk Co3O4 makes
+and TN = 15 ± 2 K for Co3O4 nanoparticles of
+, TN = 26 K for Co3O4 nanocrystals of
+with TN ≈ 40 K for bulk Co3O4 ,
+a Neel temperature of 2.95 K . CoNb2O6 is
+. LFO possesses G - type antiferromagnetism ( TN ∼ 738 K )
+of NiAs2O4 exhibits an antiferromagnetic transition at TN = 53 K in
+, NiSb2O4 ( ref . 22 ) ( TN = 47 K )
+and CoSb2O4 ( ref . 8 ) ( TN = 79 K )
+, MnSb2O4 ( ref . 5 ) ( TN = 55 K )
+of NiAs2O4 at TN = 53 K in
+by LaFeO3 , which actually exhibits a small orthorhombic distortion ( Pbnm ; a = 5 . 5570 , b = 5 . 5652 , c = 7 . 8543 Å ) and has a Néel temperature of 750 K .
+as Co2(hypa)2(4,4′-bpy) (Fig. 24 (XI)), hypa = hydroxyphenylacetate ( TN = 15.2 K )
+, Co(HCOO)2(4,4′-bpy)·nH2O are canted antiferromagnets with TN = 7.4 K ( n = 0 ) and 3 K (
+ Schafarzikite undergoes an antiferromagnetic transition at a Néel temperature, TN , of around 45 K .
+ SrFeO2.50 is an antiferromagnet with Néel temperature reported as 673 or 715 K .
+bulk HMO has been observed experimentally below the Néel temperature of 24.5 K ,
+microcrystalline NiO is an antiferromagnetic material with a Neel temperature of 520 K .
+spinel zinc ferrite possesses a normal crystalline structure , where Zn cations occupy the tetrahedral sites , showing an antiferromagnetic order with a Néel temperature of 10 K .
+in α-Fe2O3 crystal between the Néel temperature (TN , 955 K )
+bulk NiO is an antiferromagnetic ( AFM ) material with a Néel temperature of 523 K and
+of CeMnAsO undergo an AFM ordering at high temperatures ( TN = 360 K )
+, BiFeO3 ( BFO ) with high Tc ∼ 1103 K and TN ∼ 643 K attracts
+pure BFO , the value of TN is 643 K .
+and Neel temperature (TN ∼ 370 °C ) make BFO a
+ BiCrO3 is a canted antiferromagnet with TN = 111 K with
+of BiCrO3 , we can assign the first magnetic anomaly to TN = 111 K for
+at TN = 74 K was detected on the χ ′ vs T , χ ′ ′ vs T , and dχ / dT vs T curves of BiMn0.2Cr0.8O3 ;
+with Néel temperatures of 13 K for MnTe6O13 and 21 K for CoTe6O13 .
+for Co2Te3O8 ( TN = 70 K )
+, MnNb2O6 exhibits antiferromagnetic ordering with a Néel temperature of about 4.4 K .
+( BiFeO3 or BFO ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( Nèel temperature (TN) ≈ 643 K and
+of NiO , due to their antiferromagnetic properties with a Néel point ( TN ) of 523 K are
+with TN = 120 K measured for bulk FeP .
+Bulk CoO shows an antiferromagnetic transition at the Neel temperature of 293 K .
+235 K ( or lower ) from the value of their bulk counterpart [ TN ( CoO ) ≈ 290 K
+of DyFeO3 , below the Néel temperature (TN = 645 K )
+( TN = 4 K ) of the Dy ions
+the Co3O4 spurious phase which is antiferromagnetic and has a Néel temperature of 40 K .
+a CoO phase is obtained ( suggested also by Raman measurements in Ce0 . 95Co0 . 05O2 annealed under N2 – H2 ) with a Néel temperature of 290 K .
+that lepidocrocite is antiferromagnetic below the Néel temperature of 50 K .
+, Na3Fe2(PO4)3 , and orthorhombic FePO4 , with Néel temperatures (TN) of 29 , 47 and 15 K respectively
+in ULM-4 ( TN = 25 K )
+and Na[Co2(PO4)2]·NH4·H2O , order antiferromagnetically with TN of 2 and 6 K ,
+of Co3[Co(CN)5]2·8H2O generates a microporous ferrimagnet with a TN = 38 K and
+, Mn(AOT)2 has a Neél temperature of TN = 60 K and
+for LaFeO3 to LuFeO3 , leading to the decline of TN from 750 to 640 K ,
+and C12Re2 , finding AFM , FM , FM and AFM ground states with Tn = 26 K , Tc = 29 K , Tc = 247 K and Tn = 88 K ,
+2D C12Fe2 , C12Co2 , C12Tc2 and C12Re2 , finding AFM , FM , FM and AFM ground states with Tn = 26 K ,
+low Néel temperature Tn = 88 K makes 2D C12Re2 PM
+for SrCoO2.5 brownmillerite , where a TN of 537 K was
+Bulk CoO is antiferromagnetic with a Néel temperature at 298 K .
+the Néel temperature of 298 K known for CoO .
+, BiFeO3 ( BFO ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic Neel temperature of 640 K seems
+that Sr2CrSbO6 is an antiferromagnet with a Néel temperature of 12 K with
+the LaCrO3 perovskite with TN = 282 K ;
+: Sr2FeWO6 ( TN = 37 K ) , Sr2FeSbO6 (
+, Sr2FeSbO6 ( TN = 37 K ) , Sr2CoTeO6 ( TN = 15 K )
+Whereas Sr2CrSbO6 experiences an AFM long - range ordering below TN = 12 K ,
+the Neel temperature of antiferromagnetic NdMnO3 compound is 67.2 K and
+ NdMnO3 shows a paramagnetic to antiferromagnetic phase transition with Neel temperature at 67 K .
+undoped NdMnO3 compound is found to have a paramagnetic to anti - ferromagnetic transition with TN as 67.2 K whereas
+compound Bi2Fe4O9 demonstrates the slowly increasing magnetization with decreasing temperature down to TN ∼ 250 K ,
+ α-Mn2O3 presents an antiferromagnetic behavior with a Néel temperature of 79 K .
+that NiO is an antiferromagnet in bulk form , with a Néel temperature of 520 K .
+of BiCoO3 was determined by neutron powder diffraction experiments with long - range antiferromagnetic ( AFM ) order below the Néel temperature (TN) of 470 K .
+In Ba2SmMoO6 a Jahn – Teller distortion occurs simultaneously with the onset of an antiferromagnetically ordered state at TN = 130 K .
+bulk hematite is antiferromagnetic ( AFM ) below a first - order magnetic transition temperature TM ( the Morin transition temperature , about 260 K ) and in a weak ferromagnetic ( FM ) state between TM and TN ( Néel temperature, about 950 K )
+with Néel temperatures reaching 523 K in the case of NiO and
+of Ba2CoTeO6 , though a similar Néel temperature of 19 K is
+ Sr2CoSbO5.63 also shows a lower Néel temperature of 14 K and
+ Sr2CoB′O6 for both B ′ = Mo and W has higher Néel temperatures of approximately 30 K ,
+, BiFeO3 ( BFO ) is a widely investigated multiferroic material which has a very high ferroelectric Curie temperature ( TC ∼ 1100 K ) and antiferromagnetic Nèel temperature (TN ∼ 643 K )
+the Néel temperature, TN ∼ 145 K , of Ca0.8Sr0.2MnO3 ,
+below TN ∼ 90 K , which breaks the archetypal geometrically frustrated antiferromagnetic state typically ascribed to LuMnO3 .
+hexagonal LuMnO3 which exhibits ferroelectricity ( FE ) coexisting with a geometrically frustrated canted antiferromagnetic ( C - AFM ) structure below TN ∼ 90 K .
+the Néel temperature (TN = 960 K ) , bulk α-Fe2O3 has
+and TN = 265 K for Ta7Fe3B8 .
+below TN = 240 K for Nb7Fe3B8 and
+at TN = 265 K for Ta7Fe3B8 .
+at TN = 240 K for Nb7Fe3B8 and
+and TN = 265 K for Ta7Fe3B8 .
+below TN = 240 K for Nb7Fe3B8 and
+of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+of nickel hydroxide ( Néel temperature, TN = 23 K )
+antiferromagnetic NiO ( TN = 523 K )
+of NiO possess a rhombohedral structure and exhibit antiferromagnetic behavior below 523 K ( TN )
+bulk Ni(OH)2 shows an antiferromagnetic ( AFM ) transition at the Neel temperature (TN = 30 K )
+bulk NiO is an antiferromagnetic material with a Neel temperature (TN) of 525 K ,
+ BaxCr5Se8 compounds are antiferromagnetic with TN = 58 K .
+compounds LiFePO4 and LiMnPO4 are antiferromagnets with the Neel temperatures TN ≈ 52 and 35 K ;
+at TN = 35 K and 29.5 K for H2MnOPO4 and LiMnPO4 (
+( TN ∼ 559 K for K0.8Fe1.6Se2 )
+trirutile NiSb2O6 , it was found that the χ ( T ) demonstrates a clear low - dimensional broad maximum at Tmax ∼ 40 K followed by long - range antiferromagnetic order below TN = 2.5 K .
+both CoSb2O6 samples revealed an onset of antiferromagnetic long - range order at low temperatures with approximately the same Néel temperature, as high as 11 K (
+of TlCrO3 ( TN ≈ 89 K )
+of TlCrO3 showed sharp anomalies near TN = 89 K (
+of TlCrO3 measured with a step of 0 . 2 K near TN showed that there are two transitions with close temperatures at TN2 = 87.0 K and TN1 = 89.3 K (
+in ScCrO3 with TN2 = 68 . 6 K and TN1 = 73.0 K .
+in TlCr0.9557Fe0.05O3 , that is by doping , and this compound showed only λ - type anomalies in the χ ′ vs . T curves at TN = 87.5 K (
+from TN = 288 K for LaCrO3 to
+to TN = 112 K for LuCrO3 ,
+, TN = 93 K for InCrO3 and
+of LuFeO3 ( TN = 625 K )
+to TlFeO3 ( TN = 560 K )
+and LuNiO3 ( TN = 130 K )
+and TlNiO3 ( TN = 105 K )
+manganite PrMnO3 ( TN = 100 K )
+of TlMnO3 ( TN = 92 K )
+ferrimagnets Mn3[Fe(CN)6]2 ( TN = 9.9 K vs
+and Cr3[Cr(CN)6]2·6H2O , which order magnetically at Tc = 75 K and TN = 219 K respectively
+and Cr3[Cr(CN)6]2·10H2O ( TN = 240 K )
+[ Mn ( HL ) ( H2O ) ] 2Mn [ Mo ( CN ) 7 ] 2 · 2H2O ( TN = 85 K )
+as Fe(TCNE)2·nCH2Cl2 ( n ≈ 0 . 32 ; TN ≈ 100 K )
+. LaCrO3 , known as a strongly antiferromagnetic perovskite with a Néel temperature of 320 K ,
+Bulk NiO is antiferromagnetic , having a Neel temperature of 523 K .
+whereas β-Ni(OH)2 is a metamagnet with TN ≈ 25 K .
+Bulk LiFePO4 is an antiferromagnet with Néel temperature TN = 50 K at
+, ZnCr2O4 : S = 3 / 2 , | ΘCW | = 390 K , TN = 16 K ,
+the Néel temperature TN of antiferromagnetic ( AFM ) materials such as MnO , FeO , CoO and NiO is 122 , 198 , 291 and 523 K ,
+ MnF2 , antiferromagnetic below TN = 67 K ,
+ Co3O4 has a spinel structure in which Co2 + cations reside in the tetrahedral sites and exhibit AFM ordering below TN = 40 K while
+fcc Cs3C60 , magnetic ordering is observed below TN = 2.2 K ,
+the Co3O4 nanoparticles show a magnetic anomaly at a Néel temperature 33 K as
+For Tb0.961Mn2 , the region between the first - order AFM ↔ FIM ( TN = 46 K )
+For Tb0.944Mn2 in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at TN = 40 K .
+, Tb orders magnetically at TC = 221 K and TN = 229 K ,
+, BiFeO3 ( BFO ) is one of the most studied single phase multiferroics , known as ferroelectric ( TC ∼ 1103 K ) and G - type antiferromagnetic ( TN ∼ 643 K )
+the Néel temperature of BFO ( ca . 643 K )
+ Dy undergoes helical antiferromagnetic ordering with a Néel temperature of 179 K and
+Bulk Co3O4 material exhibits antiferromagnetic ( AFM ) properties with a Neel temperature (TN) of about 40 K .
+of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+the Sm3Mn0.5GeSe7 and Sm3Fe0.5SiSe7 compounds show anti - ferromagnetic phase transitions with Néel temperatures of 13 K and 24 K ,
+and Sm3Fe0.5SiSe7 and Sm3Mn0.5GeSe7 have TN of 24 K and 13 K .
+ MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+its Néel temperature TN = 118 K MnO assumes
+hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+the V3S4 and V5S8 order antiferromagnetically below TN = 8 and 32 K .
+is BiFeO3 , probably due to two reasons : ( 1 ) its ferroelectric Curie temperature ( TC ≈ 1100 K ) and antiferromagnetic Néel temperature (TN ≈ 640 K )
+antiferromagnetic Mn2O3 with TN ≈ 40 K or
+Bulk NiO is known to be antiferromagnetic ( AFM ) below Neel temperature, TN = 523 K .
+the Néel temperature of the sample calcined at 700 ° C was 33 K , which was lower than that of the commercially available Co3O4 bulk
+the Néel temperature TN of 315 °C , where Fe1-xS is
+ Fe1-xS is an off - stoichiometric phase ( 0 ≤ x ≤ 0 . 125 ) which is paramagnetic and structurally disordered above its critical Néel temperature TN of 315 °C .
+in Fe1-xS as a function of temperature in the range 170 – 400 ° C , which extends across the known magnetostructural order – disorder transition temperature TN = 315 °C .
+and TN = 6 K can be obtained for CoNb2O6 and NiNb2O6 samples
+of TN = 3 K and TN = 6 K can be obtained for CoNb2O6 and
+the Néel temperature (TN = 3 K ) of the prepared CoNb2O6 nanoparticles
+the Néel temperature (TN = 6 K ) for the synthesized NiNb2O6 sample
+and TN = 6 K are obtained for CoNb2O6 and NiNb2O6 samples
+of TN = 3 K and TN = 6 K are obtained for CoNb2O6 and
+include V6O13 , with an antiferromagnetic Neel temperature at 155 K and
+the Néel temperature of 75 K the magnetic structure of YMnO3 can
+the TN of 75 K for the 170 nm sample is in excellent agreement with reported values for bulk YMnO3 ,
+in LaFeO3 where the tilting of the FeO6 octahedra reduces the bond angle to 157 ° , the Néel temperature is still a respectable 740 K .
+ BiFeO3 shows ferroelectricity with a high Curie temperature ( TC ) of ∼ 1103 K , and antiferromagnetic or weak ferromagnetic properties below a Neél temperature ( TN ) of 643 K .
+ Ba8Hg3U3S18 has an antiferromagnetic transition at TN = 59 K .
+ La2U2Se9 displays an antiferromagnetic transition at TN = 5 K ;
+( TN = 4.2 K ) for Cr(PO3)3 following
+the Fe(PO3)3 metaphosphate ( TN ≈ 9 K )
+, Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+, Ba2YRuO6 shows AFM ordering with TN = 37 K .
+Bulk ZnFe2O4 behaves as an antiferromagnetic material with a Néel temperature TN = 10.5 K as
+ BFO possesses a rhombohedral symmetry with a distorted perovskite structure at room temperature , a high Curie temperature ( TC ∼ 1103 K ) and a G - type antiferromagnetic Néel temperature (TN ∼ 640 K )
+pure BFO is classified as AFM with the Néel temperature of TN ∼ 640 K .
+related Ca2CoTeO6 ( TN = 10 K )
+and Sr2CoTeO6 ( TN = 15 K )
+bulk NiO is an antiferromagnetic material with a Néel temperature of 525 K ,
+ CaFeO2.5 has been reported to show G - type antiferromagnetic ordering with a Néel temperature of 725 K .
+ CaFeO2.5 is well known to be an antiferromagnetic structure of G - type ( TN = 725 K )
+because CoO is antiferromagnetic with a Neel temperature of 293 K .
+analogue CaMnO3 although this has a noticeably lower transition temperature TN = 123 K .
+phases Sr2Co2O5 ( TN = 570 K )
+and Sr2Fe2O5 ( TN = 700 K )
+Bulk hematite is weakly ferromagnetic at 298 K with a Neel temperature of 955 K and
+than Co3O4 in the bulk state ( TN - bulk = 40 K )
+of HoFeO3 , the Fe - moments order antiferromagnetically below TN = 640 K ;
+above 25 K ( inset down ) , which indicates Co0.85Se nanocrystalline is antiferromagnetic with a Neel temperature of
+with TN = 17.5 K for TbB50 and
+and TN = 4.6 K for ErB50 .
+the Néel temperature (TN ≈ 220 K ) , CuO is
+, LaFeO3 is a well characterized antiferromagnets with more high Néel temperature 740 K ,
+ Y2Ru2O7 exhibits a low spin state ( S = 1 ) with a remarkable antiferromagnetic ( AFM ) coupling of Ru4 + with a Néel temperature (TN = 77 K )
+compound Y2Ru2O7 , we found evidence of : ( i ) a large magnetoelastic coupling pointed out by a huge and broad peak in the Debye – Waller factor σ2 for the Ru – O ( 1 ) first coordination shell in the temperature region around the antiferromagnetic transition at TN ≃ 77 K ;
+, Mn5O8 was reported as an antiferromagnet with a Néel temperature of about 136 K ,
+and Cd2Mn3O8 ( TN = 10 K )
+as Ca2Mn3O8 ( TN = 60 K )
+that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+a Néel temperature at 46 K , we measured the heat capacity of Ba2CoS3 as
+a Neel temperature (TN) is 291 K and 40 K for CoO and Co3O4 ,
+as FeO , TN ≈ 200 K .
+ GdS , a model example of a Heisenberg system , is antiferromagnetic ( Neel temperature about 50 K )
+antiferromagnetic Ni(OH)2 is known to have a Neel temperature of 22.5 K and
+a Neel temperature which varies with the size of Ni(OH)2 and is found to be in the range of 22 K to 30 K .
+( TN = 141 K ) of HoCrO3 samples
+of HoCrO3 is much lower than that in the previous reports , at TN = 100.28 K .
+structure BiFeO3 ( abbreviated as BFO ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+for Ce2FeO2Se2 ( TN = 171 K from NPD data ) compared with 140 K for CeFeOAs may
+, CuO is an antiferromagnet with a Neel temperature (TN) of 230 K .
+Above Néel temperature ( about 960 K ) , Fe2O3 becomes
+The Neel temperatures judged from the both curves peak are around 40 K which is same as the bulk Co3O4 .
+and TN = 32 K for LiMnPO4 .
+, TN = 50 K for LiFePO4 and
+multiferroic BiFeO3 ( BFO ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a Néel temperature of 643 K and
+whereas Ba2NdMoO6 shows clear antiferromagnetic ordering of both the molybdenum and neodymium moments below the Néel temperature of 15 K ,
+magnetic brownmillerite is still identified ; upon increasing the temperature above TN = 250 °C ,
+on MIL-53as and MIL-53lt revealed an antiferromagnetic behaviour with Néel temperatures TN of 65 and 55 K ,
+A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+( BiFeO3 ) has gained significant attention over the past few years due to its excellent ferroelectric ( Curie temperature , Tc ∼ 1100 K ) and anti - ferromagnetic ( Néel temperature TN ∼ 643 K )
+Bulk CuO is antiferromagnetic with Néel temperatures from 213 K to 230 K .
+antiferromagnetic NiO ( TN ∼ 523 K )
+AFM NiO ( TN ∼ 523 K )
+bulk NiO is AFM with a Néel temperature of TN = 523 K ,
+antiferromagnetic NiO ( TN ∼ 523 K )
+, EuTe is a classical Heisenberg antiferromagnetic material with a Néel temperature of 9.6 K and
+bulk EuTe is antiferromagnetic with a Néel temperature of 9.6 K ,
+hierarchical FeWO4 microcrystals displayed a small ferromagnetic ordering at low temperature and the Néel temperature was 62.9 K .
+The TN was of 360 K for the pure GFO films ,
+the Néel temperature of MnO is about 118 K ,
+that UO2 is an anti - ferromagnetic ( AFM ) material at temperatures below the Neel temperature TN ∼ 30.8 K .
+, BiFeO3 ( BFO ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and Neel temperature (TN ∼ 640 K )
+bulk α-Fe2O3 crystals between the Néel temperature (TN) of ca . 955 K and
+ CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+a Néel temperature of 78 K , while the value for Zn0.2Mn0.8PS3 is 54 K .
+ SmCrO3 is reported to be ordered in Γ4 ( Gx , Ay , Fz , FRz ) configuration below TN at 191 K and
+of FexO , TN ∼ 200 K )
+the FexO core , i . e . , TN = 240 K (
+the FexO core is maintained up to roughly TN ∼ 240 K (
+ YCO is a biferroic material having canted anti - ferromagnetic ( AFM ) ordering below the Neel temperature (TN) of 140 K (
+in Fe-rich Sr2Fe1.33Mo0.67O6 ( TN ∼ 250 K )
+disordered Sr2FeMoO6 ( TN ∼ 750 K )
+lowest TN ∼ 250 K is observed for Sr2Fe(Fe0.33Mo0.67)O6 which
+valence Sr2FeMoO6 sample has TN ∼ 750 K ,
+show CuFeO2 crystals exhibit antiferromagnetic behavior , the Néel temperature (TN) about 12 K and
+the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+is RBa2Cu3O7 ( RBCO ) with Tc ∼ 92 K and TN = 2.2 K ,
+of EuPdSn determined in the present work are in good agreement with the data from Adroja and Malik ( 8 . 27 µB / Eu , Θ = 5 K and TN = 13 K )
+the Mn moments have antiferromagnetic order with TN = 35 K .
+for WZ-MnSe nanoparticles ( TN = 64 K )
+for WZ-MnS nanowires ( TN = 30 K )
+, BiFeO3 shows ferroelectricity with a high Curie temperature ( TC ) of ∼ 1103 K , and antiferromagnetic properties below a Néel temperature (TN) of 643 K .
+both SrMnO3 and LaMnO3 are antiferromagnetic with Néel temperatures of 260 and 140 K ,
+at TN = 108.4 K of the Mn4Nb2O9 single
+around TN = 108.4 K , which corresponds to the previously observed AFM transition in polycrystalline Mn4Nb2O9 ,
+the mesoporous Co3O4 behaves like an antiferromagnet with a Néel temperature, TN ∼ 30 K (
+= 40 K ( i . e . , around TN of Co3O4 )
+polycrystalline Ca2Fe2O5 is known to be a G - type antiferromagnetic compound with Néel temperature TN = 725 K ,
+bulk Ca2Fe2O5 with the Néel temperature of about 770 K which is shifted from the reported value of 725 K . Ca2Fe2O5 prepared
+the nanostructured Ca2Fe2O5 shows a drastic increase in Néel temperature to 820 K and
+bulk Ca2Fe2O5 is an antiferromagnet with Néel temperature of 775 K .
+prepared PrCrO3 samples also showed canted antiferromagnetism due to the antisymmetric Dzyaloshinskii – Moriya interaction induced spin canting of the Cr3 + moments and magnetic order of the Cr3 + moments at TN = 238.7 K .
+of PrCrO3 have Neel temperature TN = 198.52 K ,
+at TN = 219.6 K for NdCrO3 ,
+The Néel temperature of Ba2PrRuO6 is 117 ± 3 K and
+The Néel temperature of Ba2PrRu0.90Cu0.10O6 is confirmed to be 110 ± 3 K ,
+only Er2Si2O7 was characterized ; it behaves antiferromagnetically with an ordering temperature TN = 1.9 and 2.5 K for
+than TN = 40 K reported for bulk Co3O4 .
+of Co3O4 nanoparticles from TN = 25 K for the Co3O4 - 300 - 1 sample to TN = 31 K for
+bulk α-Fe2O3 behaves as an antiferromagnet with a Neel temperature (TN) of about 960 K .
+, 15R-BaFeF0.2O2.42 , shows drastically enhanced antiferromagnetic ordering with a Néel temperature (TN) of ≈ 700 K ,
+The Co2(OH)PO4 phase is the first three - dimensional ( TN ≈ 70 K )
+with Sr2Fe2O5 , TN = 693 K .
+with TN = 232 K for un - doped Sr4Fe4O11 .
+, Sr2Fe2O5 has TN = 693 K .
+, TN , which is very near the value for un - doped Sr4Fe4O11 of 232 K .
+the Néel temperature of 328 K for YFMO ,
+in Néel temperature from 42 to 328 K in YFMO is
+the Néel temperatures of about 328 K for YFMO and
+ CuO nanoparticles with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show Neel temperatures of 30 and 13 K ,
+the Eu2O3 NBs was first observed with TN ≈ 46 K ,
+is BiFeO3 ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic Néel temperature around 640 K are
+of Fe(PO3)3 only the region above the ordering temperature , TN = 7.8 K ,
+stoichiometric BiMnO2.99 ( 2 ) sample is a ( canted ) antiferromagnet with the Neel temperature TN of 30 K ,
+of BiMnO2.99 ( 2 ) were interpreted as due to the long - range ( canted ) antiferromagnetism with TN = 30 K .
+( BiFeO3 ) has garnered significant attention over the past few years due to its outstanding ferroelectric ( Curie temperature , Tc ∼ 1100 K ) and antiferromagnetic ( Néel temperature, TN ∼ 643 K )
+ BFO exhibits ferroelectric ( FE ) behavior with a Curie temperature ( TC ) of 1103 K and an antiferromagnetic ( AFM ) property with a Néel temperature (TN) of 643 K that
+, γ-Fe2O3 exhibits ferrimagnetic ordering with a net magnetic moment ( 2 . 5 μB per formula unit ) and a high Néel temperature ( approximately 950 K )
+( BiFeO3 ) , which exhibits ferroelectric behaviour below TC = 830 ° C and antiferromagnetism with a Neel temperature TN = 370 °C .
+corresponding Néel temperatures of 3 . 1 , 7 . 3 , and 8.6 K for SmFeSb3 , GdFeSb3 and TbFeSb3 ,
+for TbFeSb3 , where the Néel temperature of 8.8 K is
+the Néel temperature (TN = 963 K ) and the Morin temperature ( TM = 260 K ) , Fe2O3 is
+the Néel temperature (TN = 198 K ) , FeO is
+with Néel temperatures below 33 K ( the Néel temperature of the cobalt spinel , Co3O4 )
+in LiMnPO4 ( ref . 54 and 55 ) Mn2 + spins align along the a - axis below TN = 34 K .
+of LiFePO4 , below TN = 50 K ,
+( TN ) is reduced from the bulk value of 230 K to 58 K as the size of the CuO nano
+a 5 nm CuO assembly ( TN ~ 30 K )
+near TN1 ∼ 85 K ( the Mn ordering
+the Néel temperature (TN1 = 85 K ) while the Yb moments at the 4b crystallographic site order due to the Mn molecular
+– Yb interactions below TN2 ∼ 3.5 K .
+below TN2 ∼ 3.5 K induces magnetic transition at a critical field of H | | c ∼ 35 kOe ( ref . 9 ) due to the spin - flip / reorientation of the Yb (
+transition TN1 ∼ 85 K and ferromagnetic transition TN2 ∼ 3 . 5 K which correspond to the long range magnetic ordering of Mn and
+transition TN2 ∼ 3.5 K which correspond to the long range magnetic ordering of Mn and Yb ions
+undoped YbMnO3 , higher value of TN1 ( 89 K for x = 0 . 05 and 85 K for
+the Yb ordering temperature TN2 ≈ 3.5 K for
+ BiFeO3 ( BFO ) is an important multiferroic material due to its high Curie ( TC ∼ 850 ° C ) and Néel temperature (TN ∼ 397 °C )
+in TN from 85 K for YbMnO3 (
+rhombohedral BiFeO3 , TN ≈ 645 K .
+the Néel temperatures for the normal ZnFe2O4 , ZnCr2O4 , FeCr2O4 and NiCr2O4 spinels are as low as 10.5 K ,
+that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
+that MnSb2Se4 has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a Néel temperature of approximately 20 K ,
+a Néel temperature of approximately 20 K is only observed for the MnSb2Se4 sample
+bulk FeO is antiferromagnetic with a Néel temperature of 198 K ,
+, SFWO is an antiferromagnetic ( AFM ) and insulator material showing a Neel temperature around 37 K .
+for DMO , a sinusoidal antiferromagnetic ( AFM ) Mn spin order develops at TN ∼ 39 K ,
+ β-(BDA-TTP)2FeCl4 at ambient pressure exhibited a metal – insulator ( MI ) transition at 113 K and underwent antiferromagnetic ordering with a Néel temperature of about 8.5 K .
+ LiFePO4 exhibits antiferromagnetic ordering along [ 010 ] , with a Néel temperature of 52 K , and LiMnPO4 orders at 35 K along
+, LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
+why BiFeO3 has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high Néel temperature at 640 K .
+, Li3Ni2SbO6 orders antiferromagnetically at TN ∼ 15 K .
+: Ca2CoTeO6 and Sr2CoTeO6 double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with TN = 10 and 15 K for
+higher TN ( it is a canted antiferromagnet ) of 950 K . γ-Fe2O3 ( maghemite ) has a TC of 920 K , and converts to hematite when
+In TlNiO3 the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced Néel temperature of 104 K ,
+the RNiO3 series , typically exhibiting Néel temperatures around 200 K .
+normally non-magnetic Cr metals ( Neel temperature, TN = 311 K )
+< TN ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , Cr2O3 = 307 K (
+( BiFeO3 – BFO ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+, BiFeO3 ( BFO ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a Néel temperature of around 643 K .
+- Fe2O3 shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ 260 K ) and Néel temperature (TN = 948 K )
+pure SFO5 and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a TN = 74 K and 45 K ,
+, Pb2.4Ba2.6Fe2Sc2TiO13 demonstrates 3D short - range antiferromagnetic correlations below TN ≈ 45 K ,
+the Néel temperature of 953 K , α-Fe2O3 is
+ Iron phenylphosphonate exhibits long - range 3D antiferromagnetic ordering , coupled with weak ferromagnetic behaviour below its Néel temperature of 21.5 K .
+ β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+both UO2 ( TN = 30.8 K ,
+and UN ( TN = 53 K ,
+ CrCl3 layers are stacked antiferromagnetically with a Néel temperature (TN) of 16.8 K ,
+ Rare earth orthoferrites RFeO3 are well known for their high Neel temperature (TN ∼ 620 K )
+the LaFeO3 system is either weakly ferromagnetic ( WFM ) or antiferromagnetic ( AFM ) with a Néel temperature TN ∼ 477 °C .
+for La2O2SO4 at low temperature with a Néel temperature TN = 60 K may
+ TeNiO3 shows an antiferromagnetic ordering below TN ≈ 130 K ;
+compound SeNiO3 , with TN ≈ 104 K .
+in TeNiO3 , with TN ≈ 130 K .
+antiferromagnetic Néel temperature of 643 K . Béa and Ju have used the multiferroic BiFeO3 epitaxial
+from TN = 22 K for LCP to
+to TN = 52 K for LFP (
+ CoO exhibits type II antiferromagnetism ( AFM - II ) below its Néel temperature of 291 K .
+at TN = 12.3 K of β-Co(OH)2 and
+that SrFeO2 is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high Néel temperature (TN = 473 K )
+ Hematite is known to exhibit canted antiferromagnetic property above the Morin transition at 260 K and below its Néel temperature at 956 K .
+ BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+. YMnO3 is antiferromagnetic below the Néel temperature (TN) 80 K and
+is BiFeO3 ( TN = 670 K ,
+ YCrO3 shows canted antiferromagnetism ( TN = 140 K )
+, Sr2Cu(PO4)2 is a quasi - one - dimensional Heisenberg antiferromagnet with a Néel temperature of TN = 0.085 K ,
+confirm La2CoRuO6 is an antiferromagnetic variable range hopping semiconductor with a Neel temperature of 25 K .
+show La2CoRuO6 to be an antiferromagnetic VRH semiconductor with a Neel temperature of 25 K .
+lower TN = 25 K for La2CoRuO6 is
+show La2CoRuO6 to be an antiferromagnetic VRH semiconductor with a Neel temperature of 25 K .
+bulk NiO is antiferromagnetic with a Néel temperature , TN , of around 520 K , typically TN is
+ BiFeO3 shows ferroelectricity ( TC = 826 – 845 ° C ) and antiferromagnetism ( TN = 370 °C )
+bulk CoO this drop should occur at TN ∼ 290 K ,
+antiferromagnetic CoO , TN ∼ 290 K )
+of CuSe2O5 are antiferromagnetic with a Néel temperature of 17 K as
+( BiFeO3 ) is a representative of single - phase multiferroic materials , which displays antiferromagnetic order below TN ∼ 643 K and
+the α-TiCl3 phase a magnetic moment corresponding to 1 . 31 BM has been measured at 300 K with a Neel temperature of 165 K and
+, α-Fe2O3 shows antiferromagnetic nature below Morin temperature ( TM = 263 K ) and can exhibit weak ferromagnetic behavior between 263 K ( TM ) and 960 K i . e . at Neel temperature (TN) due
+the Néel temperature of 7.5 K in NP-CePdSn decreases to 5 K in HP-CePdSn .
+< TN < 963 K ) , bulk α-Fe2O3 is
+ FePbBiO4 orders antiferromagnetically with a Néel temperature of 24 K ;
+for FePbBiO4 are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a Néel temperature of 24 K ;
+since TN ( 24 K ) is significantly lower than that for FeSb2O4 , 46 K .
+in YNiO3 ( TN = 145 K )
+the Néel temperature (TN = 105 K ) in antiferromagnetic TlNiO3 is
+as YNiO3 ( TN = 145 K )
+and LuNiO3 ( TN = 130 K )
+of TlNiO3 is that the Neel temperature (TN = 105 K )
+in YNiO3 ( Ni – O – Ni bond angle = 147 . 3 ° , TN = 145 K )
+for TlNiO3 ( TN = 105 K )
+ o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+In o-YbMn0.5Fe0.5O3 , a weak ferromagnetism below TN = 298 K ,
+and YCaCrO4 are reasonably deduced to be TN = 170 K and 140 K ,
+of Ca2MnO4 occurs at 110 K , Néel temperatures of
+For LaSrCrO4 and YCaCrO4 , the g - values increase at around TN of 242 K and 140 K ,
+and Neel temperature of 996 K , α-Fe2O3 can
+for Ca2CoTeO6 below TN = 10 K ,
+For Sr2CoTeO6 , an antiferromagnetic ordering is displayed below TN = 15 K ,
+of Sr2CoWO6 showed it to be an insulating antiferromagnet ( TN = 24 K )
+for Ca2CoTeO6 ( TN = 10 K )
+. Sr2CoTeO6 ( TN = 15 K )
+– FeTiO3 core – shell structure indicated a strong exchange bias mechanism with magnetic coercivity below the antiferromagnetic Neel temperature (TN = 59 K )
+the Néel temperature by 12 K that is observed with respect to LiMn1.5Ni0.5O4 .
+analogous iron monoxide has essentially a defect NaCl structure at room temperature , which distorts rhombohedrally along the [ 111 ] direction below the Néel temperature, TN = 198 K .
+the TN1 values increase monotonically with rare - earth cationic ( R3 + ) radius from 110 K for LuCrO3 to 288 K for LaCrO3 ,
+about 3 K , 10 K , 8 K and 13 K ascribed to TN2 in PrCrO3 ,
+for PrCrO3 , the maximum point of the FC magnetization is difficult to identify , but the value of TN2 = 3 K also
+the Néel temperature TN1 increases monotonically with the rare - earth ionic radius from 110 K for LuCrO3 to 288 K for LaCrO3 .
+type Co2SiO4 with a Néel temperature (TN) of 49 K .
+ Co2SiO4 has a TN of 49.5 K ,
+ Co3O4 is an AFM material with a TN of 40 K ,
+Metallic Mn , MnO and MnO2 are all AFM below the Neel temperature of 100 K , 116 K and 84 K respectively
+of SrFeO2.50 relative to the mixture of the binary constituent oxides is large even far below TN = 685 K due
+ SrFeO2.50 is an antiferromagnet with Néel temperature reported as 673 or 715 K .
+ SrFeO2.5 is magnetically ordered below TN ≈ 700 K and
+ SrFeO2.75 is reported to disorder magnetically at TN ≈ 220 K and
+of SrFeO2.50 relative to the mixture of the binary constituent oxides is large even far below TN = 685 K due
+bulk TN = 307 K for Cr2O3 and
+for Sr2Al1.07Mn0.93O5 shows a peak at TN ∼ 105 K (
+But zinc ferrite in the bulk is known to be ferrimagnetic only below the Néel temperature (TN = 10 K )
+predict Néel temperatures exceeding 100 K for the case of Mn .
+is MnO which displays AFM order with TN = 118 K .
+analogue copper acetate , where TN ∼ 280 K .
+. FeO shows a rather high TN of 195 K .
+Bulk MnO has a Néel temperature (TN) of 118 K .
+to TN ( 195 K ) of FeO ; for example , 173 K in Mn0.29Fe0.71O NPs , and 157 K in Mn0.50Fe0.50O NPs .
+bulk hematite is antiferromagnetic ( AFM ) below the Morin transition temperature TM ( about 260 K ) and is in a weak ferromagnetic ( FM ) state between TM and TN ( Néel temperature, about 950 K )
+if NiO experiences rhombohedral distortion ( ∼ 0 . 1 % ) below the Néel temperature (TN TNiON ∼ 523 K )
+bulk α-Fe2O3 , spins exist between the Néel temperature (TN) of approximately 955 K and
+, BiFeO3 ( BFO ) has been widely studied owing to its unique room - temperature ( RT ) multiferroic properties with a high Curie temperature ( Tc ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+in YMnO3 are naturally antiferromagnetic domain boundaries below the Néel temperature (TN = 80 K )
+the Néel temperature of bulk CoO is 293 K ,
+a Néel temperature of about 100 K , which is obviously lower than 293 K of bulk CoO .
+> Co ( TN = 10.17 K )
+order Fe ( TN = 12 K )
+> Mn ( TN = 3.4 K )
+as MnO and MnO2 ) are well known to be antiferromagnetic below the Neel temperature of 116 and 84 K ,
+( NiO ) is an important antiferromagnetic insulator with a Neel temperature of 523 K and
+( NiO ) is an antiferromagnetic ( AFM ) insulating material having a Néel temperature (TN = 520 K )
+perovskites LaFeO3 and LaMnO3 are antiferromagnetic ( AFM ) insulators in bulk form with Néel temperature (TN) 740 K and 140 K respectively
+compound Co4(OH)5(1a)0.5,H2O orders ferrimagnetically at TN = 9 K .
+at TN = 6.8 K for MY10 ⊂ Co , 14.3 K for MO ⊂ Co , 16.8 K for MR ⊂ Co and 18.2 for OrangeIV ⊂ Co .
+hexagonal LuMnO3 system which exhibits multiferroic behavior below the Néel temperature (TN ∼ 90 K )
+≈ 200 K , TN of FeO ,
