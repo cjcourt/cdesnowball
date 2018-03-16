@@ -249,7 +249,7 @@ magnetic_blacklist = (I('Morin') | I('RE') | R('^[P|p]erovskite(s)?') | R('^[o|O
                       I('Oxy-anions') | I('oxy-anion') | I('transition-metal') | I('rare-earth') | R('^CO$') | I('ferrous') |
                       I('ferro-') | I('ferro') | I('ferri-') |
                       ((I('Ti') | I('Fe') | I('Mn')) + R('\-') + (I('poor') | I('rich'))) |
-                      (I('ferroelectric') + I('oxides')) | (I('[') + OneOrMore(R('^\d.?$')) + I(']')))
+                      (I('ferroelectric') + I('oxides')) | (I('[') + OneOrMore(R('^\d.?$')) + I(']')) | I('ferromagnets') | I('antiferromagnets') | I('ferromagnet') | I('antiferromagnets'))
 
 # Magnetic names, common cems found in magnetism literature - added by cc889
 magnetic_name = (W('La1/3Ca2/3MnO3') | I('β-MnS') | I('α-MnS') | I('BFSMO') | I('BFO') | I('BF') | I('LCO') | I('BLFMO') | I('RE–BFO') | I('LFP') | I('LCP') | W('Pb(Fe2/3W1/3)O3') | (I('bismuth') + (I('ferrites') | I('chromites'))) | W('Pb(Fe2/3W1/3)O3') | I('LSMO') | (I('Mn') + R('\-') + I('Pp0')))

@@ -255,16 +255,15 @@ class Text(collections.Sequence, BaseText):
         return NotImplemented
 
 
-
 class Title(Text):
-    parsers = [CompoundParser()]
+    parsers = []#[CompoundParser()]
 
     def _repr_html_(self):
         return '<h1 class="cde-title">' + self.text + '</h1>'
 
 
 class Heading(Text):
-    parsers = [CompoundHeadingParser(), ChemicalLabelParser()]
+    parsers = []#[CompoundHeadingParser(), ChemicalLabelParser()]
 
     def _repr_html_(self):
         return '<h2 class="cde-title">' + self.text + '</h2>'

@@ -46,7 +46,7 @@ This will initiate the training sequence. Creating the extraction patterns as .p
 To use this updated ChemDataExtractor toolkit you must first have the latest ChemDataExtractor build installed
 and running. The latest version is available [here](http://chemdataextractor.org/download).
 
-Next, save this source code as CDESnowball in your local python3
+Next, clone this github repository and save as CDESnowball in your local python3
 site-packages directory. Or simply use the code in your own project.
 
 Recommended toolkit usage is with the [magdb](https://github.com/cjcourt/magdb) database creation package.

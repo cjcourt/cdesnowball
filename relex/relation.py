@@ -26,7 +26,7 @@ class Relation:
         self.value_regex = r'\s' + re.escape(self.value) + r'\s'
 
     def print(self):
-        return print(self.compound, self.value, self.units)
+        return print(self.compound, self.value, self.units, self.confidence)
 
 
 

@@ -27,7 +27,7 @@ from .figure import Figure
 from ..errors import ReaderError
 from ..model import ModelList, StringType
 from ..text import get_encoding
-
+from .element import CaptionedElement
 
 
 
@@ -368,7 +368,7 @@ class Document(BaseDocument):
     @property
     def captioned_elements(self):
         """Return all Captioned Elements in this Document."""
-        return [el for el in self.elements if isinstance(el, BaseCaptionedElement)]
+        return [el for el in self.elements if isinstance(el, CaptionedElement)]
 
     @property
     def abbreviation_definitions(self):
