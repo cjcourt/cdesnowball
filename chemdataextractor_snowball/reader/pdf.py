@@ -23,7 +23,7 @@ import six
 from ..doc.document import Document
 from ..doc.text import Paragraph
 from .base import BaseReader
-from ..errors import ReaderError
+from chemdataextractor_snowball.errors import ReaderError
 
 
 class PdfReader(BaseReader):

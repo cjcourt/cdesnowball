@@ -14,11 +14,11 @@ import re
 import sys
 
 import click
-from ..nlp.lexicon import ChemLexicon
-from ..nlp.tokenize import ChemWordTokenizer
+from nlp.lexicon import ChemLexicon
+from nlp.tokenize import ChemWordTokenizer
 
-from ..nlp.tag import DictionaryTagger
-from ..nlp.cem import CsDictCemTagger, CiDictCemTagger, STOPLIST, STOP_SUB, STOP_TOKENS
+from nlp.tag import DictionaryTagger
+from nlp.cem import CsDictCemTagger, CiDictCemTagger, STOPLIST, STOP_SUB, STOP_TOKENS
 
 
 try:

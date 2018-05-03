@@ -1,0 +1,278 @@
+(Co, 1394, K, 1)
+( <CEM1> ) is superior to other ferromagnetic materials because of its highest <SPECIFIER1> of about <VALUE1> <UNIT1> , 
+<SPECIFIER1> is continuously decreased as the Pt - content increases from <VALUE1> <UNIT1> for pure <CEM1> to 
+
+(Sr2CrWO6, 458, K, 1)
+, <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(BiFeO3, 1103, K, 1)
+<CEM1> ( BFO ) as one kind of the very rare room temperature multiferroic materials , has attracted a considerable amount of interest because of its high <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+, <CEM1> is antiferromagnetic ( TN = 643 K ) and ferroelectric ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(La0.7Sr0.3MnO3, 370, K, 1)
+the <CEM1> is one which has the greatest interest in technical as well as in biomedical fields because of its high transition temperature ( <SPECIFIER1> ≈ <VALUE1> <UNIT1> ) 
+
+(LiNbO3, 1142–1210, °C, 1)
+conditions <CEM1> possesses relatively large piezoelectric ( see d15 in Table 1 ) and electro - mechanical coupling coefficients , a pre - requisite for efficient energy conversion , and a very high <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(Prussian blue, 5.6, K, 1)
+at <VALUE1> <UNIT1> , and in the 1990s , various <CEM1> analog - based magnets MAII [ CrIII ( CN ) 6 ] 2 / 3 · zH2O ( MA = V , Cr , Mn , Ni , Cu ) were reported to exhibit high <SPECIFIER1> . 
+
+(MnO2, 50, °C, 1)
+<CEM1> also exhibits ferroelectric <SPECIFIER1> near <VALUE1> <UNIT1> . 
+
+(LaSr-2 × 4 manganese oxide NWs, 500, K, 1)
+sieve <CEM1> with enhanced <SPECIFIER1> > <VALUE1> <UNIT1> ) 
+
+(maghemite, 948, K, 1)
+the <SPECIFIER1> of <VALUE1> <UNIT1> , <CEM1> is 
+
+(La0.9Te0.1MnO3, 239, K, 1)
+of <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(La2Ti2O7, 1500, °C, 1)
+( <CEM1> has the highest known <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+isostructural <CEM1> and Nd2Ti2O7 possess a very high <SPECIFIER1> ≈ <VALUE1> <UNIT1> ) 
+, <CEM1> ( LTO ) is the most studied and is reported to be a ferroelectric material with a very high <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(La0.65Ba0.35MnO3, 362, K, 1)
+example <CEM1> has a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(La0.82Sr0.18MnO3, 42, °C, 1)
+is <CEM1> , their mean diameter 54 nm and their <SPECIFIER1> <VALUE1> <UNIT1> according 
+
+(CaBi2Me2O9, 870, °C, 1)
+layer <CEM1> and <CEM2> ( Me = Nb , Ta ) , have ultra - high <SPECIFIER1> ( > 850 ° C ) , between <VALUE1> and <VALUE2> <UNIT1> . 
+
+(Ge0.95Mn0.05 quantum dots, 400, K, 1)
+free <CEM1> with <SPECIFIER1> up to <VALUE1> <UNIT1> [ 
+
+(PbTiO3, 490, °C, 1)
+A <CEM1> crystal with good quality was grown by Kobayashi with <SPECIFIER1> = <VALUE1> <UNIT1> . 
+to <CEM1> , <SPECIFIER1> ≈ <VALUE1> <UNIT1> . 
+( <CEM1> ) , which is of high <SPECIFIER1> ( about <VALUE1> <UNIT1> ) 
+<CEM1> is also a perovskite that crystallizes with a tetragonal symmetry ( S . G . : P4mm , No . 99 ) , with good ferroelectric properties ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+( <CEM1> , PT ) is a prototype ferroelectric with a high <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(55DMBP–H2ca, 345, K, 1)
+as <CEM1> and is an antiferroelectric below <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(VII2[MoIII(CN)7](pyrimidine)2·4.5H2O, 110, K, 1)
+namely <CEM1> , with the fairly high <SPECIFIER1> of <VALUE1> <UNIT1> whose 
+
+(CO2, 304, K, 1)
+is <CEM1> , which is nonflammable , nontoxic , low cost , and can readily accessed at relatively low temperatures and pressures , i . e . <SPECIFIER1> = <VALUE1> <UNIT1> and 
+
+(cobalt nanoparticles, 1100, °C, 1)
+( <SPECIFIER1> = <VALUE1> <UNIT1> ) is associated with pure <CEM1> . 
+
+(Thiourea, 169, K, 1)
+<CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(tetragonal heavy-atom bisdiselenazolyl radical 1a, 17, K, 1)
+the <CEM1> ( Fig . 1 ) , which displays an ordering ( Curie ) temperature <SPECIFIER1> near <VALUE1> <UNIT1> and 
+
+(BaTiO3, 120, °C, 1)
+of <CEM1> forms on cooling the product through the <SPECIFIER1> of <VALUE1> <UNIT1> where 
+
+(PFN–PYN–PT crystal, 325, °C, 1)
+grown <CEM1> possesses a high <SPECIFIER1> of <VALUE1> <UNIT1> and 
+
+(Yb14MnSb11, 53, K, 1)
+as <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Na0.5Bi0.5TiO3 ceramics, 280, °C, 1)
+In <CEM1> the rhombohedral to tetragonal transition temperature ( TR – T ) appears near 190 ° C , and the <SPECIFIER1> at <VALUE1> <UNIT1> . 
+
+(LSMO, 50, °C, 1)
+as <CEM1> , whose <SPECIFIER1> ( around <VALUE1> <UNIT1> ) 
+
+(BNT, 320, °c, 1)
+<CEM1> shows promising ferroelectric properties , such as a large remnant polarization ( Pr ) of 38 μC cm - 2 , and high <SPECIFIER1> of <VALUE1> <UNIT1> . 
+, <CEM1> ) is considered to be a promising candidate of lead - free piezoelectric ceramics , which exhibits excellent ferroelectric properties with large remnant polarization of 38 μC cm - 2 and high <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(NiMn2O4 nanoparticles, 126, K, 1)
+reported <SPECIFIER1> values between 122 K and <VALUE1> <UNIT1> . <CEM1> obtained via the co - precipitation route show a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(Ag2Nb4O11 ceramics, 400, K, 1)
+<CEM1> appear to be ferroelectric with a maximum permittivity of ∼ 150 at <SPECIFIER1> ≈ <VALUE1> <UNIT1> , 
+
+(CoCr2S4, 240, K, 1)
+for <CEM1> , which is a ferrimagnet with <SPECIFIER1> ≈ <VALUE1> <UNIT1> . 
+
+(Ca2CrSbO6, 16, K, 1)
+<CEM1> exhibits ferromagnetic long - range order below <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(ruthenium, 230, K, 1)
+to <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> ( 
+
+(La0.8Sr0.2MnO3 particles, 48, °C, 1)
+for <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(nickel, 358, °C, 1)
+lowest <SPECIFIER1> amongst common materials is <VALUE1> <UNIT1> for <CEM1> – 
+
+(ε-Fe2O3, 495, K, 1)
+. <CEM1> has an orthorhombic structure ( Pna21 ) and exhibits a ferromagnetic feature ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(PKN, 460, °C, 1)
+<CEM1> has a high Curie Temperature : <SPECIFIER1> ≈ <VALUE1> <UNIT1> . 
+
+(CrO2, 390, K, 1)
+<CEM1> represents a special binary oxide having a peculiar ferromagnetic structure with a <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(Nd2Fe14B, 312, °C, 1)
+intermetallic <CEM1> phase ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Fe1.25Pt0.75Mo3N, 225, K, 1)
+example <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> , 
+
+(Rb2ZnCl4, 198.3, K, 1)
+<CEM1> is a well - studied member of the A2BX4 - family and exhibits an incommensurate ( INC ) phase between Ti = 303 K and <SPECIFIER1> = <VALUE1> <UNIT1> where 
+
+(KNLNT, 310, °C, 1)
+processed <CEM1> ( Fig . 17a ) , a sharper peak in the permittivity around the <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(nickel hexacyanochromate, 60, K, 1)
+the <CEM1> bulk compound ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(bismuth ferrite based polycrystalline ceramics, 650, °C, 1)
+processed <CEM1> with <SPECIFIER1> up to <VALUE1> <UNIT1> and 
+
+(CrO1.90F0.10, 300, K, 1)
+that <CEM1> and CrO1 . 88F0 . 12 are FM with a <SPECIFIER1> of about <VALUE1> <UNIT1> and 
+
+(NiMn2O4, 145, K, 1)
+reported <SPECIFIER1> values between 122 K and <VALUE1> <UNIT1> . <CEM1> obtained via the co - precipitation route show a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(MnII3[CrIII(CN)6]2·12H2O Prussian blue analog, 63, K, 1)
+the <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Fe3O4, 850, K, 1)
+( <CEM1> ) has recently attracted much attention due to its high <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+, <CEM1> is still promising due to its high spin polarization and favorable <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+the <SPECIFIER1> <VALUE1> <UNIT1> , of bulk <CEM1> . 
+
+(La0.75Sr0.25MnO3 particles, 56, °C, 1)
+by <CEM1> was 46 . 3 ° C ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(cobalt cations, 75, K, 1)
+from <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> up 
+
+(D = H2ca, 253, K, 1)
+the <SPECIFIER1> I = <VALUE1> and 138 <UNIT1> for <CEM1> and 
+the <SPECIFIER1> = <VALUE1> and 138 <UNIT1> for <CEM1> and 
+
+(K2Cr8O16, 225, K, 1)
+of <CEM1> with a monoclinic structure ( a = 13 . 820 Å ; b = 2 . 941 Å ; c = 9 . 772 Å and β = 135 ° ) with C2 / m symmetry and reported a <SPECIFIER1> = <VALUE1> <UNIT1> at 
+a <CEM1> sample with <SPECIFIER1> = <VALUE1> <UNIT1> that 
+
+(cobalt, 1390, K, 1)
+a <SPECIFIER1> as high as <VALUE1> <UNIT1> in the case of <CEM1> . 
+
+(GdFeO3, 2.5, K, 1)
+the <SPECIFIER1> = <VALUE1> <UNIT1> ) and the presence of weak ferromagnetism indicate that <CEM1> is 
+
+(Sr2CrMoO6, 450, K, 1)
+and <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(gadolinium, 293, K, 1)
+using <CEM1> as an archetypical work material with <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(La2ZnRuO6, 165, K, 1)
+ordered <CEM1> evidences weak ferromagnetism below a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(Fe3O4, 860, K, 1)
+the <SPECIFIER1> of magnetite ( <CEM1> ) is <VALUE1> <UNIT1> ( 
+
+(Mn3O4, 44, K, 1)
+ferrimagnetic <CEM1> , which displays a <SPECIFIER1> of <VALUE1> <UNIT1> and 
+
+(CoS2, 116, K, 1)
+<CEM1> is ferromagnetic with a <SPECIFIER1> of <VALUE1> <UNIT1> and 
+
+(nickel hydroxide nanospheres, 16.5, K, 1)
+amorphous <CEM1> present ferromagnetism below the <SPECIFIER1> of <VALUE1> <UNIT1> , 
+the <SPECIFIER1> point from these data to be at <VALUE1> <UNIT1> for the amorphous <CEM1> as 
+amorphous <CEM1> with ferromagnetism below the <SPECIFIER1> of <VALUE1> <UNIT1> accompanied 
+amorphous <CEM1> have been synthesized by a simple and green electrochemical approach , and the corresponding SQUID measurements showed that the synthesized amorphous Ni ( OH ) 2 nanospheres are ferromagnetic with a maximum coercive field around 630 Oe between - 7500 and 7500 Oe , and the residual magnetization is 21 . 2 emu g - 1 at 5 K and the <SPECIFIER1> is <VALUE1> <UNIT1> . 
+
+(0.20PYN–0.40PMN–0.40PT, 180, °C, 1)
+composition <CEM1> possesses excellent electric properties such as <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(Gd, 294, K, 1)
+metallic <CEM1> which orders ferromagnetically at <VALUE1> <UNIT1> ( <SPECIFIER1> ) 
+elemental <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Co5(OH)8L2·nH2O, 60, K, 1)
+) <CEM1> which are ferrimagnets with <SPECIFIER1> of <VALUE1> <UNIT1> and 
+
+(Bi3TiMeO9, 943, °C, 1)
+layer <CEM1> and <CEM2> ( Me = Nb , Ta ) , have ultra - high <SPECIFIER1> ( > 850 ° C ) , between <VALUE1> and <VALUE2> <UNIT1> . 
+
+(LiTaO3, 583, K, 1)
+ferroelectric <CEM1> and <CEM1> single crystals with different angles of polarization axis , and multi domain PSZT ( heated at 873 K higher than the <SPECIFIER1> of <VALUE1> <UNIT1> ) 
+
+(4(p-Chlorobenzylideneamino)-2,2,6,6-tetramethylpiperidine-N-oxyl, 0.28, K, 1)
+<CEM1> is a ferromagnetic TEMPO derivative ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(KNBN-La, 360, °C, 1)
+the <CEM1> ceramics , with a ferroelectric to paraelectric phase transition temperature ( <SPECIFIER1> ) of about <VALUE1> <UNIT1> . 
+and <SPECIFIER1> of the <CEM1> decreases to <VALUE1> <UNIT1> . 
+the <CEM1> ceramics , with a <SPECIFIER1> of about <VALUE1> <UNIT1> . 
+
+(Nickel, 627, K, 1)
+the <CEM1> and Co nanomaterials are higher than 350 K ( bulk <CEM1> : <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(La0.7Sr0.3MnO3, 371, K, 1)
+: <SPECIFIER1> decreases rapidly from <VALUE1> <UNIT1> for <CEM1> to 
+
+(Sr3Fe2UO9, 330, K, 1)
+Below <SPECIFIER1> = <VALUE1> <UNIT1> , <CEM1> is 
+
+(EuS nanocrystals, 15, K, 1)
+the <CEM1> show a transition temperature <SPECIFIER1> at around <VALUE1> <UNIT1> ( 
+
+(LSMO@siF@si-w, 340, K, 1)
+the <SPECIFIER1> = <VALUE1> <UNIT1> , determined on the dry sample of <CEM1> . 
+
+(bimetallic Mn–Ru2 carbonate, 3.0, K, 1)
+a <CEM1> soft magnet ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(R2Ru2O7 pyrochlores, 100, K, 1)
+, <CEM1> have been reported to be ferromagnets with higher magnetic ordering temperatures ( <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+
+(LiNbO3, 583, K, 1)
+ferroelectric <CEM1> and <CEM1> single crystals with different angles of polarization axis , and multi domain PSZT ( heated at 873 K higher than the <SPECIFIER1> of <VALUE1> <UNIT1> ) 
+
+(Ag2Nb4O11, 400, K, 1)
+
+(SrFe12O19, 470, °C, 1)
+, <CEM1> , has , unlike the equivalent and more commonly used compound BaFe12O19 , additional advantages such as its composition of non - toxic elements , a theoretical magnetic moment of 20 . 6 μB per unit cell , and a <SPECIFIER1> around <VALUE1> <UNIT1> . 
+
+(substituted iron oxides, 100, °C, 1)
+though <CEM1> have their <SPECIFIER1> above <VALUE1> <UNIT1> , 
+
+(Ni, 627, K, 1)
+the <CEM1> and Co nanomaterials are higher than 350 K ( bulk <CEM1> : <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(Ln–TM–B, 140, °C, 1)
+amorphous <CEM1> ( amorphous Nd – Fe – B phase , <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(BiMnO3, 100, K, 1)
+of <CEM1> ( <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+
+(BaTiO3, 393, K, 1)
+<CEM1> has an ideal cubic ABO3 perovskite structure above the <SPECIFIER1> , <VALUE1> <UNIT1> ) 
+
+(PbTiO3 crystal, 490, °C, 1)
+
+(LiNbO3, 1500, K, 1)
+crystalline <CEM1> has a <SPECIFIER1> of about <VALUE1> <UNIT1> . 
+
+(MnO, 42, K, 0.8758726623532929)
+, <CEM1> is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of TN = 118 K , Mn3O4 shows a ferrimagnetic ( FiM ) behavior at <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(La2CoRuO6, 165, K, 1.0)
+ordered <CEM1> and La2NiRuO6 are AFM below the Néel temperatures , 26 and 32 K , respectively , while the ordered La2ZnRuO6 evidences weak ferromagnetism below a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+

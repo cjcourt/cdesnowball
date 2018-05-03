@@ -17,7 +17,7 @@ import os
 
 import click
 
-from ..reader import RscHtmlReader, AcsHtmlReader, NlmXmlReader
+from chemdataextractor_snowball.reader import RscHtmlReader, AcsHtmlReader, NlmXmlReader
 
 
 log = logging.getLogger(__name__)

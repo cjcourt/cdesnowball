@@ -1,0 +1,100 @@
+the EuS nanocrystals show a transition temperature TC at around 15 K (
+sieve LaSr-2 × 4 manganese oxide NWs with enhanced Curie temperature (Tc > 500 K )
+ CoS2 is ferromagnetic with a Curie temperature of 116 K and
+( Fe3O4 ) has recently attracted much attention due to its high Curie temperature (Tc ∼ 850 K )
+ CrO2 represents a special binary oxide having a peculiar ferromagnetic structure with a Curie temperature TC = 390 K .
+A PbTiO3 crystal with good quality was grown by Kobayashi with Tc = 490 °C .
+layer CaBi2Me2O9 and Bi3TiMeO9 ( Me = Nb , Ta ) , have ultra - high Tc ( > 850 ° C ) , between 870 and 943 °C .
+though substituted iron oxides have their TC above 100 °C ,
+In Na0.5Bi0.5TiO3 ceramics the rhombohedral to tetragonal transition temperature ( TR – T ) appears near 190 ° C , and the Curie temperature (TC) at 280 °C .
+ordered La2ZnRuO6 evidences weak ferromagnetism below a Curie temperature of 165 K .
+the nickel hexacyanochromate bulk compound ( TC = 60 K )
+( La2Ti2O7 has the highest known Curie temperature, Tc = 1500 °C )
+as Yb14MnSb11 ( TC = 53 K )
+is La0.82Sr0.18MnO3 , their mean diameter 54 nm and their Curie temperature 42 °C according
+amorphous Ln–TM–B ( amorphous Nd – Fe – B phase , Tc = 140 °C )
+intermetallic Nd2Fe14B phase ( Tc = 312 °C )
+grown PFN–PYN–PT crystal possesses a high Curie temperature (TC) of 325 °C and
+that CrO1.90F0.10 and CrO1 . 88F0 . 12 are FM with a Curie temperature of about 300 K and
+lowest Curie temperature amongst common materials is 358 °C for nickel –
+processed KNLNT ( Fig . 17a ) , a sharper peak in the permittivity around the Curie temperature (TC = 310 °C )
+) Co5(OH)8L2·nH2O which are ferrimagnets with Curie temperatures of 60 K and
+ Ag2Nb4O11 ceramics appear to be ferroelectric with a maximum permittivity of ∼ 150 at TC ≈ 400 K ,
+the La0.7Sr0.3MnO3 is one which has the greatest interest in technical as well as in biomedical fields because of its high transition temperature ( Tc ≈ 370 K )
+the KNBN-La ceramics , with a ferroelectric to paraelectric phase transition temperature ( Tc ) of about 360 °C .
+and Tc of the KNBN-La decreases to 360 °C .
+the KNBN-La ceramics , with a Tc of about 360 °C .
+to PbTiO3 , TC ≈ 490 °C .
+, SrFe12O19 , has , unlike the equivalent and more commonly used compound BaFe12O19 , additional advantages such as its composition of non - toxic elements , a theoretical magnetic moment of 20 . 6 μB per unit cell , and a Curie temperature around 470 °C .
+the Curie temperature (TC = 2.5 K ) and the presence of weak ferromagnetism indicate that GdFeO3 is
+for CoCr2S4 , which is a ferrimagnet with TC ≈ 240 K .
+ MnO2 also exhibits ferroelectric Curie temperature near 50 °C .
+ Ca2CrSbO6 exhibits ferromagnetic long - range order below TC = 16 K ,
+, Sr2CrWO6 ( TC = 458 K )
+and Sr2CrMoO6 ( TC = 450 K )
+ BiFeO3 ( BFO ) as one kind of the very rare room temperature multiferroic materials , has attracted a considerable amount of interest because of its high Curie temperature (TC ∼ 1103 K )
+a TC as high as 1390 K in the case of cobalt .
+isostructural La2Ti2O7 and Nd2Ti2O7 possess a very high Curie temperature (Tc ≈ 1500 °C )
+ferroelectric LiNbO3 and LiTaO3 single crystals with different angles of polarization axis , and multi domain PSZT ( heated at 873 K higher than the Curie temperature of 583 K )
+the Curie temperature of 948 K , maghemite is
+example Tc = 225 K for Fe1.25Pt0.75Mo3N ,
+metallic Gd which orders ferromagnetically at 294 K ( TC )
+the Curie temperature (Tc I = 253 and 138 K for D = H2ca and
+: TC decreases rapidly from 371 K for La0.7Sr0.3MnO3 to
+to TC = 230 K for ruthenium (
+from TC = 75 K for cobalt cations up
+( Co ) is superior to other ferromagnetic materials because of its highest Curie temperature (Tc) of about 1394 K ,
+of K2Cr8O16 with a monoclinic structure ( a = 13 . 820 Å ; b = 2 . 941 Å ; c = 9 . 772 Å and β = 135 ° ) with C2 / m symmetry and reported a Tc = 225 K at
+a K2Cr8O16 sample with Tc = 225 K that
+at 5.6 K , and in the 1990s , various Prussian blue analog - based magnets MAII [ CrIII ( CN ) 6 ] 2 / 3 · zH2O ( MA = V , Cr , Mn , Ni , Cu ) were reported to exhibit high Curie temperatures (TC) .
+ferrimagnetic Mn3O4 , which displays a TC of 44 K and
+reported Curie temperature Tc values between 122 K and 145 K . NiMn2O4 nanoparticles obtained via the co - precipitation route show a Tc of 126 K .
+as LSMO , whose Curie temperature ( around 50 °C )
+of BaTiO3 forms on cooling the product through the Curie temperature of 120 °C where
+( Tc2 = 1100 °C ) is associated with pure cobalt nanoparticles .
+elemental Gd ( TC = 294 K )
+( PbTiO3 ) , which is of high Curie temperature ( about 490 °C )
+Below TC = 330 K , Sr3Fe2UO9 is
+ BaTiO3 has an ideal cubic ABO3 perovskite structure above the Curie temperature (TC , 393 K )
+the Ni and Co nanomaterials are higher than 350 K ( bulk Nickel : Tc = 627 K ,
+the Curie temperature of magnetite ( Fe3O4 ) is 860 K (
+ PbTiO3 is also a perovskite that crystallizes with a tetragonal symmetry ( S . G . : P4mm , No . 99 ) , with good ferroelectric properties ( TC = 490 °C )
+using gadolinium as an archetypical work material with TC = 293 K ,
+ Thiourea ( Tc = 169 K )
+the Curie temperature (Tc = 253 and 138 K for D = H2ca and
+ Tc is continuously decreased as the Pt - content increases from 1394 K for pure Co to
+crystalline LiNbO3 has a Curie temperature of about 1500 K .
+ 4(p-Chlorobenzylideneamino)-2,2,6,6-tetramethylpiperidine-N-oxyl is a ferromagnetic TEMPO derivative ( Tc = 0.28 K )
+ BNT shows promising ferroelectric properties , such as a large remnant polarization ( Pr ) of 38 μC cm - 2 , and high Curie temperature (Tc) of 320 °C .
+, R2Ru2O7 pyrochlores have been reported to be ferromagnets with higher magnetic ordering temperatures ( TC ∼ 100 K )
+of La0.9Te0.1MnO3 ( TC = 239 K )
+, BNT ) is considered to be a promising candidate of lead - free piezoelectric ceramics , which exhibits excellent ferroelectric properties with large remnant polarization of 38 μC cm - 2 and high Curie temperature of 320 °C .
+as 55DMBP–H2ca and is an antiferroelectric below TC = 345 K .
+ Rb2ZnCl4 is a well - studied member of the A2BX4 - family and exhibits an incommensurate ( INC ) phase between Ti = 303 K and Tc = 198.3 K where
+, Fe3O4 is still promising due to its high spin polarization and favorable Curie temperature (Tc = 850 K )
+namely VII2[MoIII(CN)7](pyrimidine)2·4.5H2O , with the fairly high Curie temperature of 110 K whose
+, La2Ti2O7 ( LTO ) is the most studied and is reported to be a ferroelectric material with a very high Curie temperature (Tc = 1500 °C )
+is CO2 , which is nonflammable , nontoxic , low cost , and can readily accessed at relatively low temperatures and pressures , i . e . Tc = 304 K and
+of BiMnO3 ( TC ∼ 100 K )
+a bimetallic Mn–Ru2 carbonate soft magnet ( Tc = 3.0 K )
+the Curie temperature, 850 K , of bulk Fe3O4 .
+the MnII3[CrIII(CN)6]2·12H2O Prussian blue analog ( Tc = 63 K )
+for La0.8Sr0.2MnO3 particles ( TC = 48 °C )
+by La0.75Sr0.25MnO3 particles was 46 . 3 ° C ( TC = 56 °C )
+. ε-Fe2O3 has an orthorhombic structure ( Pna21 ) and exhibits a ferromagnetic feature ( TC = 495 K )
+( PbTiO3 , PT ) is a prototype ferroelectric with a high Curie temperature of 490 °C .
+free Ge0.95Mn0.05 quantum dots with Curie temperature up to 400 K [
+ PKN has a high Curie Temperature : TC ≈ 460 °C .
+processed bismuth ferrite based polycrystalline ceramics with Curie temperatures up to 650 °C and
+conditions LiNbO3 possesses relatively large piezoelectric ( see d15 in Table 1 ) and electro - mechanical coupling coefficients , a pre - requisite for efficient energy conversion , and a very high Curie temperature of 1142–1210 °C .
+the Curie temperature TC = 340 K , determined on the dry sample of LSMO@siF@si-w .
+the tetragonal heavy-atom bisdiselenazolyl radical 1a ( Fig . 1 ) , which displays an ordering ( Curie ) temperature TC near 17 K and
+amorphous nickel hydroxide nanospheres present ferromagnetism below the Curie temperature of 16.5 K ,
+the Curie temperature (TC) point from these data to be at 16.5 K for the amorphous nickel hydroxide nanospheres as
+amorphous nickel hydroxide nanospheres with ferromagnetism below the Curie temperature of 16.5 K accompanied
+amorphous nickel hydroxide nanospheres have been synthesized by a simple and green electrochemical approach , and the corresponding SQUID measurements showed that the synthesized amorphous Ni ( OH ) 2 nanospheres are ferromagnetic with a maximum coercive field around 630 Oe between - 7500 and 7500 Oe , and the residual magnetization is 21 . 2 emu g - 1 at 5 K and the Curie temperature is 16.5 K .
+example La0.65Ba0.35MnO3 has a Curie temperature (TC) of 362 K .
+composition 0.20PYN–0.40PMN–0.40PT possesses excellent electric properties such as TC = 180 °C ,
+, BiFeO3 is antiferromagnetic ( TN = 643 K ) and ferroelectric ( TC = 1103 K )
+, MnO is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of TN = 118 K , Mn3O4 shows a ferrimagnetic ( FiM ) behavior at TC = 42 K ,
+ordered La2CoRuO6 and La2NiRuO6 are AFM below the Néel temperatures , 26 and 32 K , respectively , while the ordered La2ZnRuO6 evidences weak ferromagnetism below a Curie temperature of 165 K .

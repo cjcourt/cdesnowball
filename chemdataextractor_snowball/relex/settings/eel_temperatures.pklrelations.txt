@@ -1,0 +1,398 @@
+(Sr2FeMoO6, 750, K, 1)
+disordered <CEM1> ( <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+valence <CEM1> sample has <SPECIFIER1> ∼ <VALUE1> <UNIT1> , 
+
+(Co2(hypa)2(4,4′-bpy) (Fig. 24 (XI)), hypa = hydroxyphenylacetate, 15.2, K, 1)
+as <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(α-Fe2O3, 960, K, 1)
+Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1> <UNIT1> which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about <VALUE1> <UNIT1> , 
+the <SPECIFIER1> = <VALUE1> <UNIT1> ) , bulk <CEM1> has 
+bulk <CEM1> behaves as an antiferromagnet with a <SPECIFIER1> of about <VALUE1> <UNIT1> . 
+, <CEM1> shows antiferromagnetic nature below Morin temperature ( TM = 263 K ) and can exhibit weak ferromagnetic behavior between 263 K ( TM ) and <VALUE1> <UNIT1> i . e . at <SPECIFIER1> due 
+
+(TlMnO3, 92, K, 1)
+of <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Na[Co2(PO4)2]·NH4·H2O, 6, K, 1)
+and <CEM1> , order antiferromagnetically with <SPECIFIER1> of 2 and <VALUE1> <UNIT1> , 
+
+(FeO, 200, K, 1)
+as <CEM1> , <SPECIFIER1> ≈ <VALUE1> <UNIT1> . 
+≈ <VALUE1> <UNIT1> , <SPECIFIER1> of <CEM1> , 
+
+(NdMnO3, 67, K, 1)
+<CEM1> shows a paramagnetic to antiferromagnetic phase transition with <SPECIFIER1> at <VALUE1> <UNIT1> . 
+
+(Pr, 11, K, 1)
+and <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Ba2YRuO6, 37, K, 1)
+, <CEM1> shows AFM ordering with <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(β-(BDA-TTP)2FeCl4, 8.5, K, 1)
+<CEM1> at ambient pressure exhibited a metal – insulator ( MI ) transition at 113 K and underwent antiferromagnetic ordering with a <SPECIFIER1> of about <VALUE1> <UNIT1> . 
+
+(CeMnAsO, 360, K, 1)
+of <CEM1> undergo an AFM ordering at high temperatures ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Ca2Fe2O5, 775, K, 1)
+bulk <CEM1> is an antiferromagnet with <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(Mn(AOT)2, 60, K, 1)
+, <CEM1> has a Neél temperature of <SPECIFIER1> = <VALUE1> <UNIT1> and 
+
+(La2O2SO4, 60, K, 1)
+for <CEM1> at low temperature with a <SPECIFIER1> = <VALUE1> <UNIT1> may 
+
+(TeNiO3, 130, K, 1)
+<CEM1> shows an antiferromagnetic ordering below <SPECIFIER1> ≈ <VALUE1> <UNIT1> ; 
+in <CEM1> , with <SPECIFIER1> ≈ <VALUE1> <UNIT1> . 
+
+(FeTiO3, 59, K, 1)
+– <CEM1> core – shell structure indicated a strong exchange bias mechanism with magnetic coercivity below the antiferromagnetic <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Schafarzikite, 45, K, 1)
+<CEM1> undergoes an antiferromagnetic transition at a <SPECIFIER1> , of around <VALUE1> <UNIT1> . 
+
+(YFe0.5Cr0.5O3, 246, K, 1)
+<CEM1> exhibits a magnetic ordering at <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(BiMn1.1Fe1.9O6, 204, K, 1)
+, <CEM1> ( Fig . 9a ) , exhibit similar AFM order , with <SPECIFIER1> of 224 and <VALUE1> <UNIT1> , 
+
+(Cr2O3, 307, K, 1)
+the <SPECIFIER1> for bulk <CEM1> is <VALUE1> <UNIT1> , 
+< <SPECIFIER1> ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , <CEM1> = <VALUE1> <UNIT1> ( 
+bulk <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> and 
+
+(Ba2SmMoO6, 130, K, 1)
+In <CEM1> a Jahn – Teller distortion occurs simultaneously with the onset of an antiferromagnetically ordered state at <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(TlNiO3, 104, K, 1)
+In <CEM1> the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced <SPECIFIER1> of <VALUE1> <UNIT1> , 
+
+(PrMnO3, 100, K, 1)
+manganite <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(o-YbMn0.5Fe0.5O3, 298, K, 1)
+In <CEM1> , a weak ferromagnetism below <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(Dy, 4, K, 1)
+( <SPECIFIER1> = <VALUE1> <UNIT1> ) of the <CEM1> ions 
+
+(Co0.85Se, 25, K, 1)
+above <VALUE1> <UNIT1> ( inset down ) , which indicates <CEM1> nanocrystalline is antiferromagnetic with a <SPECIFIER1> of 
+
+(Sr2CoTeO6, 15, K, 1)
+, <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+and <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+and <CEM1> double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with <SPECIFIER1> = 10 and <VALUE1> <UNIT1> for 
+For <CEM1> , an antiferromagnetic ordering is displayed below <SPECIFIER1> = <VALUE1> <UNIT1> , 
+. <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(CoNb2O6, 2.95, K, 1)
+a <SPECIFIER1> of <VALUE1> <UNIT1> . <CEM1> is 
+
+(o-DyMnO3, 6.5, K, 1)
+The <SPECIFIER1> of h - YbMnO3 was 88 K , and that of <CEM1> was <VALUE1> <UNIT1> , 
+
+(MnSb2Se4, 20, K, 1)
+that <CEM1> is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+that <CEM1> has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a <SPECIFIER1> of approximately <VALUE1> <UNIT1> , 
+a <SPECIFIER1> of approximately <VALUE1> <UNIT1> is only observed for the <CEM1> sample 
+
+(Ca2Fe2O5, 770, K, 1)
+bulk <CEM1> with the <SPECIFIER1> of about <VALUE1> <UNIT1> which 
+
+(LaCrO3, 320, K, 1)
+. <CEM1> , known as a strongly antiferromagnetic perovskite with a <SPECIFIER1> of <VALUE1> <UNIT1> , 
+
+(cobalt vanadate, 71, K, 1)
+the <CEM1> indicated long - range spin - canted antiferromagnetic ordering at <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(o-YMnO3, 328, K, 1)
+<CEM1> with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(PrCrO3, 198.52, K, 1)
+of <CEM1> have <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(Sm2Mn3Sb4S12, 40.0, K, 1)
+, <CEM1> with θ = - 221 . 9 K and <SPECIFIER1> around <VALUE1> <UNIT1> , 
+
+(TlCr0.9557Fe0.05O3, 87.5, K, 1)
+in <CEM1> , that is by doping , and this compound showed only λ - type anomalies in the χ ′ vs . T curves at <SPECIFIER1> = <VALUE1> <UNIT1> ( 
+
+(TlFeO3, 560, K, 1)
+to <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(FePbBiO4, 24, K, 1)
+<CEM1> orders antiferromagnetically with a <SPECIFIER1> of <VALUE1> <UNIT1> ; 
+for <CEM1> are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a <SPECIFIER1> of <VALUE1> <UNIT1> ; 
+
+(Mn4Nb2O9, 108.4, K, 1)
+at <SPECIFIER1> = <VALUE1> <UNIT1> of the <CEM1> single 
+around <SPECIFIER1> = <VALUE1> <UNIT1> , which corresponds to the previously observed AFM transition in polycrystalline <CEM1> , 
+
+(CaM2O4, 220, K, 1)
+<CEM1> phases with M = Fe and Mn order antiferromagnetically , with <SPECIFIER1> of <VALUE1> and <VALUE1> <UNIT1> , 
+
+(DyFeO3, 645, K, 1)
+of <CEM1> , below the <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(SFO5, 74, K, 1)
+pure <CEM1> and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a <SPECIFIER1> = <VALUE1> <UNIT1> and 
+
+(α-Mn2O3, 80, K, 1)
+<CEM1> shows a weak antiferromagnetic transition ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(BFO, 370, °C, 1)
+and <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) make <CEM1> a 
+
+(Cr3[Cr(CN)6]2·10H2O, 240, K, 1)
+and <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Fe(TCNE)2·nCH2Cl2, 100, K, 1)
+as <CEM1> ( n ≈ 0 . 32 ; <SPECIFIER1> ≈ <VALUE1> <UNIT1> ) 
+
+(YCO, 140, K, 1)
+<CEM1> is a biferroic material having canted anti - ferromagnetic ( AFM ) ordering below the <SPECIFIER1> of <VALUE1> <UNIT1> ( 
+
+(TNiON, 523, K, 1)
+the <SPECIFIER1> <CEM1> ∼ <VALUE1> <UNIT1> ) 
+
+(Co3O4 nanoparticles, 15 ± 2, K, 1)
+and <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> of 
+
+(β-Co(OH)2, 12.5, K, 1)
+and <CEM1> are antiferromagnetic with <SPECIFIER1> of 30 and <VALUE1> <UNIT1> , 
+
+(Mn5O8, 128, K, 1)
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1> <UNIT1> , <SPECIFIER1> ≃ <VALUE1> <UNIT1> , 
+
+(Fe2O3, 260, K, 1)
+Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1> <UNIT1> which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about <VALUE1> <UNIT1> , 
+the <SPECIFIER1> = 963 K ) and the Morin temperature ( TM = <VALUE1> <UNIT1> ) , <CEM1> is 
+- <CEM1> shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ <VALUE1> <UNIT1> ) and <SPECIFIER1> = 
+
+(Co(HCOO)2(4,4′-bpy)·nH2O, 3, K, 1)
+, <CEM1> are canted antiferromagnets with <SPECIFIER1> = 7 . 4 K ( n = 0 ) and <VALUE1> <UNIT1> ( 
+
+(Cd2Mn3O8, 10, K, 1)
+as <CEM1> ( <SPECIFIER1> ≃ <VALUE1> <UNIT1> ) 
+and <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(BiFeO3, 640, K, 1)
+, <CEM1> ( BFO ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic <SPECIFIER1> of <VALUE1> <UNIT1> seems 
+is <CEM1> , probably due to two reasons : ( 1 ) its ferroelectric Curie temperature ( TC ≈ 1100 K ) and antiferromagnetic <SPECIFIER1> ≈ <VALUE1> <UNIT1> ) 
+, <CEM1> ( BFO ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+is <CEM1> ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic <SPECIFIER1> around <VALUE1> <UNIT1> are 
+why <CEM1> has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high <SPECIFIER1> at <VALUE1> <UNIT1> . 
+
+(Cr(PO3)3, 4.2, K, 1)
+( <SPECIFIER1> = <VALUE1> <UNIT1> ) for <CEM1> following 
+
+(γ-Fe2O3, 950, K, 1)
+, <CEM1> exhibits ferrimagnetic ordering with a net magnetic moment ( 2 . 5 μB per formula unit ) and a high <SPECIFIER1> ( approximately <VALUE1> <UNIT1> ) 
+higher <SPECIFIER1> ( it is a canted antiferromagnet ) of <VALUE1> <UNIT1> . <CEM1> ( 
+
+(lepidocrocite, 50, K, 1)
+that <CEM1> is antiferromagnetic below the <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(α-MnS, 150, K, 1)
+, <CEM1> is a wide bandgap material of 3 . 0 eV and has a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+, <CEM1> is a wide bandgap material of 3 . 0 eV and has a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(BFO, 643, K, 1)
+Perovskite <CEM1> has a ferroelectric Curie temperature TC of 1103 K , and an antiferromagnetic <SPECIFIER1> of <VALUE1> <UNIT1> . 
+Since <CEM1> is known to be antiferromagnetic below <SPECIFIER1> = <VALUE1> <UNIT1> , 
+<CEM1> currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic <SPECIFIER1> of <VALUE1> <UNIT1> . 
+( <CEM1> ) with high Tc ∼ 1103 K and <SPECIFIER1> ∼ <VALUE1> <UNIT1> attracts 
+pure <CEM1> , the value of <SPECIFIER1> is <VALUE1> <UNIT1> . 
+or <CEM1> ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( <SPECIFIER1> ≈ <VALUE1> <UNIT1> and 
+( <CEM1> ) is a widely investigated multiferroic material which has a very high ferroelectric Curie temperature ( TC ∼ 1100 K ) and antiferromagnetic <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+( <CEM1> ) is one of the most studied single phase multiferroics , known as ferroelectric ( TC ∼ 1103 K ) and G - type antiferromagnetic ( <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+the <SPECIFIER1> of <CEM1> ( ca . <VALUE1> <UNIT1> ) 
+as <CEM1> ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+( <CEM1> ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a <SPECIFIER1> of <VALUE1> <UNIT1> and 
+<CEM1> exhibits ferroelectric ( FE ) behavior with a Curie temperature ( TC ) of 1103 K and an antiferromagnetic ( AFM ) property with a <SPECIFIER1> of <VALUE1> <UNIT1> that 
+– <CEM1> ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+( <CEM1> ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a <SPECIFIER1> of around <VALUE1> <UNIT1> . 
+( <CEM1> ) has been widely studied owing to its unique room - temperature ( RT ) multiferroic properties with a high Curie temperature ( Tc ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+
+(LuCrO3, 112, K, 1)
+to <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> , 
+
+(TlCrO3, 89, K, 1)
+of <CEM1> ( <SPECIFIER1> ≈ <VALUE1> <UNIT1> ) 
+of <CEM1> showed sharp anomalies near <SPECIFIER1> = <VALUE1> <UNIT1> ( 
+
+(FexO core, 240, K, 1)
+the <CEM1> , i . e . , <SPECIFIER1> = <VALUE1> <UNIT1> ( 
+the <CEM1> is maintained up to roughly <SPECIFIER1> ∼ <VALUE1> <UNIT1> ( 
+
+(ScCrO3, 73.0, K, 1)
+in <CEM1> with TN2 = 68 . 6 K and <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(LFO, 738, K, 1)
+. <CEM1> possesses G - type antiferromagnetism ( <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+
+(CoTe6O13, 21, K, 1)
+with <SPECIFIER1> of 13 K for MnTe6O13 and <VALUE1> <UNIT1> for <CEM1> . 
+
+(Mn5O8, 133, K, 1)
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1> <UNIT1> , <SPECIFIER1> ≃ <VALUE1> <UNIT1> , 
+that <CEM1> is an antiferromagnet with a <SPECIFIER1> of about <VALUE1> <UNIT1> . 
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ <VALUE1> <UNIT1> , <SPECIFIER1> ≃ <VALUE1> <UNIT1> , 
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ <VALUE1> <UNIT1> , <SPECIFIER1> ≃ <VALUE1> <UNIT1> , 
+
+(Ca2Mn3O8, 60, K, 1)
+and <CEM1> ( <SPECIFIER1> ≃ <VALUE1> <UNIT1> ) 
+as <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Sr2CoWO6, 24, K, 1)
+of <CEM1> showed it to be an insulating antiferromagnet ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(GFO films, 360, K, 1)
+The <SPECIFIER1> was of <VALUE1> <UNIT1> for the pure <CEM1> , 
+
+(Cr2CFCl, 400, K, 1)
+A <SPECIFIER1> as high as <VALUE1> <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , 
+A <SPECIFIER1> as high as <VALUE1> <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , 
+
+(YCr0.5Fe0.5O3, 260, K, 1)
+( <SPECIFIER1> = <VALUE1> <UNIT1> ) of the transition metal ions ( Fe3 + and Cr3 + ) in <CEM1> were 
+
+(Pb2.4Ba2.6Fe2Sc2TiO13, 45, K, 1)
+, <CEM1> demonstrates 3D short - range antiferromagnetic correlations below <SPECIFIER1> ≈ <VALUE1> <UNIT1> , 
+
+(α-Fe2O3, 963, K, 1)
+< <SPECIFIER1> < <VALUE1> <UNIT1> ) , bulk <CEM1> is 
+
+(eskolaite, 300, K, 1)
+( <SPECIFIER1> is 955 K in hematite , but only <VALUE1> <UNIT1> in <CEM1> ) 
+
+(Fe, 12, K, 1)
+order <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Cr2CHF, 400, K, 1)
+A <SPECIFIER1> as high as <VALUE1> <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , 
+A <SPECIFIER1> as high as <VALUE1> <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , 
+
+(Rare earth orthoferrites RFeO3, 620, K, 1)
+<CEM1> are well known for their high <SPECIFIER1> ∼ <VALUE1> <UNIT1> ) 
+
+(BiMnFe2O6, 212, K, 1)
+in <CEM1> as a broad cusp at <SPECIFIER1> = <VALUE1> <UNIT1> ; 
+in <CEM1> at <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(FeO, 198, K, 1)
+the <SPECIFIER1> = <VALUE1> <UNIT1> ) , <CEM1> is 
+bulk <CEM1> is antiferromagnetic with a <SPECIFIER1> of <VALUE1> <UNIT1> , 
+
+(MnO2, 84, K, 1)
+and <CEM1> are all AFM below the <SPECIFIER1> of 100 K , 116 K and <VALUE1> <UNIT1> respectively 
+and <CEM1> ) are well known to be antiferromagnetic below the <SPECIFIER1> of 116 and <VALUE1> <UNIT1> , 
+
+(Cr2O3, 308, K, 1)
+, <CEM1> adopts the R3c structure and is antiferromagnetic ( AFM ) , with a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(CuO nanoparticles, 30, K, 1)
+<CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1> <UNIT1> , 
+
+(LiFeP2O7, 27, K, 1)
+, <CEM1> phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(RBa2Cu3O7, 2.2, K, 1)
+is <CEM1> ( RBCO ) with Tc ∼ 92 K and <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(HoFeO3, 640, K, 1)
+of <CEM1> , the Fe - moments order antiferromagnetically below <SPECIFIER1> = <VALUE1> <UNIT1> ; 
+
+(α-Fe2O3, 953, K, 1)
+the <SPECIFIER1> of <VALUE1> <UNIT1> , <CEM1> is 
+
+(CaM2O4, 160, K, 1)
+<CEM1> phases with M = Fe and Mn order antiferromagnetically , with <SPECIFIER1> of <VALUE1> and <VALUE1> <UNIT1> , 
+
+(Tb0.944Mn2, 40, K, 1)
+For <CEM1> in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(ULM-4, 25, K, 1)
+in <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(brownmillerite, 250, °C, 1)
+magnetic <CEM1> is still identified ; upon increasing the temperature above <SPECIFIER1> = <VALUE1> <UNIT1> , 
+
+(LiMnPO4, 35, K, 1)
+and <CEM1> are antiferromagnets with the <SPECIFIER1> ≈ 52 and <VALUE1> <UNIT1> ; 
+at <SPECIFIER1> = <VALUE1> <UNIT1> and 29 . 5 K for H2MnOPO4 and <CEM1> ( 
+a <SPECIFIER1> of 52 K , and <CEM1> orders at <VALUE1> <UNIT1> along 
+
+(CuFeO2 crystals, 12, K, 1)
+show <CEM1> exhibit antiferromagnetic behavior , the <SPECIFIER1> about <VALUE1> <UNIT1> and 
+
+(Ba2CoS3, 46, K, 1)
+of <CEM1> at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at <VALUE1> <UNIT1> ( see Fig . 3 ) and this is consistent with the signature of a <SPECIFIER1> in 
+a <SPECIFIER1> at <VALUE1> <UNIT1> , we measured the heat capacity of <CEM1> as 
+
+(YCrO3, 140, K, 1)
+, <CEM1> ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+<CEM1> shows canted antiferromagnetism ( <SPECIFIER1> = <VALUE1> <UNIT1> ) 
+
+(Fe1-xS, 315, °C,, 1)
+the <SPECIFIER1> of <VALUE1> <UNIT1> , where <CEM1> is 
+<CEM1> is an off - stoichiometric phase ( 0 ≤ x ≤ 0 . 125 ) which is paramagnetic and structurally disordered above its critical <SPECIFIER1> of <VALUE1> <UNIT1> . 
+in <CEM1> as a function of temperature in the range 170 – 400 ° C , which extends across the known magnetostructural order – disorder transition temperature <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(chromium sesquioxide, 307.5, K, 1)
+insulating <CEM1> is an antiferromagnet with a <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(LFP, 52, K, 1)
+to <SPECIFIER1> = <VALUE1> <UNIT1> for <CEM1> ( 
+
+(Co3O4, 33, K, 1)
+spinel <CEM1> ( which has a <SPECIFIER1> of <VALUE1> <UNIT1> ) 
+the <CEM1> nanoparticles show a magnetic anomaly at a <SPECIFIER1> <VALUE1> <UNIT1> as 
+the <SPECIFIER1> of the sample calcined at 700 ° C was <VALUE1> <UNIT1> , which was lower than that of the commercially available <CEM1> bulk 
+with <SPECIFIER1> below <VALUE1> <UNIT1> ( the Néel temperature of the cobalt spinel , <CEM1> ) 
+
+(CaMnO3, 123, K, 1)
+analogue <CEM1> although this has a noticeably lower transition temperature <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(Co4(OH)5(1a)0.5,H2O, 9, K, 1)
+compound <CEM1> orders ferrimagnetically at <SPECIFIER1> = <VALUE1> <UNIT1> . 
+
+(α-Mn2O3, 79, K, 1)
+<CEM1> presents an antiferromagnetic behavior with a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(SrFeO2.50, 685, K, 1)
+of <CEM1> relative to the mixture of the binary constituent oxides is large even far below <SPECIFIER1> = <VALUE1> <UNIT1> due 
+of <CEM1> relative to the mixture of the binary constituent oxides is large even far below <SPECIFIER1> = <VALUE1> <UNIT1> due 
+
+(CuO nanoparticles, 13, K, 1)
+<CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1> <UNIT1> , 
+
+(Sr2CoB′O6, 30, K, 1)
+<CEM1> for both B ′ = Mo and W has higher <SPECIFIER1> of approximately <VALUE1> <UNIT1> , 
+
+(CrCl3, 16.8, K, 1)
+<CEM1> layers are stacked antiferromagnetically with a <SPECIFIER1> of <VALUE1> <UNIT1> , 
+
+(HMO, 24.5, K, 1)
+bulk <CEM1> has been observed experimentally below the <SPECIFIER1> of <VALUE1> <UNIT1> , 
+
+(mesoporous Co3O4, 30, K, 1)
+the <CEM1> behaves like an antiferromagnet with a <SPECIFIER1> ∼ <VALUE1> <UNIT1> ( 
+
+(Cr2O3 crystals, 34, °C, 0.9668100878262975)
+antiferromagnetic <CEM1> , which is 2 . 67 × 10 s / m at a <SPECIFIER1> of <VALUE1> <UNIT1> . 
+
+(Mn5O8, 131, K, 1.0)
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ <VALUE1> <UNIT1> , <SPECIFIER1> ≃ <VALUE1> <UNIT1> , 
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ <VALUE1> <UNIT1> , <SPECIFIER1> ≃ <VALUE1> <UNIT1> , 
+
+(LaSrNi0.5Ru0.5O4, 125, K, 0.996445656696951)
+; <CEM1> is evidenced by the presence of long - range magnetic ordering at a <SPECIFIER1> of <VALUE1> K , and LaSrZn0 . 5Ru0 . 5O4 exhibits a paramagnetic behaviour down to 5 <UNIT1> . 
+disordered <CEM1> sample shows a divergence between the ZFC and FC curves below 150 K , above the <SPECIFIER1> of <VALUE1> <UNIT1> , 
+

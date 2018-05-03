@@ -16,8 +16,8 @@ import sys
 import click
 
 from ..doc import Document, Text
-from ..nlp.corpus import genia_training, wsj_training, wsj_evaluation, genia_evaluation
-from ..nlp.pos import TAGS, ChemApPosTagger, ChemCrfPosTagger
+from nlp.corpus import genia_training, wsj_training, wsj_evaluation, genia_evaluation
+from nlp.pos import TAGS, ChemApPosTagger, ChemCrfPosTagger
 
 
 log = logging.getLogger(__name__)

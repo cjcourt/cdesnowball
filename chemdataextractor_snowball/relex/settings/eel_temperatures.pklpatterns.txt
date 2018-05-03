@@ -1,0 +1,190 @@
+( <CEM1> ( <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0.0
+
+valence <CEM1> sample has <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
+
+and <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1>  <UNIT1> which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about <VALUE1>  <UNIT1> , with confidence score 0.5
+
+the <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> is with confidence score 1.0
+
+ <CEM1> is a wide bandgap material of 3 . 0 eV and has a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+
+, <CEM1> shows antiferromagnetic nature below Morin temperature ( TM = 263 K ) and can exhibit weak ferromagnetic behavior between 263 K ( TM ) and <VALUE1>  <UNIT1> i . e . at <SPECIFIER1> due with confidence score 1.0
+
+, <CEM1> ( Fig . 9a ) , exhibit similar AFM order , with <SPECIFIER1> of 224 and <VALUE1>  <UNIT1> , with confidence score 1.0
+
+is <CEM1> , <SPECIFIER1> ≈ <VALUE1>  <UNIT1> . with confidence score 0
+
+≈ <VALUE1>  <UNIT1> , <SPECIFIER1> of <CEM1> , with confidence score 0
+
+ <CEM1> has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high <SPECIFIER1> at <VALUE1>  <UNIT1> . with confidence score 0.0
+
+For <CEM1> in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+ <CEM1> is a wide bandgap material of 3 . 0 eV and has a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+
+pure <CEM1> and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 1.0
+
+for <CEM1> at low temperature with a <SPECIFIER1> = <VALUE1>  <UNIT1> may with confidence score 1.0
+
+ <CEM1> demonstrates 3D short - range antiferromagnetic correlations below <SPECIFIER1> ≈ <VALUE1>  <UNIT1> , with confidence score 1.0
+
+– <CEM1> core – shell structure indicated a strong exchange bias mechanism with magnetic coercivity below the antiferromagnetic <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+
+ <CEM1> a Jahn – Teller distortion occurs simultaneously with the onset of an antiferromagnetically ordered state at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
+
+the <SPECIFIER1> for bulk <CEM1> is <VALUE1>  <UNIT1> , with confidence score 1.0
+
+< <SPECIFIER1> ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , <CEM1> = <VALUE1>  <UNIT1> ( with confidence score 0
+
+to <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> ( with confidence score 1.0
+
+In <CEM1> the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+
+For <CEM1> , a weak ferromagnetism below <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+
+( <SPECIFIER1> = <VALUE1>  <UNIT1> ) of the <CEM1> were with confidence score 0.0
+
+above <VALUE1>  <UNIT1> ( inset down ) , which indicates <CEM1> nanocrystalline is antiferromagnetic with a <SPECIFIER1> of with confidence score 1.0
+
+and <CEM1> double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with <SPECIFIER1> = 10 and <VALUE1>  <UNIT1> for with confidence score 1.0
+
+higher <SPECIFIER1> of <VALUE1>  <UNIT1> . <CEM1> ( with confidence score 0
+
+The <SPECIFIER1> of h - YbMnO3 was 88 K , and that of <CEM1> was <VALUE1>  <UNIT1> , with confidence score 1.0
+
+that <CEM1> has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a <SPECIFIER1> of approximately <VALUE1>  <UNIT1> , with confidence score 1.0
+
+a <SPECIFIER1> of approximately <VALUE1>  <UNIT1> is only observed for the <CEM1> sample with confidence score 1.0
+
+bulk <CEM1> with the <SPECIFIER1> of about <VALUE1>  <UNIT1> which with confidence score 1.0
+
+ <CEM1> layers are stacked antiferromagnetically with a <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+
+the <CEM1> indicated long - range spin - canted antiferromagnetic ordering at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+pure <CEM1> have <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 0
+
+, <CEM1> with θ = - 221 . 9 K and <SPECIFIER1> around <VALUE1>  <UNIT1> , with confidence score 1.0
+
+in <CEM1> , that is by doping , and this compound showed only λ - type anomalies in the χ ′ vs . T curves at <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+ <CEM1> are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a <SPECIFIER1> of <VALUE1>  <UNIT1> ; with confidence score 0.0
+
+( <SPECIFIER1> = <VALUE1>  <UNIT1> ) of the transition metal ions ( Fe3 + and Cr3 + ) in <CEM1> were with confidence score 1.0
+
+around <SPECIFIER1> = <VALUE1>  <UNIT1> , which corresponds to the previously observed AFM transition in polycrystalline <CEM1> , with confidence score 1.0
+
+ <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
+
+, <CEM1> phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) make <CEM1> a with confidence score 1.0
+
+as <CEM1> ( n ≈ 0 . 32 ; <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+ <CEM1> ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
+
+the <SPECIFIER1>  <CEM1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+and <CEM1> are antiferromagnetic with <SPECIFIER1> of 116 and <VALUE1>  <UNIT1> , with confidence score 0
+
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , with confidence score 1.0
+
+Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1>  <UNIT1> which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about <VALUE1>  <UNIT1> , with confidence score 0.5
+
+- <CEM1> shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ <VALUE1>  <UNIT1> ) and <SPECIFIER1> = with confidence score 0
+
+, <CEM1> are canted antiferromagnets with <SPECIFIER1> = 7 . 4 K ( n = 0 ) and <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+and <CEM1> ( <SPECIFIER1> ≃ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+, <CEM1> is evidenced by the presence of long - range magnetic ordering at a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0
+
+is <CEM1> ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic <SPECIFIER1> around <VALUE1>  <UNIT1> are with confidence score 1.0
+
+, <CEM1> exhibits ferrimagnetic ordering with a net magnetic moment ( 2 . 5 μB per formula unit ) and a high <SPECIFIER1> ( approximately <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+ <CEM1> currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+
+Since <CEM1> is known to be antiferromagnetic below <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+( <CEM1> ) with high Tc ∼ 1103 K and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0
+
+pure <CEM1> , the value of <SPECIFIER1> is <VALUE1>  <UNIT1> . with confidence score 1.0
+
+or <CEM1> ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> and with confidence score 1.0
+
+the <SPECIFIER1> of <CEM1> ( ca . <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+ <CEM1> is an off - stoichiometric phase ( 0 ≤ x ≤ 0 . 125 ) which is paramagnetic and structurally disordered above its critical <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
+
+of <CEM1> ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+of <CEM1> showed sharp anomalies near <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+the <CEM1> , i . e . , <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+the <CEM1> is maintained up to roughly <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+in <CEM1> with TN2 = 68 . 6 K and <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+with <SPECIFIER1> of 13 K for MnTe6O13 and <VALUE1>  <UNIT1> for <CEM1> . with confidence score 1.0
+
+that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , with confidence score 1.0
+
+The <SPECIFIER1> was of <VALUE1>  <UNIT1> for the pure <CEM1> , with confidence score 1.0
+
+A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , with confidence score 1.0
+
+< <SPECIFIER1> < <VALUE1>  <UNIT1> ) , bulk <CEM1> is with confidence score 0
+
+( <SPECIFIER1> is 955 K in hematite , but only <VALUE1>  <UNIT1> in <CEM1> ) with confidence score 1.0
+
+A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , with confidence score 1.0
+
+ <CEM1> are well known for their high <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+in <CEM1> as a broad cusp at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+
+compound <CEM1> at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
+
+and <CEM1> are all AFM below the <SPECIFIER1> of 100 K , 116 K and <VALUE1>  <UNIT1> respectively with confidence score 1.0
+
+is <CEM1> ( RBCO ) with Tc ∼ 92 K and <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+of <CEM1> , the Fe - moments order antiferromagnetically below <SPECIFIER1> = <VALUE1>  <UNIT1> ; with confidence score 1.0
+
+the <SPECIFIER1> of <VALUE1>  <UNIT1> , <CEM1> is with confidence score 0.5
+
+ <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
+
+magnetic <CEM1> is still identified ; upon increasing the temperature above <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+and <CEM1> are antiferromagnets with the <SPECIFIER1> ≈ 52 and <VALUE1>  <UNIT1> ; with confidence score 1.0
+
+a <SPECIFIER1> of 52 K , and <CEM1> orders at <VALUE1>  <UNIT1> along with confidence score 1.0
+
+show <CEM1> exhibit antiferromagnetic behavior , the <SPECIFIER1> about <VALUE1>  <UNIT1> and with confidence score 1.0
+
+of <CEM1> at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at <VALUE1>  <UNIT1> ( see Fig . 3 ) and this is consistent with the signature of a <SPECIFIER1> in with confidence score 1.0
+
+a <SPECIFIER1> at <VALUE1>  <UNIT1> , we measured the heat capacity of <CEM1> as with confidence score 1.0
+
+insulating <CEM1> is an antiferromagnet with a <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+spinel <CEM1> ( which has a <SPECIFIER1> of <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+the <CEM1> behaves like an antiferromagnet with a <SPECIFIER1>  <VALUE1>  <UNIT1> ( with confidence score 0
+
+with <SPECIFIER1> below <VALUE1>  <UNIT1> ( the Néel temperature of the cobalt spinel , <CEM1> ) with confidence score 1.0
+
+analogue <CEM1> although this has a noticeably lower transition temperature <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+of <CEM1> relative to the mixture of the binary constituent oxides is large even far below <SPECIFIER1> = <VALUE1>  <UNIT1> due with confidence score 1.0
+
+ <CEM1> for both B ′ = Mo and W has higher <SPECIFIER1> of approximately <VALUE1>  <UNIT1> , with confidence score 1.0
+
+bulk <CEM1> has been observed experimentally below the <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+

@@ -1,0 +1,138 @@
+( <CEM1> ) is superior to other ferromagnetic materials because of its highest <SPECIFIER1> of about <VALUE1>  <UNIT1> , with confidence score 1.0
+
+ <SPECIFIER1> is continuously decreased as the Pt - content increases from <VALUE1>  <UNIT1> for pure <CEM1> to with confidence score 1.0
+
+ <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.1
+
+ <CEM1> ) has recently attracted much attention due to its high <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+the <CEM1> is one which has the greatest interest in technical as well as in biomedical fields because of its high transition temperature ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+ <CEM1> ) is considered to be a promising candidate of lead - free piezoelectric ceramics , which exhibits excellent ferroelectric properties with large remnant polarization of 38 μC cm - 2 and high <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
+
+at <VALUE1>  <UNIT1> , and in the 1990s , various <CEM1> analog - based magnets MAII [ CrIII ( CN ) 6 ] 2 / 3 · zH2O ( MA = V , Cr , Mn , Ni , Cu ) were reported to exhibit high <SPECIFIER1> . with confidence score 1.0
+
+ <CEM1> also exhibits ferroelectric <SPECIFIER1> near <VALUE1>  <UNIT1> . with confidence score 1.0
+
+sieve <CEM1> with enhanced <SPECIFIER1> > <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+the <SPECIFIER1> of <VALUE1>  <UNIT1> , <CEM1> is with confidence score 1.0
+
+( <CEM1> has the highest known <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+isostructural <CEM1> and Nd2Ti2O7 possess a very high <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+the <CEM1> ) is considered to be a promising candidate of lead - free piezoelectric ceramics , which exhibits excellent ferroelectric properties with large remnant polarization of 38 μC cm - 2 and high <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0
+
+is <CEM1> , their mean diameter 54 nm and their <SPECIFIER1>  <VALUE1>  <UNIT1> according with confidence score 1.0
+
+layer <CEM1> and <CEM2> ( Me = Nb , Ta ) , have ultra - high <SPECIFIER1> ( > 850 ° C ) , between <VALUE1> and <VALUE2>  <UNIT1> . with confidence score 1.0
+
+processed <CEM1> with <SPECIFIER1> up to <VALUE1>  <UNIT1> and with confidence score 1.0
+
+A <CEM1> crystal with good quality was grown by Kobayashi with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+for <CEM1> , <SPECIFIER1> ≈ <VALUE1>  <UNIT1> . with confidence score 0
+
+( <CEM1> ) , which is of high <SPECIFIER1> ( about <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+as <CEM1> and is an antiferroelectric below <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+
+namely <CEM1> , with the fairly high <SPECIFIER1> of <VALUE1>  <UNIT1> whose with confidence score 1.0
+
+is <CEM1> , which is nonflammable , nontoxic , low cost , and can readily accessed at relatively low temperatures and pressures , i . e . <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 1.0
+
+( <SPECIFIER1> = <VALUE1>  <UNIT1> ) is associated with pure <CEM1> . with confidence score 1.0
+
+the <CEM1> ( Fig . 1 ) , which displays an ordering ( Curie ) temperature <SPECIFIER1> near <VALUE1>  <UNIT1> and with confidence score 1.0
+
+of <CEM1> forms on cooling the product through the <SPECIFIER1> of <VALUE1>  <UNIT1> where with confidence score 1.0
+
+grown <CEM1> possesses a high <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
+
+In <CEM1> the rhombohedral to tetragonal transition temperature ( TR – T ) appears near 190 ° C , and the <SPECIFIER1> at <VALUE1>  <UNIT1> . with confidence score 1.0
+
+as <CEM1> , whose <SPECIFIER1> ( around <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+reported <SPECIFIER1> values between 122 K and <VALUE1>  <UNIT1> . <CEM1> obtained via the co - precipitation route show a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.5
+
+ <CEM1> appear to be ferroelectric with a maximum permittivity of ∼ 150 at <SPECIFIER1> ≈ <VALUE1>  <UNIT1> , with confidence score 1.0
+
+ <CEM1> is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of TN = 118 K , Mn3O4 shows a ferrimagnetic ( FiM ) behavior at <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+the <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> and with confidence score 0
+
+lowest <SPECIFIER1> amongst common materials is <VALUE1>  <UNIT1> for <CEM1> – with confidence score 1.0
+
+ <CEM1> has a high Curie Temperature : <SPECIFIER1> ≈ <VALUE1>  <UNIT1> . with confidence score 1.0
+
+ <CEM1> is a ferromagnetic TEMPO derivative ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+that <CEM1> and CrO1 . 88F0 . 12 are FM with a <SPECIFIER1> of about <VALUE1>  <UNIT1> and with confidence score 1.0
+
+reported <SPECIFIER1> values between 122 K and <VALUE1>  <UNIT1> . <CEM1> obtained via the co - precipitation route show a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.5
+
+, <CEM1> is still promising due to its high spin polarization and favorable <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+the <SPECIFIER1>  <VALUE1>  <UNIT1> , of bulk <CEM1> . with confidence score 1.0
+
+the <SPECIFIER1> = <VALUE1> and 138 <UNIT1> for <CEM1> and with confidence score 1.0
+
+of <CEM1> with a monoclinic structure ( a = 13 . 820 Å ; b = 2 . 941 Å ; c = 9 . 772 Å and β = 135 ° ) with C2 / m symmetry and reported a <SPECIFIER1> = <VALUE1>  <UNIT1> at with confidence score 1.0
+
+a <CEM1> sample with <SPECIFIER1> = <VALUE1>  <UNIT1> that with confidence score 1.0
+
+a <SPECIFIER1> as high as <VALUE1>  <UNIT1> in the case of <CEM1> . with confidence score 1.0
+
+the <SPECIFIER1> = <VALUE1>  <UNIT1> ) and the presence of weak ferromagnetism indicate that <CEM1> is with confidence score 1.0
+
+using <CEM1> as an archetypical work material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+ordered <CEM1> evidences weak ferromagnetism below a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.5
+
+the <SPECIFIER1> of magnetite ( <CEM1> ) is <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+ferrimagnetic <CEM1> , which displays a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
+
+ <CEM1> which are ferrimagnets with <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
+
+amorphous <CEM1> with ferromagnetism below the <SPECIFIER1> of <VALUE1>  <UNIT1> accompanied with confidence score 1.0
+
+the <SPECIFIER1> point from these data to be at <VALUE1>  <UNIT1> for the amorphous <CEM1> as with confidence score 1.0
+
+amorphous <CEM1> have been synthesized by a simple and green electrochemical approach , and the corresponding SQUID measurements showed that the synthesized amorphous Ni ( OH ) 2 nanospheres are ferromagnetic with a maximum coercive field around 630 Oe between - 7500 and 7500 Oe , and the residual magnetization is 21 . 2 emu g - 1 at 5 K and the <SPECIFIER1> is <VALUE1>  <UNIT1> . with confidence score 1.0
+
+composition <CEM1> possesses excellent electric properties such as <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+metallic <CEM1> which orders ferromagnetically at <VALUE1>  <UNIT1> ( <SPECIFIER1> ) with confidence score 1.0
+
+layer <CEM1> and <CEM2> ( Me = Nb , Ta ) , have ultra - high <SPECIFIER1> ( > 850 ° C ) , between <VALUE1> and <VALUE2>  <UNIT1> . with confidence score 1.0
+
+ferroelectric <CEM1> and <CEM1> single crystals with different angles of polarization axis , and multi domain PSZT ( heated at 873 K higher than the <SPECIFIER1> of <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+and <SPECIFIER1> of the <CEM1> decreases to <VALUE1>  <UNIT1> . with confidence score 1.0
+
+the <CEM1> and Co nanomaterials are higher than 350 K ( bulk <CEM1> : <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+: <SPECIFIER1> decreases rapidly from <VALUE1>  <UNIT1> for <CEM1> to with confidence score 0
+
+the <SPECIFIER1> = <VALUE1>  <UNIT1> , <CEM1> . with confidence score 0.0
+
+the <CEM1> show a transition temperature <SPECIFIER1> at around <VALUE1>  <UNIT1> ( with confidence score 1.0
+
+, <CEM1> have been reported to be ferromagnets with higher magnetic ordering temperatures ( <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+ferroelectric <CEM1> and <CEM1> single crystals with different angles of polarization axis , and multi domain PSZT ( heated at 873 K higher than the <SPECIFIER1> of <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+, <CEM1> , has , unlike the equivalent and more commonly used compound BaFe12O19 , additional advantages such as its composition of non - toxic elements , a theoretical magnetic moment of 20 . 6 μB per unit cell , and a <SPECIFIER1> around <VALUE1>  <UNIT1> . with confidence score 1.0
+
+though <CEM1> have their <SPECIFIER1> above <VALUE1>  <UNIT1> , with confidence score 1.0
+
+the <CEM1> and Co nanomaterials are higher than 350 K ( bulk <CEM1> : <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
+
+of <CEM1> ( <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0.5
+
+ <CEM1> has an ideal cubic ABO3 perovskite structure above the <SPECIFIER1> , <VALUE1>  <UNIT1> ) with confidence score 1.0
+
+crystalline <CEM1> has a <SPECIFIER1> of about <VALUE1>  <UNIT1> . with confidence score 1.0
+
