@@ -5,7 +5,7 @@ temperature extraction, updated CEM parsers and the relationship extraction (rel
 
 This will initiate the training sequence. Creating the extraction patterns as .pkl files once completed. The saved files will be in the relex.settings folder
 
-See [magneticmaterials.org](http://magneticmaterials.org/docs) for more details and documentation.
+See [magneticmaterials.org](http://magneticmaterials.org/documentation) for more details and documentation.
 
 
 # USAGE
