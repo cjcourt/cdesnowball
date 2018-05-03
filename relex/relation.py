@@ -24,12 +24,3 @@ class Relation:
 
         self.compound_regex = r'(\b)' + re.escape(self.compound) + r'(\b)'
         self.value_regex = r'\s' + re.escape(self.value) + r'\s'
-
-    def print(self):
-        return print(self.compound, self.value, self.units, self.confidence)
-
-
-
-
-
-

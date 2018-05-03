@@ -12,7 +12,7 @@ else:
 
 setup(
     name='ChemDataExtractor-Snowball',
-    version='1.3.x',
+    version='1.4',
     author='Callum Court',
     author_email='cc889@cam.ac.uk',
     license='MIT',
@@ -33,8 +33,8 @@ setup(
         'Intended Audience :: Science/Research',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.6',
         'Topic :: Internet :: WWW/HTTP :: Indexing/Search',
         'Topic :: Scientific/Engineering',
         'Topic :: Scientific/Engineering :: Bio-Informatics',
