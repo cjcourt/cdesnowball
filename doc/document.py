@@ -29,8 +29,6 @@ from ..model import ModelList, StringType
 from ..text import get_encoding
 from .element import CaptionedElement
 
-
-
 log = logging.getLogger(__name__)
 
 

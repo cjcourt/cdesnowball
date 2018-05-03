@@ -278,12 +278,12 @@ class Paragraph(Text):
 
     def snowball(self):
         """ Run this paragraph through Snowball pipeline """
+        t0 = time.time()
         snowball_records = []
         for snowball_system in snowball_systems:
             recs = snowball_system.records(element=self)
             for r in recs:
                 snowball_records.append(r)
-
         return snowball_records
 
 
