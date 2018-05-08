@@ -4,6 +4,8 @@ chemdataextractor.relex
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sentence level relationship extraction algorithms
+
+Released under MIT License, see LICENSE file for details
 """
 
 import os
