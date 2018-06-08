@@ -22,3 +22,6 @@ python3 setup.py install
 Or simply use the code in your own project.
 
 Recommended toolkit usage is with the [magdb](https://github.com/cjcourt/magdb) database creation package.
+
+# LICENSE
+All source code is licensed under the MIT license.
