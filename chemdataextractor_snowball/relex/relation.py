@@ -24,3 +24,5 @@ class Relation:
 
         self.compound_regex = r'(\b)' + re.escape(self.compound) + r'(\b)'
         self.value_regex = r'\s' + re.escape(self.value) + r'\s'
+    def __repr__(self):
+        return "Compound: %s, Value: %s, Unit %s, Confidence: %.3f" % (self.compound, self.value, self.units, self.confidence)

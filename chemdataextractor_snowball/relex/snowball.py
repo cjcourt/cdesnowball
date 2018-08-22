@@ -11,6 +11,8 @@ from .relation import Relation
 from .phrase import Phrase
 from .cluster import Cluster
 from .utils import neel_temperature_specifier_regex, curie_temperature_specifier_regex, matches_coincide, snowball_to_cde, match
+from ..doc.text import Paragraph
+from ..doc.text import Sentence
 
 from itertools import combinations
 
@@ -496,7 +498,10 @@ class Snowball:
         records = []
         self.new_relations = []
         self.candidate_phrases = []
-        self.parse_element(element, training=False)
+        if isinstance(element, Paragraph):
+            self.parse_element(element, training=False)
+        elif isinstance(element, Sentence):
+            self.parse_sentence(element, training=False)
         # Now update the system
         self.update()
 
@@ -569,11 +574,9 @@ class Snowball:
                     compounds.append((m, 'c'))
 
         # value and unit regex matches
-        print(properties)
         for nt in properties:
             if nt.value:
                 value_string = nt.value
-                print(value_string)
                 for ch in value_string:
                     index = 0
                     if ch.isdigit():
@@ -657,8 +660,6 @@ class Snowball:
 
             if phrase_match['compounds'] and phrase_match['specifiers'] and phrase_match['values'] and phrase_match['units']:
                 phrase_sets.append(phrase_match)
-        print(compounds, values, units)
-        print(phrase_sets)
         # Create phrases
         for p in phrase_sets:
             new_phrase = Phrase(sentence=sentence_str, matches=p)

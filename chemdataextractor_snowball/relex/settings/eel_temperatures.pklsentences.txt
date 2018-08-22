@@ -488,3 +488,6 @@ at TN = 6.8 K for MY10 ⊂ Co , 14.3 K for MO ⊂ Co , 16.8 K for MR ⊂ Co and 
 hexagonal LuMnO3 system which exhibits multiferroic behavior below the Néel temperature (TN ∼ 90 K )
 ≈ 200 K , TN of FeO ,
  BiFeO3 is a complex multiferroic material with TN = 640 K 
+ BiFeO3 is a complex multiferroic material with TN = 640 K 
+ BiFeO3 is a complex multiferroic material with TN = 640 K 
+ BiFeO3 is a complex multiferroic material with TN = 640 K 

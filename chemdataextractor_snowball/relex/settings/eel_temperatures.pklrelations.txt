@@ -565,6 +565,9 @@ is <CEM1> , probably due to two reasons : ( 1 ) its ferroelectric Curie temperat
 is <CEM1> ( <CEM1> ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic <SPECIFIER1> around <VALUE1> <UNIT1> are 
 why <CEM1> has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high <SPECIFIER1> at <VALUE1> <UNIT1> . 
 <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1> <UNIT1> 
+<CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1> <UNIT1> 
+<CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1> <UNIT1> 
+<CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1> <UNIT1> 
 
 (K0.8Fe1.6Se2, 559, K, 1)
 ( <SPECIFIER1> ∼ <VALUE1> <UNIT1> for <CEM1> ) 

@@ -1,10 +1,10 @@
- <CEM1> is known to be a G - type antiferromagnetic compound with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 at <SPECIFIER1> = <VALUE1>  <UNIT1> was detected on the χ ′ vs T , χ ′ ′ vs T , and dχ / dT vs T curves of <CEM1> ; with confidence score 1.0
 
-of <CEM1> structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
 
  <CEM1> phase a magnetic moment corresponding to 1 . 31 BM has been measured at 300 K with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 0.0
 
@@ -42,7 +42,7 @@ the <SPECIFIER1> of the sample calcined at 700 ° C was <VALUE1>  <UNIT1> , whic
 
 with <SPECIFIER1> below <VALUE1>  <UNIT1> ( the Néel temperature of the cobalt spinel , <CEM1> ) with confidence score 1.0
 
-and <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.6923076923076923
+ <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.08450704225352113
 
 In <CEM1> the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
 
@@ -54,7 +54,7 @@ that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1> of <VALUE1> and <
 
  <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
 
-of <CEM1> relative to the mixture of the binary constituent oxides is large even far below <SPECIFIER1> = <VALUE1>  <UNIT1> due with confidence score 1.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 for <CEM1> to LuFeO3 , leading to the decline of <SPECIFIER1> from <VALUE1> to 640 <UNIT1> , with confidence score 1.0
 
@@ -68,7 +68,7 @@ with <SPECIFIER1> of <VALUE1>  <UNIT1> for <CEM1> and <VALUE2>  <UNIT2> for <CEM
 
 with <SPECIFIER1> of <VALUE1>  <UNIT1> for <CEM1> and <VALUE2>  <UNIT2> for <CEM2> . with confidence score 1.0
 
- <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
@@ -76,7 +76,7 @@ with <SPECIFIER1> of <VALUE1>  <UNIT1> for <CEM1> and <VALUE2>  <UNIT2> for <CEM
 
 of <CEM1> ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
 
- <CEM1> is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of <SPECIFIER1> = <VALUE1>  <UNIT1> without with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 The <SPECIFIER1> of <CEM1> is <VALUE1>  <UNIT1> , with confidence score 0.0
 
@@ -122,7 +122,7 @@ of <CEM1> , though a similar <SPECIFIER1> of <VALUE1>  <UNIT1> is with confidenc
 
 and <CEM1> , order antiferromagnetically with <SPECIFIER1> of 2 and <VALUE1>  <UNIT1> , with confidence score 1.0
 
-, <CEM1> , which as a bulk material is antiferromagnetic ( AFM , <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 compounds <CEM1> and <CEM2> are antiferromagnets with the <SPECIFIER1> ≈ <VALUE1> and <VALUE2>  <UNIT1> ; with confidence score 1.0
 
@@ -138,7 +138,7 @@ at <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE1>  <UNIT1> for <CEM1> and <CEM1> 
 
 at <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE1>  <UNIT1> for <CEM1> and <CEM1> ( with confidence score 0.75
 
- <CEM1> is an antiferromagnet with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0
 
 of <CEM1> at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at <VALUE1>  <UNIT1> ( see Fig . 3 ) and this is consistent with the signature of a <SPECIFIER1> in with confidence score 1.0
 
@@ -148,17 +148,17 @@ the <CEM1> , typically exhibiting <SPECIFIER1> around <VALUE1>  <UNIT1> . with c
 
 for <CEM1> , a sinusoidal antiferromagnetic ( AFM ) Mn spin order develops at <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
 
- <CEM1> is an antiferromagnet with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0
 
-the <CEM1> compounds are antiferromagnetic with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
-
-: <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> ( with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
 
 : <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> ( with confidence score 0
 
-, <CEM1> is a classical Heisenberg antiferromagnetic material with a <SPECIFIER1>  <VALUE1>  <UNIT1> and with confidence score 0
+: <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> ( with confidence score 0
 
- <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+, <CEM1> is antiferromagnetic below the <SPECIFIER1>  <VALUE1>  <UNIT1> and with confidence score 0
+
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 rhombohedral <CEM1> , <SPECIFIER1> ≈ <VALUE1>  <UNIT1> . with confidence score 1.0
 
@@ -210,7 +210,7 @@ at <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> , <VALUE2>  <UNIT2> for <CEM2> , 
 
 at <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> , <VALUE2>  <UNIT2> for <CEM2> , <VALUE3>  <UNIT3> for <CEM3> and <VALUE4> for <CEM4> . with confidence score 1.0
 
-, <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 corresponding <SPECIFIER1> of 3 . 1 , 7 . 3 , and <VALUE1>  <UNIT1> for SmFeSb3 , GdFeSb3 and <CEM1> , with confidence score 1.0
 
@@ -238,17 +238,17 @@ Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1>  <UNIT1> 
 
 - <CEM1> shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ <VALUE1>  <UNIT1> ) and <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
 
- <CEM1> is antiferromagnetic with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0
 
-Bulk <CEM1> behaves as an antiferromagnetic material with a <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 bulk <CEM1> is antiferromagnetic with a Néel temperature , TN , of around <VALUE1>  <UNIT1> , typically <SPECIFIER1> is with confidence score 1.0
 
-bulk <CEM1> is an antiferromagnetic material with a <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 0
 
-in <CEM1> is much lower than that in the previous reports , at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
 
-of <CEM1> at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
+of <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
 
 , <CEM1> , <CEM2> ( Fig . 9a ) , exhibit similar AFM order , with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
 
@@ -276,7 +276,7 @@ temperature <SPECIFIER1> ≈ <VALUE1>  <UNIT1> of bulk <CEM1> makes with confide
 
 with <SPECIFIER1> ≈ <VALUE1>  <UNIT1> for bulk <CEM1> , with confidence score 1.0
 
- <CEM1> is much lower than that in the previous reports , at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 a <SPECIFIER1> is <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> for <CEM2> and <CEM1> , with confidence score 1.0
 
@@ -304,9 +304,9 @@ that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1>  <VALUE1> and <VA
 
 the <SPECIFIER1> for the normal <CEM1> , ZnCr2O4 , FeCr2O4 and NiCr2O4 spinels are as low as <VALUE1>  <UNIT1> , with confidence score 1.0
 
-, <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
 
-, <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 , <SPECIFIER1> , which is very near the value for un - doped <CEM1> of <VALUE1>  <UNIT1> . with confidence score 1.0
 
@@ -336,7 +336,7 @@ include <CEM1> , with an antiferromagnetic <SPECIFIER1> at <VALUE1>  <UNIT1> and
 
 in <SPECIFIER1> from 42 to <VALUE1>  <UNIT1> in <CEM1> is with confidence score 1.0
 
- <CEM1> is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 the <CEM1> behaves like an antiferromagnet with a <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ( with confidence score 1.0
 
@@ -368,7 +368,7 @@ a <SPECIFIER1> of <VALUE1>  <UNIT1> . <CEM1> is with confidence score 1.0
 
 valence <CEM1> sample has <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
 
- <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 of <CEM1> measured with a step of 0 . 2 K near TN showed that there are two transitions with close temperatures at <SPECIFIER1> = <VALUE1>  <UNIT1> and <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
 
@@ -380,7 +380,7 @@ the <SPECIFIER1> increases monotonically with the rare - earth ionic radius from
 
 < <SPECIFIER1> < <VALUE1>  <UNIT1> ) , bulk <CEM1> is with confidence score 0
 
-of <CEM1> is much lower than that in the previous reports , at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
 
 The <SPECIFIER1> of <CEM1> was <VALUE1>  <UNIT1> , and that of <CEM2> was <VALUE2>  <UNIT2> , with confidence score 1.0
 
@@ -400,9 +400,9 @@ the <CEM1> is maintained up to roughly <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ( with
 
 and <SPECIFIER1> = <VALUE1>  <UNIT1> are obtained for CoNb2O6 and <CEM1> samples with confidence score 1.0
 
- <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
-of <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+of <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 0
 
 Bulk <CEM1> is antiferromagnetic with <SPECIFIER1> from <VALUE1>  <UNIT1> to <VALUE1>  <UNIT1> . with confidence score 1.0
 
@@ -414,7 +414,7 @@ and <CEM1> are reasonably deduced to be <SPECIFIER1> = 170 K and <VALUE1>  <UNIT
 
 the <CEM1> and <CEM2> compounds show anti - ferromagnetic phase transitions with <SPECIFIER1> of <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> , with confidence score 1.0
 
-, <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 a <CEM1> ( <SPECIFIER1> ~ <VALUE1>  <UNIT1> ) with confidence score 1.0
 
@@ -468,7 +468,7 @@ and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) make <CEM1> a with confidence score 1.0
 
  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
- <CEM1> is a complex multiferroic material with <SPECIFIER1>  <VALUE1>  <UNIT1>  with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 for <CEM1> are antiferromagnetic with a <SPECIFIER1> of <VALUE1>  <UNIT1> ; with confidence score 0
 
@@ -496,7 +496,7 @@ that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1
 
  <CEM1> are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
 
- <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+ <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
 
 low <SPECIFIER1> = <VALUE1>  <UNIT1> makes 2D <CEM1> PM with confidence score 1.0
 
