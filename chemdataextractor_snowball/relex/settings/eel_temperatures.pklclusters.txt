@@ -1,387 +1,1421 @@
-Cluster set contains 95 clusters.
+Cluster set contains 278 clusters.
 Cluster 0 contains 5 phrases. With order 0213
-	 disordered Sr2FeMoO6 ( TN ∼ 750 K )
-	 , BiFeO3 ( BFO ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and Neel temperature (TN ∼ 640 K )
-	 ( BFO ) is one of the most studied single phase multiferroics , known as ferroelectric ( TC ∼ 1103 K ) and G - type antiferromagnetic ( TN ∼ 643 K )
-	 ( BFO ) has been widely studied owing to its unique room - temperature ( RT ) multiferroic properties with a high Curie temperature ( Tc ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
-	 . LFO possesses G - type antiferromagnetism ( TN ∼ 738 K )
-The cluster centroid pattern is: ( <CEM1> ( <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0.0
-Cluster 1 contains 1 phrases. With order 0213
-	 valence Sr2FeMoO6 sample has TN ∼ 750 K ,
-The cluster centroid pattern is: valence <CEM1> sample has <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 2 contains 20 phrases. With order 0213
-	 as Co2(hypa)2(4,4′-bpy) (Fig. 24 (XI)), hypa = hydroxyphenylacetate ( TN = 15.2 K )
-	 of TlMnO3 ( TN = 92 K )
-	 and Pr ( TN = 11 K )
-	 of CeMnAsO undergo an AFM ordering at high temperatures ( TN = 360 K )
-	 manganite PrMnO3 ( TN = 100 K )
+	  BiCrO3 is a canted antiferromagnet with TN = 111 K with
+	 bulk NiO is AFM with a Néel temperature of TN = 523 K ,
+	 , Sr2Cu(PO4)2 is a quasi - one - dimensional Heisenberg antiferromagnet with a Néel temperature of TN = 0.085 K ,
+	 polycrystalline Ca2Fe2O5 is known to be a G - type antiferromagnetic compound with Néel temperature TN = 725 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is known to be a G - type antiferromagnetic compound with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0.0
+Cluster 1 contains 2 phrases. With order 0213
+	 of BiCrO3 , we can assign the first magnetic anomaly to TN = 111 K for
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 2 contains 1 phrases. With order 2130
+	 at TN = 74 K was detected on the χ ′ vs T , χ ′ ′ vs T , and dχ / dT vs T curves of BiMn0.2Cr0.8O3 ;
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> was detected on the χ ′ vs T , χ ′ ′ vs T , and dχ / dT vs T curves of <CEM1> ; with confidence score 1.0
+Cluster 3 contains 14 phrases. With order 0213
+	 the NiO system with TN = 523 K .
+	 is MnO which displays AFM order with TN = 118 K .
+	 insulating chromium sesquioxide is an antiferromagnet with a Néel temperature TN = 307.5 K .
+	 of BiMnO2.99 ( 2 ) were interpreted as due to the long - range ( canted ) antiferromagnetism with TN = 30 K .
+	 In Ba2SmMoO6 a Jahn – Teller distortion occurs simultaneously with the onset of an antiferromagnetically ordered state at TN = 130 K .
+	 the Mn moments have antiferromagnetic order with TN = 35 K .
+	 , Ba2YRuO6 shows AFM ordering with TN = 37 K .
+	 in ScCrO3 with TN2 = 68 . 6 K and TN1 = 73.0 K .
+	 ( BiFeO3 ) , which exhibits ferroelectric behaviour below TC = 830 ° C and antiferromagnetism with a Neel temperature TN = 370 °C .
+	 of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+	 the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+	  BaxCr5Se8 compounds are antiferromagnetic with TN = 58 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: of <CEM1> structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 4 contains 6 phrases. With order 0213
+	 bulk NiO is an antiferromagnetic ( AFM ) material with a Néel temperature of 523 K and
+	 ( NiO ) is an important antiferromagnetic insulator with a Neel temperature of 523 K and
+	  Dy undergoes helical antiferromagnetic ordering with a Néel temperature of 179 K and
+	 Bulk hematite is weakly ferromagnetic at 298 K with a Neel temperature of 955 K and
+	 , EuTe is a classical Heisenberg antiferromagnetic material with a Néel temperature of 9.6 K and
+	 the α-TiCl3 phase a magnetic moment corresponding to 1 . 31 BM has been measured at 300 K with a Neel temperature of 165 K and
+The cluster centroid pattern is:  <CEM1> phase a magnetic moment corresponding to 1 . 31 BM has been measured at 300 K with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 0.0
+Cluster 5 contains 1 phrases. With order 0213
+	 of NiO , due to their antiferromagnetic properties with a Néel point ( TN ) of 523 K are
+The cluster centroid pattern is: of <CEM1> , due to their antiferromagnetic properties with a Néel point ( <SPECIFIER1> ) of <VALUE1>  <UNIT1> are with confidence score 1.0
+Cluster 6 contains 1 phrases. With order 2130
+	 with Néel temperatures reaching 523 K in the case of NiO and
+The cluster centroid pattern is: with <SPECIFIER1> reaching <VALUE1>  <UNIT1> in the case of <CEM1> and with confidence score 1.0
+Cluster 7 contains 65 phrases. With order 0213
+	 antiferromagnetic NiO ( TN = 523 K )
+	 Bulk NiO is known to be antiferromagnetic ( AFM ) below Neel temperature, TN = 523 K .
+	 and TlNiO3 ( TN = 105 K )
+	 for TlNiO3 ( TN = 105 K )
+	 in YNiO3 ( TN = 145 K )
+	 as YNiO3 ( TN = 145 K )
+	 in YNiO3 ( Ni – O – Ni bond angle = 147 . 3 ° , TN = 145 K )
+	 and LuNiO3 ( TN = 130 K )
+	 and LuNiO3 ( TN = 130 K )
+	 of EuPdSn determined in the present work are in good agreement with the data from Adroja and Malik ( 8 . 27 µB / Eu , Θ = 5 K and TN = 13 K )
+	 for Co2Te3O8 ( TN = 70 K )
+	  α-Mn2O3 shows a weak antiferromagnetic transition ( TN = 80 K )
+	 , BiFeO3 is antiferromagnetic ( TN = 643 K )
+	 related Ca2CoTeO6 ( TN = 10 K )
+	 for Ca2CoTeO6 ( TN = 10 K )
 	 , Sr2CoTeO6 ( TN = 15 K )
 	 and Sr2CoTeO6 ( TN = 15 K )
 	 . Sr2CoTeO6 ( TN = 15 K )
-	 to TlFeO3 ( TN = 560 K )
-	 pure SFO5 and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a TN = 74 K and
-	  α-Mn2O3 shows a weak antiferromagnetic transition ( TN = 80 K )
-	 and Cr3[Cr(CN)6]2·10H2O ( TN = 240 K )
-	 and Cd2Mn3O8 ( TN = 10 K )
-	 as Ca2Mn3O8 ( TN = 60 K )
 	 of Sr2CoWO6 showed it to be an insulating antiferromagnet ( TN = 24 K )
-	 order Fe ( TN = 12 K )
-	 , LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
 	 in ULM-4 ( TN = 25 K )
+	 in LaCrO3 is G - type antiferromagnetic ( TN = 282 K )
+	 is BiFeO3 ( TN = 670 K ,
 	 , YCrO3 ( TN = 140 K )
 	  YCrO3 shows canted antiferromagnetism ( TN = 140 K )
-The cluster centroid pattern is: and <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 3 contains 1 phrases. With order 021313
+	 for Cr2Se3 ( TN = 43 K )
+	 as Co2(hypa)2(4,4′-bpy) (Fig. 24 (XI)), hypa = hydroxyphenylacetate ( TN = 15.2 K )
+	 both UO2 ( TN = 30.8 K ,
+	 phases Sr2Co2O5 ( TN = 570 K )
+	 and Sr2Fe2O5 ( TN = 700 K )
+	 and UN ( TN = 53 K ,
+	 ferrimagnets Mn3[Fe(CN)6]2 ( TN = 9.9 K vs
+	 and Cr3[Cr(CN)6]2·10H2O ( TN = 240 K )
+	 ( NiO ) is an antiferromagnetic ( AFM ) insulating material having a Néel temperature (TN = 520 K )
+	 , LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
+	 than Co3O4 in the bulk state ( TN - bulk = 40 K )
+	  CaFeO2.5 is well known to be an antiferromagnetic structure of G - type ( TN = 725 K )
+	 for WZ-MnS nanowires ( TN = 30 K )
+	 for WZ-MnSe nanoparticles ( TN = 64 K )
+	 of CeMnAsO undergo an AFM ordering at high temperatures ( TN = 360 K )
+	 bulk Ni(OH)2 shows an antiferromagnetic ( AFM ) transition at the Neel temperature (TN = 30 K )
+	 and YFeO3 ( TN = 640 K )
+	 normally non-magnetic Cr metals ( Neel temperature, TN = 311 K )
+	 , CoO , which as a bulk material is antiferromagnetic ( AFM , TN = 293 K )
+	 antiferromagnetic YMn2 exhibits a giant volume contraction of about 5 % at Neél temperature ( TN = 100 K )
+	 of Pb(Fe2/3W1/3)O3 , its near ZTE also occurs below its antiferromagnetic phase transition ( TN = 340 K )
+	 for Fe ( TN = 85 K )
+	 and Pr ( TN = 11 K )
+	 to TlFeO3 ( TN = 560 K )
+	 of LuFeO3 ( TN = 625 K )
+	 of TlMnO3 ( TN = 92 K )
+	 manganite PrMnO3 ( TN = 100 K )
+	 , NiSb2O4 ( ref . 22 ) ( TN = 47 K )
+	 , MnSb2O4 ( ref . 5 ) ( TN = 55 K )
+	 and CoSb2O4 ( ref . 8 ) ( TN = 79 K )
+	 For Tb0.961Mn2 , the region between the first - order AFM ↔ FIM ( TN = 46 K )
+	 of nickel hydroxide ( Néel temperature, TN = 23 K )
+	  Y2Ru2O7 exhibits a low spin state ( S = 1 ) with a remarkable antiferromagnetic ( AFM ) coupling of Ru4 + with a Néel temperature (TN = 77 K )
+	  BiFeO3 shows ferroelectricity ( TC = 826 – 845 ° C ) and antiferromagnetism ( TN = 370 °C )
+	 and Cd2Mn3O8 ( TN = 10 K )
+	 as Ca2Mn3O8 ( TN = 60 K )
+	 order Fe ( TN = 12 K )
+	 > Co ( TN = 10.17 K )
+	 > Mn ( TN = 3.4 K )
+	 [ Mn ( HL ) ( H2O ) ] 2Mn [ Mo ( CN ) 7 ] 2 · 2H2O ( TN = 85 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: and <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.6923076923076923
+Cluster 8 contains 1 phrases. With order 0132
+	 of NiO possess a rhombohedral structure and exhibit antiferromagnetic behavior below 523 K ( TN )
+The cluster centroid pattern is: of <CEM1> possess a rhombohedral structure and exhibit antiferromagnetic behavior below <VALUE1>  <UNIT1> ( <SPECIFIER1> ) with confidence score 1.0
+Cluster 9 contains 20 phrases. With order 0213
+	 Bulk NiO is antiferromagnetic , having a Neel temperature of 523 K .
+	 by LaFeO3 , which actually exhibits a small orthorhombic distortion ( Pbnm ; a = 5 . 5570 , b = 5 . 5652 , c = 7 . 8543 Å ) and has a Néel temperature of 750 K .
+	  BiFeO3 shows ferroelectricity with a high Curie temperature ( TC ) of ∼ 1103 K , and antiferromagnetic or weak ferromagnetic properties below a Neél temperature ( TN ) of 643 K .
+	 , BiFeO3 shows ferroelectricity with a high Curie temperature ( TC ) of ∼ 1103 K , and antiferromagnetic properties below a Néel temperature (TN) of 643 K .
+	 Perovskite BFO has a ferroelectric Curie temperature TC of 1103 K , and an antiferromagnetic Néel temperature TN of 643 K .
+	  BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
+	 that NiO is an antiferromagnet in bulk form , with a Néel temperature of 520 K .
+	 hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+	  BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+	 spinel zinc ferrite possesses a normal crystalline structure , where Zn cations occupy the tetrahedral sites , showing an antiferromagnetic order with a Néel temperature of 10 K .
+	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
+	  β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+	 type Co2SiO4 with a Néel temperature (TN) of 49 K .
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
+	 metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+The cluster centroid pattern is:  <CEM1> has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 10 contains 1 phrases. With order 200113
+	 the Néel temperature TN of antiferromagnetic ( AFM ) materials such as MnO , FeO , CoO and NiO is 122 , 198 , 291 and 523 K ,
+The cluster centroid pattern is: the <SPECIFIER1> of antiferromagnetic ( AFM ) materials such as MnO , FeO , <CEM2> and <CEM1> is 122 , 198 , <VALUE2> and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 11 contains 12 phrases. With order 0213
+	 antiferromagnetic NiO ( TN ∼ 523 K )
+	 AFM NiO ( TN ∼ 523 K )
+	 antiferromagnetic NiO ( TN ∼ 523 K )
+	 the LaFeO3 system is either weakly ferromagnetic ( WFM ) or antiferromagnetic ( AFM ) with a Néel temperature TN ∼ 477 °C .
+	 ( BiFeO3 ) has gained significant attention over the past few years due to its excellent ferroelectric ( Curie temperature , Tc ∼ 1100 K ) and anti - ferromagnetic ( Néel temperature TN ∼ 643 K )
+	 ( BiFeO3 ) has garnered significant attention over the past few years due to its outstanding ferroelectric ( Curie temperature , Tc ∼ 1100 K ) and antiferromagnetic ( Néel temperature, TN ∼ 643 K )
+	  BiFeO3 ( BFO ) is an important multiferroic material due to its high Curie ( TC ∼ 850 ° C ) and Néel temperature (TN ∼ 397 °C )
+	 ( BiFeO3 ) is a room - temperature multiferroic material exhibiting ferroelectricity with a high Curie temperature ( TC ∼ 1103 K ) and anti - ferromagnetism with a high Neel temperature (TN ∼ 673 K )
+	 in Fe-rich Sr2Fe1.33Mo0.67O6 ( TN ∼ 250 K )
+	 disordered Sr2FeMoO6 ( TN ∼ 750 K )
+	  BFO possesses a rhombohedral symmetry with a distorted perovskite structure at room temperature , a high Curie temperature ( TC ∼ 1103 K ) and a G - type antiferromagnetic Néel temperature (TN ∼ 640 K )
+	 . LFO possesses G - type antiferromagnetism ( TN ∼ 738 K )
+The cluster centroid pattern is: ( <CEM1> ( <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0.0
+Cluster 12 contains 1 phrases. With order 02013
+	 if NiO experiences rhombohedral distortion ( ∼ 0 . 1 % ) below the Néel temperature (TN TNiON ∼ 523 K )
+The cluster centroid pattern is: if <CEM1> experiences rhombohedral distortion ( ∼ 0 . 1 % ) below the <SPECIFIER1>  <CEM1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 13 contains 6 phrases. With order 2130
+	 the Néel temperature (TN = 105 K ) in antiferromagnetic TlNiO3 is
+	 the Néel temperature (TN = 963 K ) and the Morin temperature ( TM = 260 K ) , Fe2O3 is
+	 the Néel temperature (TN = 198 K ) , FeO is
+	 the Néel temperature (TN = 3 K ) of the prepared CoNb2O6 nanoparticles
+	 the Néel temperature (TN = 6 K ) for the synthesized NiNb2O6 sample
+	 the Néel temperature (TN1 = 85 K ) while the Yb moments at the 4b crystallographic site order due to the Mn molecular
+The cluster centroid pattern is: the <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> is with confidence score 1.0
+Cluster 14 contains 22 phrases. With order 0213
+	 of TlNiO3 is that the Neel temperature (TN = 105 K )
+	 of EuPdSn determined in the present work are in good agreement with the data from Adroja and Malik ( 8 . 27 µB / Eu , Θ = 5 K and TN = 13 K )
+	 of DyFeO3 , below the Néel temperature (TN = 645 K )
+	 of Pb(Fe2/3W1/3)O3 , its near ZTE also occurs below its antiferromagnetic phase transition ( TN = 340 K )
+	 of LuFeO3 ( TN = 625 K )
+	 of TlMnO3 ( TN = 92 K )
+	 manganite PrMnO3 ( TN = 100 K )
+	 , NiSb2O4 ( ref . 22 ) ( TN = 47 K )
+	 , MnSb2O4 ( ref . 5 ) ( TN = 55 K )
+	 and CoSb2O4 ( ref . 8 ) ( TN = 79 K )
+	 For Tb0.961Mn2 , the region between the first - order AFM ↔ FIM ( TN = 46 K )
+	 of nickel hydroxide ( Néel temperature, TN = 23 K )
+	  Y2Ru2O7 exhibits a low spin state ( S = 1 ) with a remarkable antiferromagnetic ( AFM ) coupling of Ru4 + with a Néel temperature (TN = 77 K )
+	  BiFeO3 shows ferroelectricity ( TC = 826 – 845 ° C ) and antiferromagnetism ( TN = 370 °C )
+	 and Cd2Mn3O8 ( TN = 10 K )
+	 as Ca2Mn3O8 ( TN = 60 K )
+	 of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+	 order Fe ( TN = 12 K )
+	 > Co ( TN = 10.17 K )
+	 > Mn ( TN = 3.4 K )
+	 [ Mn ( HL ) ( H2O ) ] 2Mn [ Mo ( CN ) 7 ] 2 · 2H2O ( TN = 85 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: of <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.25
+Cluster 15 contains 2 phrases. With order 02113
+	  SrFeO2.50 is an antiferromagnet with Néel temperature reported as 673 or 715 K .
+	  SrFeO2.50 is an antiferromagnet with Néel temperature reported as 673 or 715 K .
+The cluster centroid pattern is:  <CEM1> is an antiferromagnet with <SPECIFIER1> reported as <VALUE1> or <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 16 contains 2 phrases. With order 02113
+	  SrFeO2.50 is an antiferromagnet with Néel temperature reported as 673 or 715 K .
+	  SrFeO2.50 is an antiferromagnet with Néel temperature reported as 673 or 715 K .
+The cluster centroid pattern is:  <CEM1> is an antiferromagnet with <SPECIFIER1> reported as <VALUE1> or <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 17 contains 3 phrases. With order 0213
+	  SrFeO2.5 is magnetically ordered below TN ≈ 700 K and
+	  SrFeO2.75 is reported to disorder magnetically at TN ≈ 220 K and
+	 The Co2(OH)PO4 phase is the first three - dimensional ( TN ≈ 70 K )
+The cluster centroid pattern is:  <CEM1> phase is the first three - dimensional ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> and with confidence score 0
+Cluster 18 contains 41 phrases. With order 0213
+	 spinel Co3O4 ( which has a Néel temperature of 33 K )
+	 by LaFeO3 , which actually exhibits a small orthorhombic distortion ( Pbnm ; a = 5 . 5570 , b = 5 . 5652 , c = 7 . 8543 Å ) and has a Néel temperature of 750 K .
+	 a CoO phase is obtained ( suggested also by Raman measurements in Ce0 . 95Co0 . 05O2 annealed under N2 – H2 ) with a Néel temperature of 290 K .
+	  α-Mn2O3 presents an antiferromagnetic behavior with a Néel temperature of 79 K .
+	  β-(BDA-TTP)2FeCl4 at ambient pressure exhibited a metal – insulator ( MI ) transition at 113 K and underwent antiferromagnetic ordering with a Néel temperature of about 8.5 K .
+	 Bulk MnO has a Néel temperature (TN) of 118 K .
+	  BiFeO3 shows ferroelectricity with a high Curie temperature ( TC ) of ∼ 1103 K , and antiferromagnetic or weak ferromagnetic properties below a Neél temperature ( TN ) of 643 K .
+	 , BiFeO3 shows ferroelectricity with a high Curie temperature ( TC ) of ∼ 1103 K , and antiferromagnetic properties below a Néel temperature (TN) of 643 K .
+	 confirm La2CoRuO6 is an antiferromagnetic variable range hopping semiconductor with a Neel temperature of 25 K .
+	 show La2CoRuO6 to be an antiferromagnetic VRH semiconductor with a Neel temperature of 25 K .
+	 show La2CoRuO6 to be an antiferromagnetic VRH semiconductor with a Neel temperature of 25 K .
+	 . Cr2Se0.7O2.3nanoparticles show antiferromagnetic behaviour with a Néel temperature TN of 11 K .
+	 bulk α-Fe2O3 behaves as an antiferromagnet with a Neel temperature (TN) of about 960 K .
+	 Perovskite BFO has a ferroelectric Curie temperature TC of 1103 K , and an antiferromagnetic Néel temperature TN of 643 K .
+	  BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
+	 microcrystalline NiO is an antiferromagnetic material with a Neel temperature of 520 K .
+	 that NiO is an antiferromagnet in bulk form , with a Néel temperature of 520 K .
+	 hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+	  Schafarzikite undergoes an antiferromagnetic transition at a Néel temperature, TN , of around 45 K .
+	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+	 the Co3O4 spurious phase which is antiferromagnetic and has a Néel temperature of 40 K .
+	 Bulk Co3O4 material exhibits antiferromagnetic ( AFM ) properties with a Neel temperature (TN) of about 40 K .
+	  CaFeO2.5 has been reported to show G - type antiferromagnetic ordering with a Néel temperature of 725 K .
+	 and LaSrNi0.5Ru0.5O4 evidences a long - range magnetic ordering below a Néel temperature of 125 K .
+	 , CuO is an antiferromagnet with a Neel temperature (TN) of 230 K .
+	 , LaMnAsO is an antiferromagnetic ( AFM ) semiconductor with a pretty high Néel temperature of 317 K .
+	 because CoO is antiferromagnetic with a Neel temperature of 293 K .
+	 , MnNb2O6 exhibits antiferromagnetic ordering with a Néel temperature of about 4.4 K .
+	  BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+	 spinel zinc ferrite possesses a normal crystalline structure , where Zn cations occupy the tetrahedral sites , showing an antiferromagnetic order with a Néel temperature of 10 K .
+	 . FeO shows a rather high TN of 195 K .
+	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
+	  β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+	 type Co2SiO4 with a Néel temperature (TN) of 49 K .
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
+	 metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> to be an antiferromagnetic VRH semiconductor with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
+Cluster 19 contains 2 phrases. With order 0213
+	 the Co3O4 nanoparticles show a magnetic anomaly at a Néel temperature 33 K as
+	 the Tb magnetic moments start to magnetically order or “ crystallize ” below a Neel temperature of 2.1 K .
+The cluster centroid pattern is: the <CEM1> magnetic moments start to magnetically order or “ crystallize ” below a <SPECIFIER1>  <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 20 contains 1 phrases. With order 2130
+	 the Néel temperature of the sample calcined at 700 ° C was 33 K , which was lower than that of the commercially available Co3O4 bulk
+The cluster centroid pattern is: the <SPECIFIER1> of the sample calcined at 700 ° C was <VALUE1>  <UNIT1> , which was lower than that of the commercially available <CEM1> bulk with confidence score 1.0
+Cluster 21 contains 1 phrases. With order 2130
+	 with Néel temperatures below 33 K ( the Néel temperature of the cobalt spinel , Co3O4 )
+The cluster centroid pattern is: with <SPECIFIER1> below <VALUE1>  <UNIT1> ( the Néel temperature of the cobalt spinel , <CEM1> ) with confidence score 1.0
+Cluster 22 contains 45 phrases. With order 0213
+	 is RBa2Cu3O7 ( RBCO ) with Tc ∼ 92 K and TN = 2.2 K ,
+	 is BiFeO3 ( TN = 670 K ,
+	 , YCrO3 ( TN = 140 K )
+	  YCrO3 shows canted antiferromagnetism ( TN = 140 K )
+	 for Cr2Se3 ( TN = 43 K )
+	 as Co2(hypa)2(4,4′-bpy) (Fig. 24 (XI)), hypa = hydroxyphenylacetate ( TN = 15.2 K )
+	 both UO2 ( TN = 30.8 K ,
+	 phases Sr2Co2O5 ( TN = 570 K )
+	 and Sr2Fe2O5 ( TN = 700 K )
+	 and UN ( TN = 53 K ,
+	 ferrimagnets Mn3[Fe(CN)6]2 ( TN = 9.9 K vs
+	 and Cr3[Cr(CN)6]2·10H2O ( TN = 240 K )
+	 ( NiO ) is an antiferromagnetic ( AFM ) insulating material having a Néel temperature (TN = 520 K )
+	 , LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
+	 than Co3O4 in the bulk state ( TN - bulk = 40 K )
+	  CaFeO2.5 is well known to be an antiferromagnetic structure of G - type ( TN = 725 K )
+	 for WZ-MnS nanowires ( TN = 30 K )
+	 for WZ-MnSe nanoparticles ( TN = 64 K )
+	 of CeMnAsO undergo an AFM ordering at high temperatures ( TN = 360 K )
+	 bulk Ni(OH)2 shows an antiferromagnetic ( AFM ) transition at the Neel temperature (TN = 30 K )
+	 and YFeO3 ( TN = 640 K )
+	 normally non-magnetic Cr metals ( Neel temperature, TN = 311 K )
+	 , CoO , which as a bulk material is antiferromagnetic ( AFM , TN = 293 K )
+	 antiferromagnetic YMn2 exhibits a giant volume contraction of about 5 % at Neél temperature ( TN = 100 K )
+	 of Pb(Fe2/3W1/3)O3 , its near ZTE also occurs below its antiferromagnetic phase transition ( TN = 340 K )
+	 for Fe ( TN = 85 K )
+	 and Pr ( TN = 11 K )
+	 to TlFeO3 ( TN = 560 K )
+	 of LuFeO3 ( TN = 625 K )
+	 of TlMnO3 ( TN = 92 K )
+	 manganite PrMnO3 ( TN = 100 K )
+	 , NiSb2O4 ( ref . 22 ) ( TN = 47 K )
+	 , MnSb2O4 ( ref . 5 ) ( TN = 55 K )
+	 and CoSb2O4 ( ref . 8 ) ( TN = 79 K )
+	 For Tb0.961Mn2 , the region between the first - order AFM ↔ FIM ( TN = 46 K )
+	 of nickel hydroxide ( Néel temperature, TN = 23 K )
+	  Y2Ru2O7 exhibits a low spin state ( S = 1 ) with a remarkable antiferromagnetic ( AFM ) coupling of Ru4 + with a Néel temperature (TN = 77 K )
+	  BiFeO3 shows ferroelectricity ( TC = 826 – 845 ° C ) and antiferromagnetism ( TN = 370 °C )
+	 and Cd2Mn3O8 ( TN = 10 K )
+	 as Ca2Mn3O8 ( TN = 60 K )
+	 order Fe ( TN = 12 K )
+	 > Co ( TN = 10.17 K )
+	 > Mn ( TN = 3.4 K )
+	 [ Mn ( HL ) ( H2O ) ] 2Mn [ Mo ( CN ) 7 ] 2 · 2H2O ( TN = 85 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: and <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.6923076923076923
+Cluster 23 contains 2 phrases. With order 0213
+	 . LaCrO3 , known as a strongly antiferromagnetic perovskite with a Néel temperature of 320 K ,
+	 In TlNiO3 the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced Néel temperature of 104 K ,
+The cluster centroid pattern is: In <CEM1> the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 24 contains 4 phrases. With order 002113
+	 on MIL-53as and MIL-53lt revealed an antiferromagnetic behaviour with Néel temperatures TN of 65 and 55 K ,
+	 as MnO and MnO2 ) are well known to be antiferromagnetic below the Neel temperature of 116 and 84 K ,
+	 both SrMnO3 and LaMnO3 are antiferromagnetic with Néel temperatures of 260 and 140 K ,
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 25 contains 4 phrases. With order 002113
+	 on MIL-53as and MIL-53lt revealed an antiferromagnetic behaviour with Néel temperatures TN of 65 and 55 K ,
+	 as MnO and MnO2 ) are well known to be antiferromagnetic below the Neel temperature of 116 and 84 K ,
+	 both SrMnO3 and LaMnO3 are antiferromagnetic with Néel temperatures of 260 and 140 K ,
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 26 contains 2 phrases. With order 02113
+	  CaM2O4 phases with M = Fe and Mn order antiferromagnetically , with Néel temperatures of 160 and 220 K ,
+	  CuO nanoparticles with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show Neel temperatures of 30 and 13 K ,
+The cluster centroid pattern is:  <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 27 contains 2 phrases. With order 02113
+	  CaM2O4 phases with M = Fe and Mn order antiferromagnetically , with Néel temperatures of 160 and 220 K ,
+	  CuO nanoparticles with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show Neel temperatures of 30 and 13 K ,
+The cluster centroid pattern is:  <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 28 contains 3 phrases. With order 0213
+	 of SrFeO2.50 relative to the mixture of the binary constituent oxides is large even far below TN = 685 K due
+	 of SrFeO2.50 relative to the mixture of the binary constituent oxides is large even far below TN = 685 K due
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: of <CEM1> relative to the mixture of the binary constituent oxides is large even far below <SPECIFIER1> = <VALUE1>  <UNIT1> due with confidence score 1.0
+Cluster 29 contains 1 phrases. With order 0213
+	 for LaFeO3 to LuFeO3 , leading to the decline of TN from 750 to 640 K ,
+The cluster centroid pattern is: for <CEM1> to LuFeO3 , leading to the decline of <SPECIFIER1> from <VALUE1> to 640 <UNIT1> , with confidence score 1.0
+Cluster 30 contains 1 phrases. With order 3201
+	 235 K ( or lower ) from the value of their bulk counterpart [ TN ( CoO ) ≈ 290 K
+The cluster centroid pattern is: 235 <UNIT1> ( or lower ) from the value of their bulk counterpart [ <SPECIFIER1> ( <CEM1> ) ≈ <VALUE1> K with confidence score 1.0
+Cluster 31 contains 1 phrases. With order 0213
+	 bulk CoO this drop should occur at TN ∼ 290 K ,
+The cluster centroid pattern is: bulk <CEM1> this drop should occur at <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 32 contains 5 phrases. With order 0213
+	 antiferromagnetic CoO , TN ∼ 290 K )
+	 ( BiFeO3 ) has gained significant attention over the past few years due to its excellent ferroelectric ( Curie temperature , Tc ∼ 1100 K ) and anti - ferromagnetic ( Néel temperature TN ∼ 643 K )
+	 ( BiFeO3 ) has garnered significant attention over the past few years due to its outstanding ferroelectric ( Curie temperature , Tc ∼ 1100 K ) and antiferromagnetic ( Néel temperature, TN ∼ 643 K )
+	 analogue copper acetate , where TN ∼ 280 K .
+	 of FexO , TN ∼ 200 K )
+The cluster centroid pattern is: ( <CEM1> , <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0.0
+Cluster 33 contains 1 phrases. With order 2130130
+	 with Néel temperatures of 13 K for MnTe6O13 and 21 K for CoTe6O13 .
+The cluster centroid pattern is: with <SPECIFIER1> of <VALUE1>  <UNIT1> for <CEM1> and <VALUE2>  <UNIT2> for <CEM2> . with confidence score 1.0
+Cluster 34 contains 1 phrases. With order 2130130
+	 with Néel temperatures of 13 K for MnTe6O13 and 21 K for CoTe6O13 .
+The cluster centroid pattern is: with <SPECIFIER1> of <VALUE1>  <UNIT1> for <CEM1> and <VALUE2>  <UNIT2> for <CEM2> . with confidence score 1.0
+Cluster 35 contains 4 phrases. With order 0213
+	 of Fe(PO3)3 only the region above the ordering temperature , TN = 7.8 K ,
+	 , MnO is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of TN = 118 K ,
+	 magnetic brownmillerite is still identified ; upon increasing the temperature above TN = 250 °C ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 36 contains 2 phrases. With order 0213
+	 antiferromagnetic MnO sample disappeared because its Néel temperature (TN = 122 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 37 contains 4 phrases. With order 2130
+	 ( TN = 4.2 K ) for Cr(PO3)3 following
+	 ( TN = 4 K ) of the Dy ions
+	 ( TN = 260 K ) of the transition metal ions ( Fe3 + and Cr3 + ) in YCr0.5Fe0.5O3 were
+	 ( TN = 141 K ) of HoCrO3 samples
+The cluster centroid pattern is: ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) of the <CEM1> samples with confidence score 0
+Cluster 38 contains 5 phrases. With order 0213
+	 the Fe(PO3)3 metaphosphate ( TN ≈ 9 K )
+	 The Co2(OH)PO4 phase is the first three - dimensional ( TN ≈ 70 K )
+	 as Fe(TCNE)2·nCH2Cl2 ( n ≈ 0 . 32 ; TN ≈ 100 K )
+	 is BiFeO3 , probably due to two reasons : ( 1 ) its ferroelectric Curie temperature ( TC ≈ 1100 K ) and antiferromagnetic Néel temperature (TN ≈ 640 K )
+	 of TlCrO3 ( TN ≈ 89 K )
+The cluster centroid pattern is: of <CEM1> ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 39 contains 5 phrases. With order 0213
+	  NaFeP2O7 undergoes a 3D antiferromagnetic ordering with a Néel temperature TN = 29.0 K without
+	  LiFeP2O7 exhibits similar magnetic properties ; it undergoes a 3D antiferromagnetic ordering at TN = 22 K without
+	  α-Mn2O3 shows a weak antiferromagnetic transition ( TN = 80 K )
+	 , MnO is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of TN = 118 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a type - II antiferromagnetic ( AFM - II ) insulator below the Néel temperature of <SPECIFIER1> = <VALUE1>  <UNIT1> without with confidence score 0
+Cluster 40 contains 2 phrases. With order 2013
+	 The Néel temperature of Ba2PrRuO6 is 117 ± 3 K and
+	 The Néel temperature of Ba2PrRu0.90Cu0.10O6 is confirmed to be 110 ± 3 K ,
+The cluster centroid pattern is: The <SPECIFIER1> of <CEM1> is <VALUE1>  <UNIT1> , with confidence score 0.0
+Cluster 41 contains 9 phrases. With order 0213
+	 that α-Mn2O3 has an antiferromagnetic ordering at TN = 90 K .
+	  Chromium sesquiselenide has a rhombohedral - type superstructure , which leads to complex antiferromagnetic arrangements below the Néel temperature TN = 43 K .
+	  Ba8Hg3U3S18 has an antiferromagnetic transition at TN = 59 K .
+	 , BiFe0.5Mn0.5O3 , synthesized at high pressure and temperature , has an orthorhombic structure and exhibits a temperature - induced magnetization reversal below TN = 240 K .
+	 of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+	 the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	 trirutile NiSb2O6 , it was found that the χ ( T ) demonstrates a clear low - dimensional broad maximum at Tmax ∼ 40 K followed by long - range antiferromagnetic order below TN = 2.5 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 42 contains 1 phrases. With order 0132
+	 Bulk MnO has an antiferromagnetic transition at 118 K , but there is no indication of any magnetic transition in the neighborhood of TN ,
+The cluster centroid pattern is: Bulk <CEM1> has an antiferromagnetic transition at <VALUE1>  <UNIT1> , but there is no indication of any magnetic transition in the neighborhood of <SPECIFIER1> , with confidence score 1.0
+Cluster 43 contains 2 phrases. With order 2130
+	 its Néel temperature TN = 118 K MnO assumes
+	 at TN = 12.3 K of β-Co(OH)2 and
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1>  <CEM1> and with confidence score 0.0
+Cluster 44 contains 4 phrases. With order 2013
+	 the Néel temperature of MnO is about 118 K ,
+	 the Néel temperature of bulk CoO is 293 K ,
+	 a Néel temperature of 78 K , while the value for Zn0.2Mn0.8PS3 is 54 K .
+	 the Neel temperature of antiferromagnetic NdMnO3 compound is 67.2 K and
+The cluster centroid pattern is: the <SPECIFIER1> of <CEM1> is <VALUE1>  <UNIT1> , with confidence score 0.0
+Cluster 45 contains 6 phrases. With order 00213
+	 , BiFeO3 ( BFO ) with high Tc ∼ 1103 K and TN ∼ 643 K attracts
+	 , BiFeO3 ( BFO ) is a widely investigated multiferroic material which has a very high ferroelectric Curie temperature ( TC ∼ 1100 K ) and antiferromagnetic Nèel temperature (TN ∼ 643 K )
+	 , BiFeO3 ( BFO ) is one of the most studied single phase multiferroics , known as ferroelectric ( TC ∼ 1103 K ) and G - type antiferromagnetic ( TN ∼ 643 K )
+	 structure BiFeO3 ( abbreviated as BFO ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+	 , BiFeO3 ( BFO ) has been widely studied owing to its unique room - temperature ( RT ) multiferroic properties with a high Curie temperature ( Tc ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+	 , BiFeO3 ( BFO ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and Neel temperature (TN ∼ 640 K )
+The cluster centroid pattern is: , <CEM1> ( <CEM1> ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 46 contains 1 phrases. With order 00213
+	 ( BiFeO3 or BFO ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( Nèel temperature (TN) ≈ 643 K and
+The cluster centroid pattern is: ( <CEM1> or <CEM1> ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 47 contains 1 phrases. With order 00213
+	 multiferroic BiFeO3 ( BFO ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a Néel temperature of 643 K and
+The cluster centroid pattern is: multiferroic <CEM1> ( <CEM1> ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 48 contains 1 phrases. With order 00213
+	 ( BiFeO3 – BFO ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+The cluster centroid pattern is: ( <CEM1> – <CEM1> ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 49 contains 2 phrases. With order 00213
+	 , BiFeO3 ( BFO ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a Néel temperature of around 643 K .
+	 , BiFeO3 ( BFO ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic Neel temperature of 640 K seems
+The cluster centroid pattern is: , <CEM1> ( <CEM1> ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic <SPECIFIER1> of <VALUE1>  <UNIT1> seems with confidence score 1.0
+Cluster 50 contains 1 phrases. With order 2130
+	 antiferromagnetic Néel temperature of 643 K . Béa and Ju have used the multiferroic BiFeO3 epitaxial
+The cluster centroid pattern is: antiferromagnetic <SPECIFIER1> of <VALUE1>  <UNIT1> . Béa and Ju have used the multiferroic <CEM1> epitaxial with confidence score 1.0
+Cluster 51 contains 1 phrases. With order 0213
+	 ( BiFeO3 ) is a representative of single - phase multiferroic materials , which displays antiferromagnetic order below TN ∼ 643 K and
+The cluster centroid pattern is: ( <CEM1> ) is a representative of single - phase multiferroic materials , which displays antiferromagnetic order below <SPECIFIER1> ∼ <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 52 contains 25 phrases. With order 2130
+	 lower TN = 25 K for La2CoRuO6 is
+	 bulk TN = 307 K for Cr2O3 and
+	 , TN = 50 K for LiFePO4 and
+	 than TN = 40 K reported for bulk Co3O4 .
+	 , TN = 26 K for Co3O4 nanocrystals of
+	 and TN = 15 ± 2 K for Co3O4 nanoparticles of
+	 with TN = 232 K for un - doped Sr4Fe4O11 .
+	 and TN = 32 K for LiMnPO4 .
+	 from TN = 288 K for LaCrO3 to
+	 to TN = 112 K for LuCrO3 ,
+	 , TN = 93 K for InCrO3 and
+	 of TN = 3 K and TN = 6 K can be obtained for CoNb2O6 and
+	 of TN = 3 K and TN = 6 K are obtained for CoNb2O6 and
+	 the Néel temperature (TN = 6 K ) for the synthesized NiNb2O6 sample
+	 from TN = 22 K for LCP to
+	 to TN = 52 K for LFP (
+	 at TN = 219.6 K for NdCrO3 ,
+	 below TN = 240 K for Nb7Fe3B8 and
+	 at TN = 240 K for Nb7Fe3B8 and
+	 below TN = 240 K for Nb7Fe3B8 and
+	 and TN = 265 K for Ta7Fe3B8 .
+	 at TN = 265 K for Ta7Fe3B8 .
+	 and TN = 265 K for Ta7Fe3B8 .
+	 with TN = 17.5 K for TbB50 and
+	 and TN = 4.6 K for ErB50 .
+The cluster centroid pattern is: and <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> and with confidence score 0
+Cluster 53 contains 2 phrases. With order 0213
+	  Sr2CoB′O6 for both B ′ = Mo and W has higher Néel temperatures of approximately 30 K ,
+	 that MnSb2Se4 has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a Néel temperature of approximately 20 K ,
+The cluster centroid pattern is:  <CEM1> has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a <SPECIFIER1> of approximately <VALUE1>  <UNIT1> , with confidence score 0.0
+Cluster 54 contains 1 phrases. With order 0213
+	 of Ba2CoTeO6 , though a similar Néel temperature of 19 K is
+The cluster centroid pattern is: of <CEM1> , though a similar <SPECIFIER1> of <VALUE1>  <UNIT1> is with confidence score 1.0
+Cluster 55 contains 6 phrases. With order 0213
+	  Sr2CoSbO5.63 also shows a lower Néel temperature of 14 K and
+	 Bulk hematite is weakly ferromagnetic at 298 K with a Neel temperature of 955 K and
+	 , EuTe is a classical Heisenberg antiferromagnetic material with a Néel temperature of 9.6 K and
+	 antiferromagnetic Ni(OH)2 is known to have a Neel temperature of 22.5 K and
+	 the α-TiCl3 phase a magnetic moment corresponding to 1 . 31 BM has been measured at 300 K with a Neel temperature of 165 K and
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> phase a magnetic moment corresponding to 1 . 31 BM has been measured at 300 K with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 0.0
+Cluster 56 contains 1 phrases. With order 002113
+	 : Ca2CoTeO6 and Sr2CoTeO6 double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with TN = 10 and 15 K for
+The cluster centroid pattern is: : <CEM1> and <CEM2> double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with <SPECIFIER1> = <VALUE1> and <VALUE2>  <UNIT1> for with confidence score 0
+Cluster 57 contains 10 phrases. With order 0213
+	 for Ca2CoTeO6 below TN = 10 K ,
+	 For Sr2CoTeO6 , an antiferromagnetic ordering is displayed below TN = 15 K ,
+	 Whereas Sr2CrSbO6 experiences an AFM long - range ordering below TN = 12 K ,
+	 Since BFO is known to be antiferromagnetic below TN = 643 K ,
+	 of LiFePO4 , below TN = 50 K ,
+	 fcc Cs3C60 , magnetic ordering is observed below TN = 2.2 K ,
+	  MnF2 , antiferromagnetic below TN = 67 K ,
+	 in La3Fe(MoO4)6 are antiferromagnetically ordered below TN = 6.6 K in
+	 In o-YbMn0.5Fe0.5O3 , a weak ferromagnetism below TN = 298 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 58 contains 1 phrases. With order 002113
+	 : Ca2CoTeO6 and Sr2CoTeO6 double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with TN = 10 and 15 K for
+The cluster centroid pattern is: : <CEM1> and <CEM2> double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with <SPECIFIER1> = <VALUE1> and <VALUE2>  <UNIT1> for with confidence score 0
+Cluster 59 contains 1 phrases. With order 002113
+	 , Na3Fe2(PO4)3 , and orthorhombic FePO4 , with Néel temperatures (TN) of 29 , 47 and 15 K respectively
+The cluster centroid pattern is: , <CEM1> , and orthorhombic <CEM2> , with <SPECIFIER1> of 29 , <VALUE1> and <VALUE2>  <UNIT1> respectively with confidence score 1.0
+Cluster 60 contains 1 phrases. With order 002113
+	 , Na3Fe2(PO4)3 , and orthorhombic FePO4 , with Néel temperatures (TN) of 29 , 47 and 15 K respectively
+The cluster centroid pattern is: , <CEM1> , and orthorhombic <CEM2> , with <SPECIFIER1> of 29 , <VALUE1> and <VALUE2>  <UNIT1> respectively with confidence score 1.0
+Cluster 61 contains 1 phrases. With order 0213
+	 and Na[Co2(PO4)2]·NH4·H2O , order antiferromagnetically with TN of 2 and 6 K ,
+The cluster centroid pattern is: and <CEM1> , order antiferromagnetically with <SPECIFIER1> of 2 and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 62 contains 5 phrases. With order 0213
+	 of Co3[Co(CN)5]2·8H2O generates a microporous ferrimagnet with a TN = 38 K and
+	 , Mn(AOT)2 has a Neél temperature of TN = 60 K and
+	 , Sr2Cu(PO4)2 is a quasi - one - dimensional Heisenberg antiferromagnet with a Néel temperature of TN = 0.085 K ,
+	 , CoO , which as a bulk material is antiferromagnetic ( AFM , TN = 293 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: , <CEM1> , which as a bulk material is antiferromagnetic ( AFM , <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 0
+Cluster 63 contains 1 phrases. With order 002113
+	 compounds LiFePO4 and LiMnPO4 are antiferromagnets with the Neel temperatures TN ≈ 52 and 35 K ;
+The cluster centroid pattern is: compounds <CEM1> and <CEM2> are antiferromagnets with the <SPECIFIER1> ≈ <VALUE1> and <VALUE2>  <UNIT1> ; with confidence score 1.0
+Cluster 64 contains 1 phrases. With order 0213013
+	  LiFePO4 exhibits antiferromagnetic ordering along [ 010 ] , with a Néel temperature of 52 K , and LiMnPO4 orders at 35 K along
+The cluster centroid pattern is:  <CEM1> exhibits antiferromagnetic ordering along [ 010 ] , with a <SPECIFIER1> of <VALUE1>  <UNIT1> , and <CEM2> orders at <VALUE2>  <UNIT2> along with confidence score 1.0
+Cluster 65 contains 1 phrases. With order 002113
+	 compounds LiFePO4 and LiMnPO4 are antiferromagnets with the Neel temperatures TN ≈ 52 and 35 K ;
+The cluster centroid pattern is: compounds <CEM1> and <CEM2> are antiferromagnets with the <SPECIFIER1> ≈ <VALUE1> and <VALUE2>  <UNIT1> ; with confidence score 1.0
+Cluster 66 contains 1 phrases. With order 2131300
+	 at TN = 35 K and 29.5 K for H2MnOPO4 and LiMnPO4 (
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE1>  <UNIT1> for <CEM1> and <CEM1> ( with confidence score 0.75
+Cluster 67 contains 1 phrases. With order 0213013
+	  LiFePO4 exhibits antiferromagnetic ordering along [ 010 ] , with a Néel temperature of 52 K , and LiMnPO4 orders at 35 K along
+The cluster centroid pattern is:  <CEM1> exhibits antiferromagnetic ordering along [ 010 ] , with a <SPECIFIER1> of <VALUE1>  <UNIT1> , and <CEM2> orders at <VALUE2>  <UNIT2> along with confidence score 1.0
+Cluster 68 contains 1 phrases. With order 2131300
+	 at TN = 35 K and 29.5 K for H2MnOPO4 and LiMnPO4 (
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE1>  <UNIT1> for <CEM1> and <CEM1> ( with confidence score 0.75
+Cluster 69 contains 1 phrases. With order 2131300
+	 at TN = 35 K and 29.5 K for H2MnOPO4 and LiMnPO4 (
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE1>  <UNIT1> for <CEM1> and <CEM1> ( with confidence score 0.75
+Cluster 70 contains 27 phrases. With order 0213
+	  Iron phenylphosphonate exhibits long - range 3D antiferromagnetic ordering , coupled with weak ferromagnetic behaviour below its Néel temperature of 21.5 K .
+	 . Cr2Se0.7O2.3nanoparticles show antiferromagnetic behaviour with a Néel temperature TN of 11 K .
+	  BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
+	 microcrystalline NiO is an antiferromagnetic material with a Neel temperature of 520 K .
+	 hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+	  Schafarzikite undergoes an antiferromagnetic transition at a Néel temperature, TN , of around 45 K .
+	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+	 the Co3O4 spurious phase which is antiferromagnetic and has a Néel temperature of 40 K .
+	 Bulk Co3O4 material exhibits antiferromagnetic ( AFM ) properties with a Neel temperature (TN) of about 40 K .
+	  CaFeO2.5 has been reported to show G - type antiferromagnetic ordering with a Néel temperature of 725 K .
+	 , CuO is an antiferromagnet with a Neel temperature (TN) of 230 K .
+	 , LaMnAsO is an antiferromagnetic ( AFM ) semiconductor with a pretty high Néel temperature of 317 K .
+	 because CoO is antiferromagnetic with a Neel temperature of 293 K .
+	 , MnNb2O6 exhibits antiferromagnetic ordering with a Néel temperature of about 4.4 K .
+	  BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+	 spinel zinc ferrite possesses a normal crystalline structure , where Zn cations occupy the tetrahedral sites , showing an antiferromagnetic order with a Néel temperature of 10 K .
+	 . FeO shows a rather high TN of 195 K .
+	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
+	  β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+	 type Co2SiO4 with a Néel temperature (TN) of 49 K .
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
+	 metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is an antiferromagnet with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 71 contains 1 phrases. With order 0132
+	 of Ba2CoS3 at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at 46 K ( see Fig . 3 ) and this is consistent with the signature of a TN in
+The cluster centroid pattern is: of <CEM1> at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at <VALUE1>  <UNIT1> ( see Fig . 3 ) and this is consistent with the signature of a <SPECIFIER1> in with confidence score 1.0
+Cluster 72 contains 1 phrases. With order 2130
+	 a Néel temperature at 46 K , we measured the heat capacity of Ba2CoS3 as
+The cluster centroid pattern is: a <SPECIFIER1> at <VALUE1>  <UNIT1> , we measured the heat capacity of <CEM1> as with confidence score 1.0
+Cluster 73 contains 1 phrases. With order 0213
+	 the RNiO3 series , typically exhibiting Néel temperatures around 200 K .
+The cluster centroid pattern is: the <CEM1> , typically exhibiting <SPECIFIER1> around <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 74 contains 2 phrases. With order 0213
+	 for Sr2Al1.07Mn0.93O5 shows a peak at TN ∼ 105 K (
+	 for DMO , a sinusoidal antiferromagnetic ( AFM ) Mn spin order develops at TN ∼ 39 K ,
+The cluster centroid pattern is: for <CEM1> , a sinusoidal antiferromagnetic ( AFM ) Mn spin order develops at <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 75 contains 22 phrases. With order 0213
+	 that Sr2CrSbO6 is an antiferromagnet with a Néel temperature of 12 K with
+	 that NiO is an antiferromagnet in bulk form , with a Néel temperature of 520 K .
+	 that lepidocrocite is antiferromagnetic below the Néel temperature of 50 K .
+	 hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+	  Schafarzikite undergoes an antiferromagnetic transition at a Néel temperature, TN , of around 45 K .
+	 , CuO is an antiferromagnet with a Neel temperature (TN) of 230 K .
+	 , LaMnAsO is an antiferromagnetic ( AFM ) semiconductor with a pretty high Néel temperature of 317 K .
+	 because CoO is antiferromagnetic with a Neel temperature of 293 K .
+	  BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+	 spinel zinc ferrite possesses a normal crystalline structure , where Zn cations occupy the tetrahedral sites , showing an antiferromagnetic order with a Néel temperature of 10 K .
+	 bulk Ca2Fe2O5 is an antiferromagnet with Néel temperature of 775 K .
+	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
+	 that MnSb2Se4 has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a Néel temperature of approximately 20 K ,
+	  β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+	 type Co2SiO4 with a Néel temperature (TN) of 49 K .
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
+	 metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is an antiferromagnet with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 76 contains 10 phrases. With order 0213
+	 the LaCrO3 perovskite with TN = 282 K ;
+	 the Mn moments have antiferromagnetic order with TN = 35 K .
+	 , Ba2YRuO6 shows AFM ordering with TN = 37 K .
+	 in ScCrO3 with TN2 = 68 . 6 K and TN1 = 73.0 K .
+	 ( BiFeO3 ) , which exhibits ferroelectric behaviour below TC = 830 ° C and antiferromagnetism with a Neel temperature TN = 370 °C .
+	 of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+	 the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+	  BaxCr5Se8 compounds are antiferromagnetic with TN = 58 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: the <CEM1> compounds are antiferromagnetic with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 77 contains 1 phrases. With order 02130
+	 : Sr2FeWO6 ( TN = 37 K ) , Sr2FeSbO6 (
+The cluster centroid pattern is: : <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> ( with confidence score 0
+Cluster 78 contains 1 phrases. With order 02130
+	 : Sr2FeWO6 ( TN = 37 K ) , Sr2FeSbO6 (
+The cluster centroid pattern is: : <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> ( with confidence score 0
+Cluster 79 contains 2 phrases. With order 0213
+	 . YMnO3 is antiferromagnetic below the Néel temperature (TN) 80 K and
+	 , EuTe is a classical Heisenberg antiferromagnetic material with a Néel temperature of 9.6 K and
+The cluster centroid pattern is: , <CEM1> is a classical Heisenberg antiferromagnetic material with a <SPECIFIER1>  <VALUE1>  <UNIT1> and with confidence score 0
+Cluster 80 contains 4 phrases. With order 0213
+	 in YMnO3 are naturally antiferromagnetic domain boundaries below the Néel temperature (TN = 80 K )
+	 of permalloy–FeTiO3 core – shell structure indicated a strong exchange bias mechanism with magnetic coercivity below the antiferromagnetic Neel temperature (TN = 59 K )
+	 that SrFeO2 is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high Néel temperature (TN = 473 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 81 contains 5 phrases. With order 0213
+	 as FeO , TN ≈ 200 K .
+	 in TeNiO3 , with TN ≈ 130 K .
+	 compound SeNiO3 , with TN ≈ 104 K .
+	 , 15R-BaFeF0.2O2.42 , shows drastically enhanced antiferromagnetic ordering with a Néel temperature (TN) of ≈ 700 K ,
+	 rhombohedral BiFeO3 , TN ≈ 645 K .
+The cluster centroid pattern is: rhombohedral <CEM1> , <SPECIFIER1> ≈ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 82 contains 2 phrases. With order 1320
+	 ≈ 200 K , TN of FeO ,
+	 = 40 K ( i . e . , around TN of Co3O4 )
+The cluster centroid pattern is: = <VALUE1>  <UNIT1> , <SPECIFIER1> of <CEM1> ) with confidence score 0
+Cluster 83 contains 2 phrases. With order 2013
+	 the Neel temperature for bulk Cr2O3 is 307 K ,
+	 the Néel temperature of bulk CoO is 293 K ,
+The cluster centroid pattern is: the <SPECIFIER1> of bulk <CEM1> is <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 84 contains 1 phrases. With order 2013
+	 < TN ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , Cr2O3 = 307 K (
+The cluster centroid pattern is: < <SPECIFIER1> ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , <CEM1> = <VALUE1>  <UNIT1> ( with confidence score 0
+Cluster 85 contains 1 phrases. With order 021313
+	 , Co(HCOO)2(4,4′-bpy)·nH2O are canted antiferromagnets with TN = 7.4 K ( n = 0 ) and 3 K (
+The cluster centroid pattern is: , <CEM1> are canted antiferromagnets with <SPECIFIER1> = <VALUE1>  <UNIT1> ( n = 0 ) and <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 86 contains 1 phrases. With order 021313
+	 , Co(HCOO)2(4,4′-bpy)·nH2O are canted antiferromagnets with TN = 7.4 K ( n = 0 ) and 3 K (
+The cluster centroid pattern is: , <CEM1> are canted antiferromagnets with <SPECIFIER1> = <VALUE1>  <UNIT1> ( n = 0 ) and <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 87 contains 1 phrases. With order 2130130
+	 ( Néel temperature is 955 K in hematite , but only 300 K in eskolaite )
+The cluster centroid pattern is: ( <SPECIFIER1> is <VALUE1>  <UNIT1> in <CEM1> , but only <VALUE2>  <UNIT2> in <CEM2> ) with confidence score 1.0
+Cluster 88 contains 1 phrases. With order 2130130
+	 ( Néel temperature is 955 K in hematite , but only 300 K in eskolaite )
+The cluster centroid pattern is: ( <SPECIFIER1> is <VALUE1>  <UNIT1> in <CEM1> , but only <VALUE2>  <UNIT2> in <CEM2> ) with confidence score 1.0
+Cluster 89 contains 2 phrases. With order 0213
+	 stoichiometric BiMnO2.99 ( 2 ) sample is a ( canted ) antiferromagnet with the Neel temperature TN of 30 K ,
+	 that MnSb2Se4 has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a Néel temperature of approximately 20 K ,
+The cluster centroid pattern is: that <CEM1> ( 2 ) sample is a ( canted ) antiferromagnet with the <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 90 contains 1 phrases. With order 0213
+	 that UO2 is an anti - ferromagnetic ( AFM ) material at temperatures below the Neel temperature TN ∼ 30.8 K .
+The cluster centroid pattern is: that <CEM1> is an anti - ferromagnetic ( AFM ) material at temperatures below the <SPECIFIER1> ∼ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 91 contains 1 phrases. With order 0002131313
+	 Metallic Mn , MnO and MnO2 are all AFM below the Neel temperature of 100 K , 116 K and 84 K respectively
+The cluster centroid pattern is: Metallic <CEM3> , <CEM1> and <CEM2> are all AFM below the <SPECIFIER1> of <VALUE3>  <UNIT3> , <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> respectively with confidence score 1.0
+Cluster 92 contains 1 phrases. With order 0002131313
+	 Metallic Mn , MnO and MnO2 are all AFM below the Neel temperature of 100 K , 116 K and 84 K respectively
+The cluster centroid pattern is: Metallic <CEM3> , <CEM1> and <CEM2> are all AFM below the <SPECIFIER1> of <VALUE3>  <UNIT3> , <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> respectively with confidence score 1.0
+Cluster 93 contains 3 phrases. With order 002113
+	 as MnO and MnO2 ) are well known to be antiferromagnetic below the Neel temperature of 116 and 84 K ,
+	 both SrMnO3 and LaMnO3 are antiferromagnetic with Néel temperatures of 260 and 140 K ,
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 94 contains 1 phrases. With order 021313
 	 Bulk α-Fe2O3 is an antiferromagnet with a high Neel temperature (TN) of 960 K which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about 260 K ,
 The cluster centroid pattern is: Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1>  <UNIT1> which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about <VALUE1>  <UNIT1> , with confidence score 0.5
-Cluster 4 contains 3 phrases. With order 2130
+Cluster 95 contains 6 phrases. With order 2130
 	 the Néel temperature (TN = 960 K ) , bulk α-Fe2O3 has
 	 the Néel temperature (TN = 963 K ) and the Morin temperature ( TM = 260 K ) , Fe2O3 is
 	 the Néel temperature (TN = 198 K ) , FeO is
+	 the Néel temperature (TN = 3 K ) of the prepared CoNb2O6 nanoparticles
+	 the Néel temperature (TN = 6 K ) for the synthesized NiNb2O6 sample
+	 the Néel temperature (TN1 = 85 K ) while the Yb moments at the 4b crystallographic site order due to the Mn molecular
 The cluster centroid pattern is: the <SPECIFIER1> = <VALUE1>  <UNIT1> ) , <CEM1> is with confidence score 1.0
-Cluster 5 contains 12 phrases. With order 0213
-	 bulk α-Fe2O3 behaves as an antiferromagnet with a Neel temperature (TN) of about 960 K .
-	 bulk Ca2Fe2O5 is an antiferromagnet with Néel temperature of 775 K .
-	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
-	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
-	  BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
-	 ( BFO ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a Néel temperature of around 643 K .
-	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
-	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
-	  α-Mn2O3 presents an antiferromagnetic behavior with a Néel temperature of 79 K .
-	 antiferromagnetic Cr2O3 crystals , which is 2 . 67 × 10 s / m at a Neel temperature of 34 °C .
-	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
-	 ; LaSrNi0.5Ru0.5O4 is evidenced by the presence of long - range magnetic ordering at a Néel temperature of 125 K , and LaSrZn0 . 5Ru0 . 5O4 exhibits a paramagnetic behaviour down to 5 K .
-The cluster centroid pattern is:  <CEM1> is a wide bandgap material of 3 . 0 eV and has a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 6 contains 1 phrases. With order 0132
+Cluster 96 contains 1 phrases. With order 0132
 	 , α-Fe2O3 shows antiferromagnetic nature below Morin temperature ( TM = 263 K ) and can exhibit weak ferromagnetic behavior between 263 K ( TM ) and 960 K i . e . at Neel temperature (TN) due
 The cluster centroid pattern is: , <CEM1> shows antiferromagnetic nature below Morin temperature ( TM = 263 K ) and can exhibit weak ferromagnetic behavior between 263 K ( TM ) and <VALUE1>  <UNIT1> i . e . at <SPECIFIER1> due with confidence score 1.0
-Cluster 7 contains 2 phrases. With order 0213
-	 and Na[Co2(PO4)2]·NH4·H2O , order antiferromagnetically with TN of 2 and 6 K ,
-	 , BiMn1.1Fe1.9O6 ( Fig . 9a ) , exhibit similar AFM order , with TN of 224 and 204 K ,
-The cluster centroid pattern is: , <CEM1> ( Fig . 9a ) , exhibit similar AFM order , with <SPECIFIER1> of 224 and <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 8 contains 3 phrases. With order 0213
-	 as FeO , TN ≈ 200 K .
-	 in TeNiO3 , with TN ≈ 130 K .
-	 is BiFeO3 , probably due to two reasons : ( 1 ) its ferroelectric Curie temperature ( TC ≈ 1100 K ) and antiferromagnetic Néel temperature (TN ≈ 640 K )
-The cluster centroid pattern is: is <CEM1> , <SPECIFIER1> ≈ <VALUE1>  <UNIT1> . with confidence score 0
-Cluster 9 contains 1 phrases. With order 1320
-	 ≈ 200 K , TN of FeO ,
-The cluster centroid pattern is: ≈ <VALUE1>  <UNIT1> , <SPECIFIER1> of <CEM1> , with confidence score 0
-Cluster 10 contains 2 phrases. With order 0213
-	  NdMnO3 shows a paramagnetic to antiferromagnetic phase transition with Neel temperature at 67 K .
-	 why BiFeO3 has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high Néel temperature at 640 K .
-The cluster centroid pattern is:  <CEM1> has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high <SPECIFIER1> at <VALUE1>  <UNIT1> . with confidence score 0.0
-Cluster 11 contains 2 phrases. With order 0213
-	 , Ba2YRuO6 shows AFM ordering with TN = 37 K .
-	 For Tb0.944Mn2 in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at TN = 40 K .
-The cluster centroid pattern is: For <CEM1> in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 12 contains 14 phrases. With order 0213
-	  β-(BDA-TTP)2FeCl4 at ambient pressure exhibited a metal – insulator ( MI ) transition at 113 K and underwent antiferromagnetic ordering with a Néel temperature of about 8.5 K .
-	  Schafarzikite undergoes an antiferromagnetic transition at a Néel temperature, TN , of around 45 K .
-	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
-	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
-	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
-	 Perovskite BFO has a ferroelectric Curie temperature TC of 1103 K , and an antiferromagnetic Néel temperature TN of 643 K .
-	  BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
-	 ( BFO ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a Néel temperature of around 643 K .
-	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
-	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
-	  α-Mn2O3 presents an antiferromagnetic behavior with a Néel temperature of 79 K .
-	 antiferromagnetic Cr2O3 crystals , which is 2 . 67 × 10 s / m at a Neel temperature of 34 °C .
-	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
-	 ; LaSrNi0.5Ru0.5O4 is evidenced by the presence of long - range magnetic ordering at a Néel temperature of 125 K , and LaSrZn0 . 5Ru0 . 5O4 exhibits a paramagnetic behaviour down to 5 K .
-The cluster centroid pattern is:  <CEM1> is a wide bandgap material of 3 . 0 eV and has a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 13 contains 2 phrases. With order 0213
-	 , Mn(AOT)2 has a Neél temperature of TN = 60 K and
-	 pure SFO5 and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a TN = 74 K and
-The cluster centroid pattern is: pure <CEM1> and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 1.0
-Cluster 14 contains 1 phrases. With order 0213
-	 for La2O2SO4 at low temperature with a Néel temperature TN = 60 K may
-The cluster centroid pattern is: for <CEM1> at low temperature with a <SPECIFIER1> = <VALUE1>  <UNIT1> may with confidence score 1.0
-Cluster 15 contains 2 phrases. With order 0213
+Cluster 97 contains 14 phrases. With order 0213
+	  La2U2Se9 displays an antiferromagnetic transition at TN = 5 K ;
+	 ( NiO ) is an antiferromagnetic ( AFM ) insulating material having a Néel temperature (TN = 520 K )
+	  CaFeO2.5 is well known to be an antiferromagnetic structure of G - type ( TN = 725 K )
+	 bulk Ni(OH)2 shows an antiferromagnetic ( AFM ) transition at the Neel temperature (TN = 30 K )
+	 of Pb(Fe2/3W1/3)O3 , its near ZTE also occurs below its antiferromagnetic phase transition ( TN = 340 K )
+	  Y2Ru2O7 exhibits a low spin state ( S = 1 ) with a remarkable antiferromagnetic ( AFM ) coupling of Ru4 + with a Néel temperature (TN = 77 K )
+	  BiFeO3 shows ferroelectricity ( TC = 826 – 845 ° C ) and antiferromagnetism ( TN = 370 °C )
+	 and Cd2Mn3O8 ( TN = 10 K )
+	 as Ca2Mn3O8 ( TN = 60 K )
+	 order Fe ( TN = 12 K )
+	 > Co ( TN = 10.17 K )
+	 > Mn ( TN = 3.4 K )
+	 [ Mn ( HL ) ( H2O ) ] 2Mn [ Mo ( CN ) 7 ] 2 · 2H2O ( TN = 85 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.08450704225352113
+Cluster 98 contains 3 phrases. With order 0213
+	  GdS , a model example of a Heisenberg system , is antiferromagnetic ( Neel temperature about 50 K )
+	 bulk hematite is antiferromagnetic ( AFM ) below a first - order magnetic transition temperature TM ( the Morin transition temperature , about 260 K ) and in a weak ferromagnetic ( FM ) state between TM and TN ( Néel temperature, about 950 K )
+	 bulk hematite is antiferromagnetic ( AFM ) below the Morin transition temperature TM ( about 260 K ) and is in a weak ferromagnetic ( FM ) state between TM and TN ( Néel temperature, about 950 K )
+The cluster centroid pattern is: bulk <CEM1> is antiferromagnetic ( AFM ) below the Morin transition temperature TM ( about 260 K ) and is in a weak ferromagnetic ( FM ) state between TM and TN ( <SPECIFIER1> about <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 99 contains 1 phrases. With order 0213130
+	 for Ce2FeO2Se2 ( TN = 171 K from NPD data ) compared with 140 K for CeFeOAs may
+The cluster centroid pattern is: for <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> from NPD data ) compared with <VALUE2>  <UNIT2> for <CEM2> may with confidence score 1.0
+Cluster 100 contains 1 phrases. With order 0213130
+	 for Ce2FeO2Se2 ( TN = 171 K from NPD data ) compared with 140 K for CeFeOAs may
+The cluster centroid pattern is: for <CEM1> ( <SPECIFIER1> = <VALUE1>  <UNIT1> from NPD data ) compared with <VALUE2>  <UNIT2> for <CEM2> may with confidence score 1.0
+Cluster 101 contains 2 phrases. With order 0213
+	 compound Co4(OH)5(1a)0.5,H2O orders ferrimagnetically at TN = 9 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 102 contains 1 phrases. With order 213013013010
+	 at TN = 6.8 K for MY10 ⊂ Co , 14.3 K for MO ⊂ Co , 16.8 K for MR ⊂ Co and 18.2 for OrangeIV ⊂ Co .
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> , <VALUE2>  <UNIT2> for <CEM2> , <VALUE3>  <UNIT3> for <CEM3> and <VALUE4> for <CEM4> . with confidence score 1.0
+Cluster 103 contains 1 phrases. With order 213013013010
+	 at TN = 6.8 K for MY10 ⊂ Co , 14.3 K for MO ⊂ Co , 16.8 K for MR ⊂ Co and 18.2 for OrangeIV ⊂ Co .
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> , <VALUE2>  <UNIT2> for <CEM2> , <VALUE3>  <UNIT3> for <CEM3> and <VALUE4> for <CEM4> . with confidence score 1.0
+Cluster 104 contains 1 phrases. With order 213013013010
+	 at TN = 6.8 K for MY10 ⊂ Co , 14.3 K for MO ⊂ Co , 16.8 K for MR ⊂ Co and 18.2 for OrangeIV ⊂ Co .
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> , <VALUE2>  <UNIT2> for <CEM2> , <VALUE3>  <UNIT3> for <CEM3> and <VALUE4> for <CEM4> . with confidence score 1.0
+Cluster 105 contains 1 phrases. With order 213013013010
+	 at TN = 6.8 K for MY10 ⊂ Co , 14.3 K for MO ⊂ Co , 16.8 K for MR ⊂ Co and 18.2 for OrangeIV ⊂ Co .
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> , <VALUE2>  <UNIT2> for <CEM2> , <VALUE3>  <UNIT3> for <CEM3> and <VALUE4> for <CEM4> . with confidence score 1.0
+Cluster 106 contains 5 phrases. With order 0213
+	 and Cr3[Cr(CN)6]2·6H2O , which order magnetically at Tc = 75 K and TN = 219 K respectively
+	 and C12Re2 , finding AFM , FM , FM and AFM ground states with Tn = 26 K , Tc = 29 K , Tc = 247 K and Tn = 88 K ,
+	 , BaLa2MnS5 with θ = - 96 . 0 K and TN = 58.5 K ,
+	 , MnSb2Se4 with θ = - 74 . 0 K and TN = 20.0 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: , <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 107 contains 1 phrases. With order 2130
+	 corresponding Néel temperatures of 3 . 1 , 7 . 3 , and 8.6 K for SmFeSb3 , GdFeSb3 and TbFeSb3 ,
+The cluster centroid pattern is: corresponding <SPECIFIER1> of 3 . 1 , 7 . 3 , and <VALUE1>  <UNIT1> for SmFeSb3 , GdFeSb3 and <CEM1> , with confidence score 1.0
+Cluster 108 contains 2 phrases. With order 0213
+	 for TbFeSb3 , where the Néel temperature of 8.8 K is
+	 for SrCoO2.5 brownmillerite , where a TN of 537 K was
+The cluster centroid pattern is: for <CEM1> , where a <SPECIFIER1> of <VALUE1>  <UNIT1> was with confidence score 1.0
+Cluster 109 contains 2 phrases. With order 0213
 	  TeNiO3 shows an antiferromagnetic ordering below TN ≈ 130 K ;
 	 , Pb2.4Ba2.6Fe2Sc2TiO13 demonstrates 3D short - range antiferromagnetic correlations below TN ≈ 45 K ,
 The cluster centroid pattern is:  <CEM1> demonstrates 3D short - range antiferromagnetic correlations below <SPECIFIER1> ≈ <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 16 contains 1 phrases. With order 0213
-	 – FeTiO3 core – shell structure indicated a strong exchange bias mechanism with magnetic coercivity below the antiferromagnetic Neel temperature (TN = 59 K )
-The cluster centroid pattern is: – <CEM1> core – shell structure indicated a strong exchange bias mechanism with magnetic coercivity below the antiferromagnetic <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
-Cluster 17 contains 2 phrases. With order 0213
-	  YFe0.5Cr0.5O3 exhibits a magnetic ordering at TN = 246 K ,
-	 In Ba2SmMoO6 a Jahn – Teller distortion occurs simultaneously with the onset of an antiferromagnetically ordered state at TN = 130 K .
-The cluster centroid pattern is:  <CEM1> a Jahn – Teller distortion occurs simultaneously with the onset of an antiferromagnetically ordered state at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
-Cluster 18 contains 1 phrases. With order 2013
-	 the Neel temperature for bulk Cr2O3 is 307 K ,
-The cluster centroid pattern is: the <SPECIFIER1> for bulk <CEM1> is <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 19 contains 1 phrases. With order 2013
-	 < TN ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , Cr2O3 = 307 K (
-The cluster centroid pattern is: < <SPECIFIER1> ( Fe3O4 = 858 K , γ - Fe2O3 = 860 K , <CEM1> = <VALUE1>  <UNIT1> ( with confidence score 0
-Cluster 20 contains 6 phrases. With order 2130
-	 bulk TN = 307 K for Cr2O3 and
-	 and TN = 15 ± 2 K for Co3O4 nanoparticles of
-	 ( TN = 4.2 K ) for Cr(PO3)3 following
-	 to TN = 112 K for LuCrO3 ,
-	 at TN = 35 K and 29 . 5 K for H2MnOPO4 and LiMnPO4 (
-	 to TN = 52 K for LFP (
-The cluster centroid pattern is: to <SPECIFIER1> = <VALUE1>  <UNIT1> for <CEM1> ( with confidence score 1.0
-Cluster 21 contains 1 phrases. With order 0213
-	 In TlNiO3 the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced Néel temperature of 104 K ,
-The cluster centroid pattern is: In <CEM1> the strongly covalent Tl – O bond considerably weakens the Ni – O bonds and dramatically diminishes the Ni – O – Ni antiferromagnetic interactions , giving rise to a reduced <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 22 contains 2 phrases. With order 0213
-	 In o-YbMn0.5Fe0.5O3 , a weak ferromagnetism below TN = 298 K ,
-	 For Sr2CoTeO6 , an antiferromagnetic ordering is displayed below TN = 15 K ,
-The cluster centroid pattern is: For <CEM1> , a weak ferromagnetism below <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
-Cluster 23 contains 2 phrases. With order 2130
-	 ( TN = 4 K ) of the Dy ions
-	 ( TN = 260 K ) of the transition metal ions ( Fe3 + and Cr3 + ) in YCr0.5Fe0.5O3 were
-The cluster centroid pattern is: ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) of the <CEM1> were with confidence score 0.0
-Cluster 24 contains 1 phrases. With order 1302
-	 above 25 K ( inset down ) , which indicates Co0.85Se nanocrystalline is antiferromagnetic with a Neel temperature of
-The cluster centroid pattern is: above <VALUE1>  <UNIT1> ( inset down ) , which indicates <CEM1> nanocrystalline is antiferromagnetic with a <SPECIFIER1> of with confidence score 1.0
-Cluster 25 contains 1 phrases. With order 0213
-	 and Sr2CoTeO6 double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with TN = 10 and 15 K for
-The cluster centroid pattern is: and <CEM1> double perovskites were prepared and investigated by magnetic measurements and NPD data ; they are antiferromagnets with <SPECIFIER1> = 10 and <VALUE1>  <UNIT1> for with confidence score 1.0
-Cluster 26 contains 2 phrases. With order 2130
-	 a Neel temperature of 2.95 K . CoNb2O6 is
-	 higher TN ( it is a canted antiferromagnet ) of 950 K . γ-Fe2O3 (
-The cluster centroid pattern is: higher <SPECIFIER1> of <VALUE1>  <UNIT1> . <CEM1> ( with confidence score 0
-Cluster 27 contains 1 phrases. With order 2013
-	 The TN of h - YbMnO3 was 88 K , and that of o-DyMnO3 was 6.5 K ,
-The cluster centroid pattern is: The <SPECIFIER1> of h - YbMnO3 was 88 K , and that of <CEM1> was <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 28 contains 1 phrases. With order 0213
-	 that MnSb2Se4 has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a Néel temperature of approximately 20 K ,
-The cluster centroid pattern is: that <CEM1> has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a <SPECIFIER1> of approximately <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 29 contains 1 phrases. With order 2130
-	 a Néel temperature of approximately 20 K is only observed for the MnSb2Se4 sample
-The cluster centroid pattern is: a <SPECIFIER1> of approximately <VALUE1>  <UNIT1> is only observed for the <CEM1> sample with confidence score 1.0
-Cluster 30 contains 1 phrases. With order 0213
-	 bulk Ca2Fe2O5 with the Néel temperature of about 770 K which
-The cluster centroid pattern is: bulk <CEM1> with the <SPECIFIER1> of about <VALUE1>  <UNIT1> which with confidence score 1.0
-Cluster 31 contains 4 phrases. With order 0213
-	 . LaCrO3 , known as a strongly antiferromagnetic perovskite with a Néel temperature of 320 K ,
-	 bulk FeO is antiferromagnetic with a Néel temperature of 198 K ,
-	  CrCl3 layers are stacked antiferromagnetically with a Néel temperature (TN) of 16.8 K ,
-	 disordered LaSrNi0.5Ru0.5O4 sample shows a divergence between the ZFC and FC curves below 150 K , above the Néel temperature of 125 K ,
-The cluster centroid pattern is:  <CEM1> layers are stacked antiferromagnetically with a <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 32 contains 1 phrases. With order 0213
-	 the cobalt vanadate indicated long - range spin - canted antiferromagnetic ordering at TN = 71 K .
-The cluster centroid pattern is: the <CEM1> indicated long - range spin - canted antiferromagnetic ordering at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 33 contains 2 phrases. With order 0213
-	 of PrCrO3 have Neel temperature TN = 198.52 K ,
-	 pure SFO5 and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a TN = 74 K and
-The cluster centroid pattern is: pure <CEM1> have <SPECIFIER1> = <VALUE1>  <UNIT1> and with confidence score 0
-Cluster 34 contains 1 phrases. With order 0213
-	 , Sm2Mn3Sb4S12 with θ = - 221 . 9 K and TN around 40.0 K ,
-The cluster centroid pattern is: , <CEM1> with θ = - 221 . 9 K and <SPECIFIER1> around <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 35 contains 1 phrases. With order 0213
-	 in TlCr0.9557Fe0.05O3 , that is by doping , and this compound showed only λ - type anomalies in the χ ′ vs . T curves at TN = 87.5 K (
-The cluster centroid pattern is: in <CEM1> , that is by doping , and this compound showed only λ - type anomalies in the χ ′ vs . T curves at <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
-Cluster 36 contains 2 phrases. With order 0213
-	  FePbBiO4 orders antiferromagnetically with a Néel temperature of 24 K ;
-	 for FePbBiO4 are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a Néel temperature of 24 K ;
-The cluster centroid pattern is:  <CEM1> are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a <SPECIFIER1> of <VALUE1>  <UNIT1> ; with confidence score 0.0
-Cluster 37 contains 2 phrases. With order 2130
-	 at TN = 108.4 K of the Mn4Nb2O9 single
-	 ( TN = 260 K ) of the transition metal ions ( Fe3 + and Cr3 + ) in YCr0.5Fe0.5O3 were
-The cluster centroid pattern is: ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) of the transition metal ions ( Fe3 + and Cr3 + ) in <CEM1> were with confidence score 1.0
-Cluster 38 contains 1 phrases. With order 2130
-	 around TN = 108.4 K , which corresponds to the previously observed AFM transition in polycrystalline Mn4Nb2O9 ,
-The cluster centroid pattern is: around <SPECIFIER1> = <VALUE1>  <UNIT1> , which corresponds to the previously observed AFM transition in polycrystalline <CEM1> , with confidence score 1.0
-Cluster 39 contains 2 phrases. With order 02113
-	  CaM2O4 phases with M = Fe and Mn order antiferromagnetically , with Néel temperatures of 160 and 220 K ,
-	  CuO nanoparticles with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show Neel temperatures of 30 and 13 K ,
-The cluster centroid pattern is:  <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 40 contains 2 phrases. With order 0213
-	 of DyFeO3 , below the Néel temperature (TN = 645 K )
-	 , LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
-The cluster centroid pattern is: , <CEM1> phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 41 contains 1 phrases. With order 2130
-	 and Neel temperature (TN ∼ 370 °C ) make BFO a
-The cluster centroid pattern is: and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) make <CEM1> a with confidence score 1.0
-Cluster 42 contains 1 phrases. With order 0213
-	 as Fe(TCNE)2·nCH2Cl2 ( n ≈ 0 . 32 ; TN ≈ 100 K )
-The cluster centroid pattern is: as <CEM1> ( n ≈ 0 . 32 ; <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 43 contains 2 phrases. With order 0213
-	  YCO is a biferroic material having canted anti - ferromagnetic ( AFM ) ordering below the Neel temperature (TN) of 140 K (
-	 ( BFO ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a Néel temperature of 643 K and
-The cluster centroid pattern is:  <CEM1> ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
-Cluster 44 contains 1 phrases. With order 2013
-	 the Néel temperature (TN TNiON ∼ 523 K )
-The cluster centroid pattern is: the <SPECIFIER1>  <CEM1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 45 contains 2 phrases. With order 0213
-	 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
-	 and MnO2 ) are well known to be antiferromagnetic below the Neel temperature of 116 and 84 K ,
-The cluster centroid pattern is: and <CEM1> are antiferromagnetic with <SPECIFIER1> of 116 and <VALUE1>  <UNIT1> , with confidence score 0
-Cluster 46 contains 2 phrases. With order 013213
-	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K ,
-	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K ,
-The cluster centroid pattern is: that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 47 contains 1 phrases. With order 021313
+Cluster 110 contains 6 phrases. With order 00213
+	 , BiFeO3 ( BFO ) with high Tc ∼ 1103 K and TN ∼ 643 K attracts
+	 , BiFeO3 ( BFO ) is a widely investigated multiferroic material which has a very high ferroelectric Curie temperature ( TC ∼ 1100 K ) and antiferromagnetic Nèel temperature (TN ∼ 643 K )
+	 , BiFeO3 ( BFO ) is one of the most studied single phase multiferroics , known as ferroelectric ( TC ∼ 1103 K ) and G - type antiferromagnetic ( TN ∼ 643 K )
+	 structure BiFeO3 ( abbreviated as BFO ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+	 , BiFeO3 ( BFO ) has been widely studied owing to its unique room - temperature ( RT ) multiferroic properties with a high Curie temperature ( Tc ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+	 , BiFeO3 ( BFO ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and Neel temperature (TN ∼ 640 K )
+The cluster centroid pattern is: , <CEM1> ( <CEM1> ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 111 contains 2 phrases. With order 0213
+	 pure BFO , the value of TN is 643 K .
+	 in LaFeO3 where the tilting of the FeO6 octahedra reduces the bond angle to 157 ° , the Néel temperature is still a respectable 740 K .
+The cluster centroid pattern is: in <CEM1> , the value of <SPECIFIER1> is <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 112 contains 1 phrases. With order 00213
+	 ( BiFeO3 or BFO ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( Nèel temperature (TN) ≈ 643 K and
+The cluster centroid pattern is: ( <CEM1> or <CEM1> ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 113 contains 1 phrases. With order 2013
+	 the Néel temperature of BFO ( ca . 643 K )
+The cluster centroid pattern is: the <SPECIFIER1> of <CEM1> ( ca . <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 114 contains 1 phrases. With order 00213
+	 multiferroic BiFeO3 ( BFO ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a Néel temperature of 643 K and
+The cluster centroid pattern is: multiferroic <CEM1> ( <CEM1> ) has been studied extensively due to the coexistence of G - type antiferromagnetic ( AFM ) spins with a <SPECIFIER1> of <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 115 contains 12 phrases. With order 0213
+	  BFO exhibits ferroelectric ( FE ) behavior with a Curie temperature ( TC ) of 1103 K and an antiferromagnetic ( AFM ) property with a Néel temperature (TN) of 643 K that
+	 hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+	 Bulk Co3O4 material exhibits antiferromagnetic ( AFM ) properties with a Neel temperature (TN) of about 40 K .
+	  CoO exhibits type II antiferromagnetism ( AFM - II ) below its Néel temperature of 291 K .
+	 , LaMnAsO is an antiferromagnetic ( AFM ) semiconductor with a pretty high Néel temperature of 317 K .
+	  Fe1-xS is an off - stoichiometric phase ( 0 ≤ x ≤ 0 . 125 ) which is paramagnetic and structurally disordered above its critical Néel temperature TN of 315 °C .
+	  BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+	 of BiCoO3 was determined by neutron powder diffraction experiments with long - range antiferromagnetic ( AFM ) order below the Néel temperature (TN) of 470 K .
+	  β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+The cluster centroid pattern is:  <CEM1> was determined by neutron powder diffraction experiments with long - range antiferromagnetic ( AFM ) order below the <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
+Cluster 116 contains 1 phrases. With order 00213
+	 ( BiFeO3 – BFO ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
+The cluster centroid pattern is: ( <CEM1> – <CEM1> ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 117 contains 2 phrases. With order 00213
+	 , BiFeO3 ( BFO ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a Néel temperature of around 643 K .
+	 , BiFeO3 ( BFO ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic Neel temperature of 640 K seems
+The cluster centroid pattern is: , <CEM1> ( <CEM1> ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic <SPECIFIER1> of <VALUE1>  <UNIT1> seems with confidence score 1.0
+Cluster 118 contains 1 phrases. With order 021313
 	 Bulk α-Fe2O3 is an antiferromagnet with a high Neel temperature (TN) of 960 K which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about 260 K ,
 The cluster centroid pattern is: Bulk <CEM1> is an antiferromagnet with a high <SPECIFIER1> of <VALUE1>  <UNIT1> which undergoes magnetic phase transition from a canted state to an antiferromagnetically ordered one at about <VALUE1>  <UNIT1> , with confidence score 0.5
-Cluster 48 contains 1 phrases. With order 0132
-	 - Fe2O3 shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ 260 K ) and Néel temperature (TN =
-The cluster centroid pattern is: - <CEM1> shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ <VALUE1>  <UNIT1> ) and <SPECIFIER1> = with confidence score 0
-Cluster 49 contains 1 phrases. With order 0213
-	 , Co(HCOO)2(4,4′-bpy)·nH2O are canted antiferromagnets with TN = 7 . 4 K ( n = 0 ) and 3 K (
-The cluster centroid pattern is: , <CEM1> are canted antiferromagnets with <SPECIFIER1> = 7 . 4 K ( n = 0 ) and <VALUE1>  <UNIT1> ( with confidence score 1.0
-Cluster 50 contains 2 phrases. With order 0213
+Cluster 119 contains 1 phrases. With order 013213
+	 - Fe2O3 shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ 260 K ) and Néel temperature (TN = 948 K )
+The cluster centroid pattern is: - <CEM1> shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ <VALUE1>  <UNIT1> ) and <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 120 contains 28 phrases. With order 0213
+	 bulk FeO is antiferromagnetic with a Néel temperature of 198 K ,
+	 microcrystalline NiO is an antiferromagnetic material with a Neel temperature of 520 K .
+	 that NiO is an antiferromagnet in bulk form , with a Néel temperature of 520 K .
+	 that lepidocrocite is antiferromagnetic below the Néel temperature of 50 K .
+	 hexagonal ZnMnO3 phase containing Mn ( IV ) ( prepared at high pressure ) shows an antiferromagnetic behavior with an effective magnetic moment of 3 . 9 μB and a Néel temperature of 18 K .
+	  Schafarzikite undergoes an antiferromagnetic transition at a Néel temperature, TN , of around 45 K .
+	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+	 Bulk Co3O4 material exhibits antiferromagnetic ( AFM ) properties with a Neel temperature (TN) of about 40 K .
+	  CaFeO2.5 has been reported to show G - type antiferromagnetic ordering with a Néel temperature of 725 K .
+	 , CuO is an antiferromagnet with a Neel temperature (TN) of 230 K .
+	 , LaMnAsO is an antiferromagnetic ( AFM ) semiconductor with a pretty high Néel temperature of 317 K .
+	 Bulk CoO shows an antiferromagnetic transition at the Neel temperature of 293 K .
+	 because CoO is antiferromagnetic with a Neel temperature of 293 K .
+	 , MnNb2O6 exhibits antiferromagnetic ordering with a Néel temperature of about 4.4 K .
+	  BFO is a room - temperature multiferroic material , with a ferroelectric Curie temperature ( TC ) of about 1100 K and an antiferromagnetic ( AFM ) Néel temperature (TN) of around 640 K .
+	 spinel zinc ferrite possesses a normal crystalline structure , where Zn cations occupy the tetrahedral sites , showing an antiferromagnetic order with a Néel temperature of 10 K .
+	 , 15R-BaFeF0.2O2.42 , shows drastically enhanced antiferromagnetic ordering with a Néel temperature (TN) of ≈ 700 K ,
+	 that MnSb2Se4 is a semiconductor with an energy band gap of ∼ 0 . 31 eV , exhibiting paramagnetic behavior at 300 K and with a Néel temperature of 20 K .
+	  β-Fe2O3 has a bixbyite structure ( Ia3 ̄ ) and displays antiferromagnetism with a Néel temperature (TN) of 119 K .
+	 , Mn5O8 was reported as an antiferromagnet with a Néel temperature of about 136 K ,
+	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+	 type Co2SiO4 with a Néel temperature (TN) of 49 K .
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
+	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
+	 metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is antiferromagnetic with a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
+Cluster 121 contains 3 phrases. With order 0213
+	 Bulk LiFePO4 is an antiferromagnet with Néel temperature TN = 50 K at
+	 Bulk ZnFe2O4 behaves as an antiferromagnetic material with a Néel temperature TN = 10.5 K as
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: Bulk <CEM1> behaves as an antiferromagnetic material with a <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 122 contains 1 phrases. With order 0132
+	 bulk NiO is antiferromagnetic with a Néel temperature , TN , of around 520 K , typically TN is
+The cluster centroid pattern is: bulk <CEM1> is antiferromagnetic with a Néel temperature , TN , of around <VALUE1>  <UNIT1> , typically <SPECIFIER1> is with confidence score 1.0
+Cluster 123 contains 11 phrases. With order 0213
+	 bulk EuTe is antiferromagnetic with a Néel temperature of 9.6 K ,
+	 bulk NiO is an antiferromagnetic material with a Neel temperature (TN) of 525 K ,
+	 bulk NiO is an antiferromagnetic material with a Néel temperature of 525 K ,
+	  Co3O4 is an AFM material with a TN of 40 K ,
+	 ; LaSrNi0.5Ru0.5O4 is evidenced by the presence of long - range magnetic ordering at a Néel temperature of 125 K ,
+	 , 15R-BaFeF0.2O2.42 , shows drastically enhanced antiferromagnetic ordering with a Néel temperature (TN) of ≈ 700 K ,
+	 bulk Ca2Fe2O5 is an antiferromagnet with Néel temperature of 775 K .
+	 that MnSb2Se4 has an effective magnetic moment of μeff = 5 . 82 ( 2 ) μB and is paramagnetic at 300 K , and also has an order / disorder AFM transition with a Néel temperature of approximately 20 K ,
+	  CrCl3 layers are stacked antiferromagnetically with a Néel temperature (TN) of 16.8 K ,
+	 , Mn5O8 was reported as an antiferromagnet with a Néel temperature of about 136 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: bulk <CEM1> is an antiferromagnetic material with a <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 124 contains 10 phrases. With order 0213
+	 in BiMnFe2O6 as a broad cusp at TN = 212 K ;
+	 in Fe1-xS as a function of temperature in the range 170 – 400 ° C , which extends across the known magnetostructural order – disorder transition temperature TN = 315 °C .
+	 in LiMnPO4 ( ref . 54 and 55 ) Mn2 + spins align along the a - axis below TN = 34 K .
+	 For Tb0.944Mn2 in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at TN = 40 K .
+	 ( BiFeO3 ) , which exhibits ferroelectric behaviour below TC = 830 ° C and antiferromagnetism with a Neel temperature TN = 370 °C .
+	 the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+	 of HoCrO3 is much lower than that in the previous reports , at TN = 100.28 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	 trirutile NiSb2O6 , it was found that the χ ( T ) demonstrates a clear low - dimensional broad maximum at Tmax ∼ 40 K followed by long - range antiferromagnetic order below TN = 2.5 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: in <CEM1> is much lower than that in the previous reports , at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 125 contains 13 phrases. With order 0213
+	 in BiMnFe2O6 at TN = 212 K .
+	 , LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
+	 , BiFe0.5Mn0.5O3 , synthesized at high pressure and temperature , has an orthorhombic structure and exhibits a temperature - induced magnetization reversal below TN = 240 K .
+	 of Tb2PdSi3 at TN = 23 K is
+	 of NiAs2O4 at TN = 53 K in
+	 For Tb0.944Mn2 in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at TN = 40 K .
+	 the cobalt vanadate indicated long - range spin - canted antiferromagnetic ordering at TN = 71 K .
+	 prepared PrCrO3 samples also showed canted antiferromagnetism due to the antisymmetric Dzyaloshinskii – Moriya interaction induced spin canting of the Cr3 + moments and magnetic order of the Cr3 + moments at TN = 238.7 K .
+	 of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+	 of HoCrO3 is much lower than that in the previous reports , at TN = 100.28 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	 trirutile NiSb2O6 , it was found that the χ ( T ) demonstrates a clear low - dimensional broad maximum at Tmax ∼ 40 K followed by long - range antiferromagnetic order below TN = 2.5 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: of <CEM1> at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
+Cluster 126 contains 1 phrases. With order 002113
+	 , BiMn0.9Fe2.1O6 , BiMn1.1Fe1.9O6 ( Fig . 9a ) , exhibit similar AFM order , with TN of 224 and 204 K ,
+The cluster centroid pattern is: , <CEM1> , <CEM2> ( Fig . 9a ) , exhibit similar AFM order , with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 127 contains 1 phrases. With order 002113
+	 , BiMn0.9Fe2.1O6 , BiMn1.1Fe1.9O6 ( Fig . 9a ) , exhibit similar AFM order , with TN of 224 and 204 K ,
+The cluster centroid pattern is: , <CEM1> , <CEM2> ( Fig . 9a ) , exhibit similar AFM order , with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 128 contains 2 phrases. With order 002113
+	 both SrMnO3 and LaMnO3 are antiferromagnetic with Néel temperatures of 260 and 140 K ,
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 129 contains 1 phrases. With order 0021313
+	 perovskites LaFeO3 and LaMnO3 are antiferromagnetic ( AFM ) insulators in bulk form with Néel temperature (TN) 740 K and 140 K respectively
+The cluster centroid pattern is: perovskites <CEM2> and <CEM1> are antiferromagnetic ( AFM ) insulators in bulk form with <SPECIFIER1>  <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> respectively with confidence score 1.0
+Cluster 130 contains 1 phrases. With order 1302
+	 above 25 K ( inset down ) , which indicates Co0.85Se nanocrystalline is antiferromagnetic with a Neel temperature of
+The cluster centroid pattern is: above <VALUE1>  <UNIT1> ( inset down ) , which indicates <CEM1> nanocrystalline is antiferromagnetic with a <SPECIFIER1> of with confidence score 1.0
+Cluster 131 contains 1 phrases. With order 0213
+	 hierarchical FeWO4 microcrystals displayed a small ferromagnetic ordering at low temperature and the Néel temperature was 62.9 K .
+The cluster centroid pattern is: hierarchical <CEM1> displayed a small ferromagnetic ordering at low temperature and the <SPECIFIER1> was <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 132 contains 1 phrases. With order 0213
+	 , SrTcO3 is antiferromagnetic , whose surprisingly high Néel temperature is TN → 1000 K and
+The cluster centroid pattern is: , <CEM1> is antiferromagnetic , whose surprisingly high Néel temperature is <SPECIFIER1> → <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 133 contains 2 phrases. With order 0213
+	 analogue CaMnO3 although this has a noticeably lower transition temperature TN = 123 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 134 contains 1 phrases. With order 2130
+	 the Néel temperature of 75 K the magnetic structure of YMnO3 can
+The cluster centroid pattern is: the <SPECIFIER1> of <VALUE1>  <UNIT1> the magnetic structure of <CEM1> can with confidence score 1.0
+Cluster 135 contains 5 phrases. With order 2130
+	 the TN of 75 K for the 170 nm sample is in excellent agreement with reported values for bulk YMnO3 ,
+	 the Néel temperature of 328 K for YFMO ,
+	 the Néel temperatures of about 328 K for YFMO and
+	 the Néel temperature of 298 K known for CoO .
+	 The TN was of 360 K for the pure GFO films ,
+The cluster centroid pattern is: the <SPECIFIER1> of <VALUE1>  <UNIT1> for <CEM1> , with confidence score 0.5
+Cluster 136 contains 1 phrases. With order 0213
+	 , Li3Ni2SbO6 orders antiferromagnetically at TN ∼ 15 K .
+The cluster centroid pattern is: , <CEM1> orders antiferromagnetically at <SPECIFIER1> ∼ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 137 contains 1 phrases. With order 2130
+	 temperature TN ≈ 40 K of bulk Co3O4 makes
+The cluster centroid pattern is: temperature <SPECIFIER1> ≈ <VALUE1>  <UNIT1> of bulk <CEM1> makes with confidence score 1.0
+Cluster 138 contains 1 phrases. With order 2130
+	 with TN ≈ 40 K for bulk Co3O4 ,
+The cluster centroid pattern is: with <SPECIFIER1> ≈ <VALUE1>  <UNIT1> for bulk <CEM1> , with confidence score 1.0
+Cluster 139 contains 5 phrases. With order 0213
+	  Co3O4 has a spinel structure in which Co2 + cations reside in the tetrahedral sites and exhibit AFM ordering below TN = 40 K while
+	 For Tb0.944Mn2 in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at TN = 40 K .
+	 the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+	 of HoCrO3 is much lower than that in the previous reports , at TN = 100.28 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is much lower than that in the previous reports , at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
+Cluster 140 contains 1 phrases. With order 2131300
+	 a Neel temperature (TN) is 291 K and 40 K for CoO and Co3O4 ,
+The cluster centroid pattern is: a <SPECIFIER1> is <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> for <CEM2> and <CEM1> , with confidence score 1.0
+Cluster 141 contains 1 phrases. With order 2130
+	 The Neel temperatures judged from the both curves peak are around 40 K which is same as the bulk Co3O4 .
+The cluster centroid pattern is: The <SPECIFIER1> judged from the both curves peak are around <VALUE1>  <UNIT1> which is same as the bulk <CEM1> . with confidence score 1.0
+Cluster 142 contains 1 phrases. With order 02113
+	 only Er2Si2O7 was characterized ; it behaves antiferromagnetically with an ordering temperature TN = 1.9 and 2.5 K for
+The cluster centroid pattern is: only <CEM1> was characterized ; it behaves antiferromagnetically with an ordering temperature <SPECIFIER1> = <VALUE1> and <VALUE1>  <UNIT1> for with confidence score 1.0
+Cluster 143 contains 1 phrases. With order 02113
+	 only Er2Si2O7 was characterized ; it behaves antiferromagnetically with an ordering temperature TN = 1.9 and 2.5 K for
+The cluster centroid pattern is: only <CEM1> was characterized ; it behaves antiferromagnetically with an ordering temperature <SPECIFIER1> = <VALUE1> and <VALUE1>  <UNIT1> for with confidence score 1.0
+Cluster 144 contains 1 phrases. With order 00213
+	 is BiFeO3 ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic Néel temperature around 640 K are
+The cluster centroid pattern is: is <CEM1> ( <CEM1> ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic <SPECIFIER1> around <VALUE1>  <UNIT1> are with confidence score 1.0
+Cluster 145 contains 1 phrases. With order 0213
+	 why BiFeO3 has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high Néel temperature at 640 K .
+The cluster centroid pattern is: why <CEM1> has a G - type antiferromagnetic order producing a magnetic peak at ( 1 / 2 1 / 2 1 / 2 ) pseudocubic position together with a quite high <SPECIFIER1> at <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 146 contains 2 phrases. With order 2130
+	 ( TN ∼ 559 K for K0.8Fe1.6Se2 )
+	 lowest TN ∼ 250 K is observed for Sr2Fe(Fe0.33Mo0.67)O6 which
+The cluster centroid pattern is: lowest <SPECIFIER1> ∼ <VALUE1>  <UNIT1> for <CEM1> which with confidence score 0
+Cluster 147 contains 1 phrases. With order 0213
+	 disordered LaSrNi0.5Ru0.5O4 sample shows a divergence between the ZFC and FC curves below 150 K , above the Néel temperature of 125 K ,
+The cluster centroid pattern is: disordered <CEM1> sample shows a divergence between the ZFC and FC curves below 150 K , above the <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 148 contains 2 phrases. With order 002113
+	 ordered La2CoRuO6 and La2NiRuO6 are AFM below the Néel temperatures, 26 and 32 K ,
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1>  <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 0
+Cluster 149 contains 2 phrases. With order 002113
+	 ordered La2CoRuO6 and La2NiRuO6 are AFM below the Néel temperatures, 26 and 32 K ,
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1>  <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 0
+Cluster 150 contains 3 phrases. With order 0213
+	  BaTcO3 is predicted to have an even higher Neel temperature of about 1200 K .
+	 that Mn5O8 is an antiferromagnet with a Néel temperature of about 133 K .
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+The cluster centroid pattern is:  <CEM1> is an antiferromagnet with a <SPECIFIER1> of about <VALUE1>  <UNIT1> . with confidence score 0.0
+Cluster 151 contains 4 phrases. With order 0213
+	 antiferromagnetic Mn2O3 with TN ≈ 40 K or
+	 the Eu2O3 NBs was first observed with TN ≈ 46 K ,
+	 whereas β-Ni(OH)2 is a metamagnet with TN ≈ 25 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> with <SPECIFIER1> ≈ <VALUE1>  <UNIT1>  with confidence score 0.0
+Cluster 152 contains 1 phrases. With order 2013
+	 the Néel temperatures for the normal ZnFe2O4 , ZnCr2O4 , FeCr2O4 and NiCr2O4 spinels are as low as 10.5 K ,
+The cluster centroid pattern is: the <SPECIFIER1> for the normal <CEM1> , ZnCr2O4 , FeCr2O4 and NiCr2O4 spinels are as low as <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 153 contains 10 phrases. With order 0213
+	 with Sr2Fe2O5 , TN = 693 K .
+	 of DyFeO3 , below the Néel temperature (TN = 645 K )
+	 , CoO , which as a bulk material is antiferromagnetic ( AFM , TN = 293 K )
+	 of Pb(Fe2/3W1/3)O3 , its near ZTE also occurs below its antiferromagnetic phase transition ( TN = 340 K )
+	 the FexO core , i . e . , TN = 240 K (
+	 For Tb0.961Mn2 , the region between the first - order AFM ↔ FIM ( TN = 46 K )
+	 that SrFeO2 is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high Néel temperature (TN = 473 K )
+	 , ZnCr2O4 : S = 3 / 2 , | ΘCW | = 390 K , TN = 16 K ,
+	 undoped YbMnO3 , higher value of TN1 ( 89 K for x = 0 . 05 and 85 K for
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: , <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 154 contains 3 phrases. With order 0213
+	 , Sr2Fe2O5 has TN = 693 K .
+	 , Mn(AOT)2 has a Neél temperature of TN = 60 K and
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: , <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 0
+Cluster 155 contains 1 phrases. With order 2013
+	 , TN , which is very near the value for un - doped Sr4Fe4O11 of 232 K .
+The cluster centroid pattern is: , <SPECIFIER1> , which is very near the value for un - doped <CEM1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 156 contains 1 phrases. With order 2013
+	 a Neel temperature which varies with the size of Ni(OH)2 and is found to be in the range of 22 K to 30 K .
+The cluster centroid pattern is: a <SPECIFIER1> which varies with the size of <CEM1> and is found to be in the range of 22 K to <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 157 contains 2 phrases. With order 0213
+	 for La2O2SO4 at low temperature with a Néel temperature TN = 60 K may
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 158 contains 4 phrases. With order 2130
+	 the Néel temperature of 953 K , α-Fe2O3 is
+	 the Néel temperature TN of 315 °C , where Fe1-xS is
+	 the Néel temperature (TN) of 286 K , CrN is
+	 and Neel temperature of 996 K , α-Fe2O3 can
+The cluster centroid pattern is: the <SPECIFIER1> of <VALUE1>  <UNIT1> , <CEM1> is with confidence score 0.6666666666666666
+Cluster 159 contains 1 phrases. With order 0213
+	 in α-Fe2O3 crystal between the Néel temperature (TN , 955 K )
+The cluster centroid pattern is: in <CEM1> crystal between the <SPECIFIER1> , <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 160 contains 2 phrases. With order 0213
+	 bulk α-Fe2O3 crystals between the Néel temperature (TN) of ca . 955 K and
+	 bulk α-Fe2O3 , spins exist between the Néel temperature (TN) of approximately 955 K and
+The cluster centroid pattern is: bulk <CEM1> , spins exist between the <SPECIFIER1> of ca . <VALUE1>  <UNIT1> and with confidence score 0
+Cluster 161 contains 1 phrases. With order 2130
+	 with TN = 120 K measured for bulk FeP .
+The cluster centroid pattern is: with <SPECIFIER1> = <VALUE1>  <UNIT1> measured for bulk <CEM1> . with confidence score 1.0
+Cluster 162 contains 1 phrases. With order 200113
+	 the Néel temperature TN of antiferromagnetic ( AFM ) materials such as MnO , FeO , CoO and NiO is 122 , 198 , 291 and 523 K ,
+The cluster centroid pattern is: the <SPECIFIER1> of antiferromagnetic ( AFM ) materials such as MnO , FeO , <CEM2> and <CEM1> is 122 , 198 , <VALUE2> and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 163 contains 1 phrases. With order 2131300
+	 a Neel temperature (TN) is 291 K and 40 K for CoO and Co3O4 ,
+The cluster centroid pattern is: a <SPECIFIER1> is <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> for <CEM2> and <CEM1> , with confidence score 1.0
+Cluster 164 contains 1 phrases. With order 021313
+	 Bulk CuO is antiferromagnetic with Néel temperatures from 213 K to 230 K .
+The cluster centroid pattern is: Bulk <CEM1> is antiferromagnetic with <SPECIFIER1> from <VALUE1>  <UNIT1> to <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 165 contains 1 phrases. With order 2130
+	 ( TN ) is reduced from the bulk value of 230 K to 58 K as the size of the CuO nano
+The cluster centroid pattern is: ( <SPECIFIER1> ) is reduced from the bulk value of <VALUE1>  <UNIT1> to 58 K as the size of the <CEM1> nano with confidence score 1.0
+Cluster 166 contains 1 phrases. With order 2130
+	 Above Néel temperature ( about 960 K ) , Fe2O3 becomes
+The cluster centroid pattern is: Above <SPECIFIER1> ( about <VALUE1>  <UNIT1> ) , <CEM1> becomes with confidence score 1.0
+Cluster 167 contains 1 phrases. With order 0213
+	 include V6O13 , with an antiferromagnetic Neel temperature at 155 K and
+The cluster centroid pattern is: include <CEM1> , with an antiferromagnetic <SPECIFIER1> at <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 168 contains 1 phrases. With order 2130
+	 in Néel temperature from 42 to 328 K in YFMO is
+The cluster centroid pattern is: in <SPECIFIER1> from 42 to <VALUE1>  <UNIT1> in <CEM1> is with confidence score 1.0
+Cluster 169 contains 5 phrases. With order 0213
+	  YFe0.5Cr0.5O3 exhibits a magnetic ordering at TN = 246 K ,
+	 antiferromagnetic YMn2 exhibits a giant volume contraction of about 5 % at Neél temperature ( TN = 100 K )
+	  Y2Ru2O7 exhibits a low spin state ( S = 1 ) with a remarkable antiferromagnetic ( AFM ) coupling of Ru4 + with a Néel temperature (TN = 77 K )
+	 that SrFeO2 is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high Néel temperature (TN = 473 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0.0
+Cluster 170 contains 1 phrases. With order 0213
+	 the mesoporous Co3O4 behaves like an antiferromagnet with a Néel temperature, TN ∼ 30 K (
+The cluster centroid pattern is: the <CEM1> behaves like an antiferromagnet with a <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 171 contains 3 phrases. With order 0213
+	 Bulk CoO is antiferromagnetic with a Néel temperature at 298 K .
+	  Hematite is known to exhibit canted antiferromagnetic property above the Morin transition at 260 K and below its Néel temperature at 956 K .
+	  NdMnO3 shows a paramagnetic to antiferromagnetic phase transition with Neel temperature at 67 K .
+The cluster centroid pattern is:  <CEM1> shows a paramagnetic to antiferromagnetic phase transition with <SPECIFIER1> at <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 172 contains 1 phrases. With order 02013
+	 if NiO experiences rhombohedral distortion ( ∼ 0 . 1 % ) below the Néel temperature (TN TNiON ∼ 523 K )
+The cluster centroid pattern is: if <CEM1> experiences rhombohedral distortion ( ∼ 0 . 1 % ) below the <SPECIFIER1>  <CEM1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 173 contains 1 phrases. With order 2130
+	 the Néel temperature (TN ≈ 220 K ) , CuO is
+The cluster centroid pattern is: the <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) , <CEM1> is with confidence score 1.0
+Cluster 174 contains 1 phrases. With order 2130
+	 the Néel temperature by 12 K that is observed with respect to LiMn1.5Ni0.5O4 .
+The cluster centroid pattern is: the <SPECIFIER1> by <VALUE1>  <UNIT1> that is observed with respect to <CEM1> . with confidence score 1.0
+Cluster 175 contains 1 phrases. With order 1320
+	 about 3 K , 10 K , 8 K and 13 K ascribed to TN2 in PrCrO3 ,
+The cluster centroid pattern is: about <VALUE1>  <UNIT1> , 10 K , 8 K and 13 K ascribed to <SPECIFIER1> in <CEM1> , with confidence score 1.0
+Cluster 176 contains 2 phrases. With order 0213
+	 for PrCrO3 , the maximum point of the FC magnetization is difficult to identify , but the value of TN2 = 3 K also
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 177 contains 1 phrases. With order 0213213
+	 of Co3O4 nanoparticles from TN = 25 K for the Co3O4 - 300 - 1 sample to TN = 31 K for
+The cluster centroid pattern is: of <CEM1> from <SPECIFIER1> = <VALUE1>  <UNIT1> for the Co3O4 - 300 - 1 sample to <SPECIFIER1> = <VALUE1>  <UNIT1> for with confidence score 1.0
+Cluster 178 contains 1 phrases. With order 0213213
+	 of Co3O4 nanoparticles from TN = 25 K for the Co3O4 - 300 - 1 sample to TN = 31 K for
+The cluster centroid pattern is: of <CEM1> from <SPECIFIER1> = <VALUE1>  <UNIT1> for the Co3O4 - 300 - 1 sample to <SPECIFIER1> = <VALUE1>  <UNIT1> for with confidence score 1.0
+Cluster 179 contains 1 phrases. With order 2130
+	 a Néel temperature of about 100 K , which is obviously lower than 293 K of bulk CoO .
+The cluster centroid pattern is: a <SPECIFIER1> of about 100 K , which is obviously lower than <VALUE1>  <UNIT1> of bulk <CEM1> . with confidence score 1.0
+Cluster 180 contains 1 phrases. With order 21300
+	 higher TN ( it is a canted antiferromagnet ) of 950 K . γ-Fe2O3 ( maghemite ) has a TC of 920 K , and converts to hematite when
+The cluster centroid pattern is: higher <SPECIFIER1> ( it is a canted antiferromagnet ) of <VALUE1>  <UNIT1> . <CEM1> ( maghemite ) has a TC of 920 K , and converts to <CEM1> when with confidence score 1.0
+Cluster 181 contains 1 phrases. With order 0213213
+	 is ZnCr2S4 which shows two antiferromagnetic transitions ( TN1 = 15 K and TN2 = 8 K )
+The cluster centroid pattern is: is <CEM1> which shows two antiferromagnetic transitions ( <SPECIFIER1> = <VALUE1>  <UNIT1> and <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 182 contains 1 phrases. With order 0213213
+	 is ZnCr2S4 which shows two antiferromagnetic transitions ( TN1 = 15 K and TN2 = 8 K )
+The cluster centroid pattern is: is <CEM1> which shows two antiferromagnetic transitions ( <SPECIFIER1> = <VALUE1>  <UNIT1> and <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 183 contains 1 phrases. With order 2130
+	 a Neel temperature of 2.95 K . CoNb2O6 is
+The cluster centroid pattern is: a <SPECIFIER1> of <VALUE1>  <UNIT1> . <CEM1> is with confidence score 1.0
+Cluster 184 contains 1 phrases. With order 0213
+	 valence Sr2FeMoO6 sample has TN ∼ 750 K ,
+The cluster centroid pattern is: valence <CEM1> sample has <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 185 contains 3 phrases. With order 0213
+	 of TlCrO3 showed sharp anomalies near TN = 89 K (
+	 in TlCr0.9557Fe0.05O3 , that is by doping , and this compound showed only λ - type anomalies in the χ ′ vs . T curves at TN = 87.5 K (
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 0
+Cluster 186 contains 1 phrases. With order 0213213
+	 of TlCrO3 measured with a step of 0 . 2 K near TN showed that there are two transitions with close temperatures at TN2 = 87.0 K and TN1 = 89.3 K (
+The cluster centroid pattern is: of <CEM1> measured with a step of 0 . 2 K near TN showed that there are two transitions with close temperatures at <SPECIFIER1> = <VALUE1>  <UNIT1> and <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 187 contains 1 phrases. With order 0213213
+	 of TlCrO3 measured with a step of 0 . 2 K near TN showed that there are two transitions with close temperatures at TN2 = 87.0 K and TN1 = 89.3 K (
+The cluster centroid pattern is: of <CEM1> measured with a step of 0 . 2 K near TN showed that there are two transitions with close temperatures at <SPECIFIER1> = <VALUE1>  <UNIT1> and <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 188 contains 2 phrases. With order 2130
+	 the TN1 values increase monotonically with rare - earth cationic ( R3 + ) radius from 110 K for LuCrO3 to 288 K for LaCrO3 ,
+	 the Néel temperature TN1 increases monotonically with the rare - earth ionic radius from 110 K for LuCrO3 to 288 K for LaCrO3 .
+The cluster centroid pattern is: the <SPECIFIER1> increases monotonically with the rare - earth ionic radius from 110 K for LuCrO3 to <VALUE1>  <UNIT1> for <CEM1> . with confidence score 1.0
+Cluster 189 contains 1 phrases. With order 013213
+	 - Fe2O3 shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ 260 K ) and Néel temperature (TN = 948 K )
+The cluster centroid pattern is: - <CEM1> shows very intriguing magnetic features , that is to say , only weak or parasitic ferromagnetism between Morin ( TM ≈ <VALUE1>  <UNIT1> ) and <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 190 contains 1 phrases. With order 2130
+	 < TN < 963 K ) , bulk α-Fe2O3 is
+The cluster centroid pattern is: < <SPECIFIER1> < <VALUE1>  <UNIT1> ) , bulk <CEM1> is with confidence score 0
+Cluster 191 contains 6 phrases. With order 0213
+	 analogous iron monoxide has essentially a defect NaCl structure at room temperature , which distorts rhombohedrally along the [ 111 ] direction below the Néel temperature, TN = 198 K .
+	 the LaFeO3 structure and found that the ground state corresponds to an antiferromagnetic G - type ordering , as shown in Fig . 1 , in agreement with the experimentally reported antiferromagnetic ordering at a Néel temperature of TN = 747 K .
+	 of HoCrO3 is much lower than that in the previous reports , at TN = 100.28 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	 trirutile NiSb2O6 , it was found that the χ ( T ) demonstrates a clear low - dimensional broad maximum at Tmax ∼ 40 K followed by long - range antiferromagnetic order below TN = 2.5 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: of <CEM1> is much lower than that in the previous reports , at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 192 contains 1 phrases. With order 2013013
+	 The TN of h-YbMnO3 was 88 K , and that of o-DyMnO3 was 6.5 K ,
+The cluster centroid pattern is: The <SPECIFIER1> of <CEM1> was <VALUE1>  <UNIT1> , and that of <CEM2> was <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 193 contains 1 phrases. With order 2013013
+	 The TN of h-YbMnO3 was 88 K , and that of o-DyMnO3 was 6.5 K ,
+The cluster centroid pattern is: The <SPECIFIER1> of <CEM1> was <VALUE1>  <UNIT1> , and that of <CEM2> was <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 194 contains 1 phrases. With order 0213
+	 the h-Yb0.5Dy0.5MnO3 crystal ( TN is 4.4 K )
+The cluster centroid pattern is: the <CEM1> crystal ( <SPECIFIER1> is <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 195 contains 1 phrases. With order 00213
+	 , BiFeO3 ( BFO ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic Neel temperature of 640 K seems
+The cluster centroid pattern is: , <CEM1> ( <CEM1> ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic <SPECIFIER1> of <VALUE1>  <UNIT1> seems with confidence score 1.0
+Cluster 196 contains 1 phrases. With order 0213
+	 pure BFO is classified as AFM with the Néel temperature of TN ∼ 640 K .
+The cluster centroid pattern is: pure <CEM1> is classified as AFM with the Néel temperature of <SPECIFIER1> ∼ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 197 contains 1 phrases. With order 00213
+	 , BiFeO3 ( BFO ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and Neel temperature (TN ∼ 640 K )
+The cluster centroid pattern is: , <CEM1> ( <CEM1> ) is the only material exhibiting multiferroelectric properties at room temperature , with a high Curie temperature ( TC ∼ 1100 K ) and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 198 contains 1 phrases. With order 00213
+	 is BiFeO3 ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic Néel temperature around 640 K are
+The cluster centroid pattern is: is <CEM1> ( <CEM1> ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic <SPECIFIER1> around <VALUE1>  <UNIT1> are with confidence score 1.0
+Cluster 199 contains 1 phrases. With order 0213
+	 the FexO core is maintained up to roughly TN ∼ 240 K (
+The cluster centroid pattern is: the <CEM1> is maintained up to roughly <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 200 contains 2 phrases. With order 2130
+	 and TN = 6 K can be obtained for CoNb2O6 and NiNb2O6 samples
+	 and TN = 6 K are obtained for CoNb2O6 and NiNb2O6 samples
+The cluster centroid pattern is: and <SPECIFIER1> = <VALUE1>  <UNIT1> are obtained for CoNb2O6 and <CEM1> samples with confidence score 1.0
+Cluster 201 contains 3 phrases. With order 0213
+	 But zinc ferrite in the bulk is known to be ferrimagnetic only below the Néel temperature (TN = 10 K )
+	 that SrFeO2 is not subject to Jahn – Teller distortion when the temperature is lowered , and is associated with a three - dimensional antiferromagnetic spin order with a very high Néel temperature (TN = 473 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> ) with confidence score 0
+Cluster 202 contains 7 phrases. With order 0213
+	 of NiAs2O4 exhibits an antiferromagnetic transition at TN = 53 K in
+	 of NiAs2O4 at TN = 53 K in
+	 For Tb0.944Mn2 in a zero magnetic field , a first anomaly corresponding to FIM ordering is observed at TC = 49 K and a second sharp peak corresponding to the AFM ordering is observed at TN = 40 K .
+	 of Mg6MnO8 ( Fig . S7 , ESI ) show the weak Curie – Weiss paramagnetism , with an antiferromagnetic ordering transition at the Néel temperature of TN = 5 K .
+	 of HoCrO3 is much lower than that in the previous reports , at TN = 100.28 K .
+	 of iron(III) oxalate tetrahydrate using susceptibility measurements , and we show that this compound is antiferromagnetic with the onset of a long range ordering at TN = 25 K .
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: of <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 203 contains 1 phrases. With order 021313
+	 Bulk CuO is antiferromagnetic with Néel temperatures from 213 K to 230 K .
+The cluster centroid pattern is: Bulk <CEM1> is antiferromagnetic with <SPECIFIER1> from <VALUE1>  <UNIT1> to <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 204 contains 2 phrases. With order 0021313
+	 For LaSrCrO4 and YCaCrO4 , the g - values increase at around TN of 242 K and 140 K ,
+	 the Sm3Mn0.5GeSe7 and Sm3Fe0.5SiSe7 compounds show anti - ferromagnetic phase transitions with Néel temperatures of 13 K and 24 K ,
+The cluster centroid pattern is: the <CEM1> and <CEM2> compounds show anti - ferromagnetic phase transitions with <SPECIFIER1> of <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 205 contains 1 phrases. With order 0132
+	 of Ca2MnO4 occurs at 110 K , Néel temperatures of
+The cluster centroid pattern is: of <CEM1> occurs at <VALUE1>  <UNIT1> , <SPECIFIER1> of with confidence score 1.0
+Cluster 206 contains 1 phrases. With order 0213
+	 and YCaCrO4 are reasonably deduced to be TN = 170 K and 140 K ,
+The cluster centroid pattern is: and <CEM1> are reasonably deduced to be <SPECIFIER1> = 170 K and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 207 contains 2 phrases. With order 0021313
+	 For LaSrCrO4 and YCaCrO4 , the g - values increase at around TN of 242 K and 140 K ,
+	 the Sm3Mn0.5GeSe7 and Sm3Fe0.5SiSe7 compounds show anti - ferromagnetic phase transitions with Néel temperatures of 13 K and 24 K ,
+The cluster centroid pattern is: the <CEM1> and <CEM2> compounds show anti - ferromagnetic phase transitions with <SPECIFIER1> of <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 208 contains 5 phrases. With order 0213
+	 , Tb orders magnetically at TC = 221 K and TN = 229 K ,
+	 , ZnCr2O4 : S = 3 / 2 , | ΘCW | = 390 K , TN = 16 K ,
+	 and C12Re2 , finding AFM , FM , FM and AFM ground states with Tn = 26 K , Tc = 29 K , Tc = 247 K and Tn = 88 K ,
+	 In o-YbMn0.5Fe0.5O3 , a weak ferromagnetism below TN = 298 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is: , <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 209 contains 1 phrases. With order 0213
+	 a 5 nm CuO assembly ( TN ~ 30 K )
+The cluster centroid pattern is: a <CEM1> ( <SPECIFIER1> ~ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 210 contains 1 phrases. With order 2130130
+	 to TN ( 195 K ) of FeO ; for example , 173 K in Mn0.29Fe0.71O NPs , and 157 K in Mn0.50Fe0.50O NPs .
+The cluster centroid pattern is: to <SPECIFIER1> ( 195 K ) of FeO ; for example , <VALUE1>  <UNIT1> in <CEM1> , and <VALUE2>  <UNIT2> in <CEM2> . with confidence score 1.0
+Cluster 211 contains 1 phrases. With order 2130130
+	 to TN ( 195 K ) of FeO ; for example , 173 K in Mn0.29Fe0.71O NPs , and 157 K in Mn0.50Fe0.50O NPs .
+The cluster centroid pattern is: to <SPECIFIER1> ( 195 K ) of FeO ; for example , <VALUE1>  <UNIT1> in <CEM1> , and <VALUE2>  <UNIT2> in <CEM2> . with confidence score 1.0
+Cluster 212 contains 1 phrases. With order 0213
+	  Rare earth orthoferrites RFeO3 are well known for their high Neel temperature (TN ∼ 620 K )
+The cluster centroid pattern is:  <CEM1> are well known for their high <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 213 contains 1 phrases. With order 0213
+	 bulk HMO has been observed experimentally below the Néel temperature of 24.5 K ,
+The cluster centroid pattern is: bulk <CEM1> has been observed experimentally below the <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 214 contains 1 phrases. With order 0213
+	 undoped NdMnO3 compound is found to have a paramagnetic to anti - ferromagnetic transition with TN as 67.2 K whereas
+The cluster centroid pattern is: undoped <CEM1> compound is found to have a paramagnetic to anti - ferromagnetic transition with <SPECIFIER1> as <VALUE1>  <UNIT1> whereas with confidence score 1.0
+Cluster 215 contains 2 phrases. With order 0213
+	 of PrCrO3 have Neel temperature TN = 198.52 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 216 contains 1 phrases. With order 0213
+	 compound Bi2Fe4O9 demonstrates the slowly increasing magnetization with decreasing temperature down to TN ∼ 250 K ,
+The cluster centroid pattern is: compound <CEM1> demonstrates the slowly increasing magnetization with decreasing temperature down to <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 217 contains 1 phrases. With order 2130
+	 the Néel temperature, TN ∼ 145 K , of Ca0.8Sr0.2MnO3 ,
+The cluster centroid pattern is: the <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , of <CEM1> , with confidence score 1.0
+Cluster 218 contains 1 phrases. With order 02113
+	  CuO nanoparticles with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show Neel temperatures of 30 and 13 K ,
+The cluster centroid pattern is:  <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 219 contains 1 phrases. With order 0021313
+	 and Sm3Fe0.5SiSe7 and Sm3Mn0.5GeSe7 have TN of 24 K and 13 K .
+The cluster centroid pattern is: and <CEM2> and <CEM1> have <SPECIFIER1> of <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 220 contains 1 phrases. With order 0021313
+	 the Sm3Mn0.5GeSe7 and Sm3Fe0.5SiSe7 compounds show anti - ferromagnetic phase transitions with Néel temperatures of 13 K and 24 K ,
+The cluster centroid pattern is: the <CEM1> and <CEM2> compounds show anti - ferromagnetic phase transitions with <SPECIFIER1> of <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 221 contains 1 phrases. With order 0021313
+	 and Sm3Fe0.5SiSe7 and Sm3Mn0.5GeSe7 have TN of 24 K and 13 K .
+The cluster centroid pattern is: and <CEM2> and <CEM1> have <SPECIFIER1> of <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 222 contains 1 phrases. With order 0213
+	 show CuFeO2 crystals exhibit antiferromagnetic behavior , the Néel temperature (TN) about 12 K and
+The cluster centroid pattern is: show <CEM1> exhibit antiferromagnetic behavior , the <SPECIFIER1> about <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 223 contains 1 phrases. With order 0213130
+	 bulk Ca2Fe2O5 with the Néel temperature of about 770 K which is shifted from the reported value of 725 K . Ca2Fe2O5 prepared
+The cluster centroid pattern is: bulk <CEM2> with the <SPECIFIER1> of about <VALUE2>  <UNIT2> which is shifted from the reported value of <VALUE1>  <UNIT1> . <CEM1> prepared with confidence score 1.0
+Cluster 224 contains 1 phrases. With order 0213130
+	 bulk Ca2Fe2O5 with the Néel temperature of about 770 K which is shifted from the reported value of 725 K . Ca2Fe2O5 prepared
+The cluster centroid pattern is: bulk <CEM2> with the <SPECIFIER1> of about <VALUE2>  <UNIT2> which is shifted from the reported value of <VALUE1>  <UNIT1> . <CEM1> prepared with confidence score 1.0
+Cluster 225 contains 1 phrases. With order 0213
+	 the nanostructured Ca2Fe2O5 shows a drastic increase in Néel temperature to 820 K and
+The cluster centroid pattern is: the <CEM1> shows a drastic increase in <SPECIFIER1> to <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 226 contains 1 phrases. With order 2130
+	 a Néel temperature of approximately 20 K is only observed for the MnSb2Se4 sample
+The cluster centroid pattern is: a <SPECIFIER1> of approximately <VALUE1>  <UNIT1> is only observed for the <CEM1> sample with confidence score 1.0
+Cluster 227 contains 1 phrases. With order 0213
+	 compound Y2Ru2O7 , we found evidence of : ( i ) a large magnetoelastic coupling pointed out by a huge and broad peak in the Debye – Waller factor σ2 for the Ru – O ( 1 ) first coordination shell in the temperature region around the antiferromagnetic transition at TN ≃ 77 K ;
+The cluster centroid pattern is: compound <CEM1> , we found evidence of : ( i ) a large magnetoelastic coupling pointed out by a huge and broad peak in the Debye – Waller factor σ2 for the Ru – O ( 1 ) first coordination shell in the temperature region around the antiferromagnetic transition at <SPECIFIER1> ≃ <VALUE1>  <UNIT1> ; with confidence score 1.0
+Cluster 228 contains 1 phrases. With order 002113
+	 the V3S4 and V5S8 order antiferromagnetically below TN = 8 and 32 K .
+The cluster centroid pattern is: the <CEM1> and <CEM2> order antiferromagnetically below <SPECIFIER1> = <VALUE1> and <VALUE2>  <UNIT1> . with confidence score 1.0
+Cluster 229 contains 1 phrases. With order 002113
+	 the V3S4 and V5S8 order antiferromagnetically below TN = 8 and 32 K .
+The cluster centroid pattern is: the <CEM1> and <CEM2> order antiferromagnetically below <SPECIFIER1> = <VALUE1> and <VALUE2>  <UNIT1> . with confidence score 1.0
+Cluster 230 contains 2 phrases. With order 0213
+	 , LaFeO3 is a well characterized antiferromagnets with more high Néel temperature 740 K ,
+	 , Mn5O8 was reported as an antiferromagnet with a Néel temperature of about 136 K ,
+The cluster centroid pattern is: , <CEM1> was reported as an antiferromagnet with a <SPECIFIER1>  <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 231 contains 1 phrases. With order 0021313
+	 perovskites LaFeO3 and LaMnO3 are antiferromagnetic ( AFM ) insulators in bulk form with Néel temperature (TN) 740 K and 140 K respectively
+The cluster centroid pattern is: perovskites <CEM2> and <CEM1> are antiferromagnetic ( AFM ) insulators in bulk form with <SPECIFIER1>  <VALUE2>  <UNIT2> and <VALUE1>  <UNIT1> respectively with confidence score 1.0
+Cluster 232 contains 1 phrases. With order 002113
+	 that Ni(OH)2 and β-Co(OH)2 are antiferromagnetic with Néel temperatures of 30 and 12.5 K ,
+The cluster centroid pattern is: that <CEM1> and <CEM2> are antiferromagnetic with <SPECIFIER1> of <VALUE1> and <VALUE2>  <UNIT1> , with confidence score 1.0
+Cluster 233 contains 1 phrases. With order 2130
+	 and Neel temperature (TN ∼ 370 °C ) make BFO a
+The cluster centroid pattern is: and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) make <CEM1> a with confidence score 1.0
+Cluster 234 contains 2 phrases. With order 0213
+	 of HoFeO3 , the Fe - moments order antiferromagnetically below TN = 640 K ;
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1>  with confidence score 1.0
+Cluster 235 contains 2 phrases. With order 0213
+	 For Mn0.8Co0.2Sb2O4 , NPD data showed additional weak peaks , corresponding to a very small ( 0 . 01 wt % ) MnO impurity ; this was included as a cubic Fm3 ̄ m phase at 300 K ( above the Néel temperature, 120 K )
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1>  <VALUE1>  <UNIT1>  with confidence score 0
+Cluster 236 contains 2 phrases. With order 0213
+	 of CuSe2O5 are antiferromagnetic with a Néel temperature of 17 K as
+	 for FePbBiO4 are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a Néel temperature of 24 K ;
+The cluster centroid pattern is: for <CEM1> are antiferromagnetic with a <SPECIFIER1> of <VALUE1>  <UNIT1> ; with confidence score 0
+Cluster 237 contains 1 phrases. With order 2130
+	 below TN ∼ 90 K , which breaks the archetypal geometrically frustrated antiferromagnetic state typically ascribed to LuMnO3 .
+The cluster centroid pattern is: below <SPECIFIER1> ∼ <VALUE1>  <UNIT1> , which breaks the archetypal geometrically frustrated antiferromagnetic state typically ascribed to <CEM1> . with confidence score 1.0
+Cluster 238 contains 1 phrases. With order 0213
+	 hexagonal LuMnO3 which exhibits ferroelectricity ( FE ) coexisting with a geometrically frustrated canted antiferromagnetic ( C - AFM ) structure below TN ∼ 90 K .
+The cluster centroid pattern is: hexagonal <CEM1> which exhibits ferroelectricity ( FE ) coexisting with a geometrically frustrated canted antiferromagnetic ( C - AFM ) structure below <SPECIFIER1> ∼ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 239 contains 1 phrases. With order 0213
+	 hexagonal LuMnO3 system which exhibits multiferroic behavior below the Néel temperature (TN ∼ 90 K )
+The cluster centroid pattern is: hexagonal <CEM1> system which exhibits multiferroic behavior below the <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
+Cluster 240 contains 1 phrases. With order 0021313
+	 pure SFO5 and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a TN = 74 K and 45 K ,
+The cluster centroid pattern is: pure <CEM1> and <CEM2> samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 241 contains 1 phrases. With order 0021313
+	 pure SFO5 and SCO5 samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a TN = 74 K and 45 K ,
+The cluster centroid pattern is: pure <CEM1> and <CEM2> samples have shown the frequency independent peak maxima of χ ′ ( T ) corresponding to the magnetic phase transition with a <SPECIFIER1> = <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> , with confidence score 1.0
+Cluster 242 contains 1 phrases. With order 0213
+	 that Mn5O8 orders antiferromagnetically at Néel temperature TN ≃ 136 K ,
+The cluster centroid pattern is: that <CEM1> orders antiferromagnetically at <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 243 contains 2 phrases. With order 0213
 	 as Cd2Mn3O8 ( TN ≃ 10 K )
 	 and Ca2Mn3O8 ( TN ≃ 60 K )
 The cluster centroid pattern is: and <CEM1> ( <SPECIFIER1> ≃ <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 51 contains 4 phrases. With order 0213
-	 , BiFeO3 ( BFO ) with a ferroelectric Curie temperature of 1100 K and an antiferromagnetic Neel temperature of 640 K seems
-	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
+Cluster 244 contains 1 phrases. With order 013213213213
+	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K , and TN ≃ 126 K .
+The cluster centroid pattern is: that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , and <SPECIFIER1> ≃ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 245 contains 1 phrases. With order 013213213213
+	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K , and TN ≃ 126 K .
+The cluster centroid pattern is: that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , and <SPECIFIER1> ≃ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 246 contains 1 phrases. With order 013213213213
+	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K , and TN ≃ 126 K .
+The cluster centroid pattern is: that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , and <SPECIFIER1> ≃ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 247 contains 1 phrases. With order 013213213213
+	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K , and TN ≃ 126 K .
+The cluster centroid pattern is: that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , and <SPECIFIER1> ≃ <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 248 contains 6 phrases. With order 0213
+	  Co2SiO4 has a TN of 49.5 K ,
+	  MnF2 is an antiferromagnetic ionic insulator at low temperature with a Néel temperature of 67.4 K .
+	  CoA2+ ions are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low Néel temperature of 40 K .
+	  o-YMnO3 with 50 % Fe substitution has the magnetic structure Γ1 ( GxCyAz ) in a Pnma setting , and exhibits a magnetoelectric effect at the Néel temperature TN of 328 K .
 	 , α-MnS is a wide bandgap material of 3 . 0 eV and has a Néel temperature TN of 150 K .
-	 ; LaSrNi0.5Ru0.5O4 is evidenced by the presence of long - range magnetic ordering at a Néel temperature of 125 K , and LaSrZn0 . 5Ru0 . 5O4 exhibits a paramagnetic behaviour down to 5 K .
-The cluster centroid pattern is: , <CEM1> is evidenced by the presence of long - range magnetic ordering at a <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0
-Cluster 52 contains 1 phrases. With order 0213
-	 is BiFeO3 ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic Néel temperature around 640 K are
-The cluster centroid pattern is: is <CEM1> ( BFO ) with its perovskite structure because its ferroelectric transition at about 1100 K and anti - ferromagnetic <SPECIFIER1> around <VALUE1>  <UNIT1> are with confidence score 1.0
-Cluster 53 contains 1 phrases. With order 0213
+	 metallic Sm is antiferromagnetic , with a Neel temperature of 100 K .
+The cluster centroid pattern is:  <CEM1> are in a high spin state ( with a theoretical spin magnetic moment of MS = ± 3 μB ) and are antiferromagnetically coupled together , with a low <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 249 contains 4 phrases. With order 0213
+	 2D C12Fe2 , C12Co2 , C12Tc2 and C12Re2 , finding AFM , FM , FM and AFM ground states with Tn = 26 K ,
+	 and C12Re2 , finding AFM , FM , FM and AFM ground states with Tn = 26 K , Tc = 29 K , Tc = 247 K and Tn = 88 K ,
+	 In o-YbMn0.5Fe0.5O3 , a weak ferromagnetism below TN = 298 K ,
+	  BiFeO3 is a complex multiferroic material with TN = 640 K 
+The cluster centroid pattern is:  <CEM1> is a complex multiferroic material with <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 0
+Cluster 250 contains 1 phrases. With order 2130
+	 low Néel temperature Tn = 88 K makes 2D C12Re2 PM
+The cluster centroid pattern is: low <SPECIFIER1> = <VALUE1>  <UNIT1> makes 2D <CEM1> PM with confidence score 1.0
+Cluster 251 contains 1 phrases. With order 2130130
+	 the Néel temperature of 7.5 K in NP-CePdSn decreases to 5 K in HP-CePdSn .
+The cluster centroid pattern is: the <SPECIFIER1> of <VALUE1>  <UNIT1> in <CEM1> decreases to <VALUE2>  <UNIT2> in <CEM2> . with confidence score 1.0
+Cluster 252 contains 1 phrases. With order 2130130
+	 the Néel temperature of 7.5 K in NP-CePdSn decreases to 5 K in HP-CePdSn .
+The cluster centroid pattern is: the <SPECIFIER1> of <VALUE1>  <UNIT1> in <CEM1> decreases to <VALUE2>  <UNIT2> in <CEM2> . with confidence score 1.0
+Cluster 253 contains 2 phrases. With order 0213
+	 , PbMnInS5 with θ = - 66 . 6 K and TN around 25.0 K ,
+	 , Sm2Mn3Sb4S12 with θ = - 221 . 9 K and TN around 40.0 K ,
+The cluster centroid pattern is: , <CEM1> with θ = - 221 . 9 K and <SPECIFIER1> around <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 254 contains 1 phrases. With order 0213
+	 member Mn4Gd2S7 ( 3 ) featuring a richer density of Mn2 + ions to display a moderate θ value at - 40 . 25 K and a high TN at 70 K .
+The cluster centroid pattern is: member <CEM1> ( 3 ) featuring a richer density of Mn2 + ions to display a moderate θ value at - 40 . 25 K and a high <SPECIFIER1> at <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 255 contains 1 phrases. With order 0213
+	 both CoSb2O6 samples revealed an onset of antiferromagnetic long - range order at low temperatures with approximately the same Néel temperature, as high as 11 K (
+The cluster centroid pattern is: both <CEM1> samples revealed an onset of antiferromagnetic long - range order at low temperatures with approximately the same <SPECIFIER1> as high as <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 256 contains 1 phrases. With order 0213
 	 , γ-Fe2O3 exhibits ferrimagnetic ordering with a net magnetic moment ( 2 . 5 μB per formula unit ) and a high Néel temperature ( approximately 950 K )
 The cluster centroid pattern is: , <CEM1> exhibits ferrimagnetic ordering with a net magnetic moment ( 2 . 5 μB per formula unit ) and a high <SPECIFIER1> ( approximately <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 54 contains 3 phrases. With order 0213
-	 that lepidocrocite is antiferromagnetic below the Néel temperature of 50 K .
-	  BFO currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic Neel temperature of 643 K .
-	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
-The cluster centroid pattern is:  <CEM1> currently is the only known room - temperature single - phase magneto - electric multiferroic material , allowing for control of magnetism by applied electric fields and vice versa via magnetoelectric coupling , with a high ferroelectric Curie temperature of 1103 K and an antiferromagnetic <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 55 contains 1 phrases. With order 0213
-	 Since BFO is known to be antiferromagnetic below TN = 643 K ,
-The cluster centroid pattern is: Since <CEM1> is known to be antiferromagnetic below <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 56 contains 6 phrases. With order 0213
-	 ( BFO ) with high Tc ∼ 1103 K and TN ∼ 643 K attracts
-	 ( BFO ) is a widely investigated multiferroic material which has a very high ferroelectric Curie temperature ( TC ∼ 1100 K ) and antiferromagnetic Nèel temperature (TN ∼ 643 K )
-	 ( BFO ) is one of the most studied single phase multiferroics , known as ferroelectric ( TC ∼ 1103 K ) and G - type antiferromagnetic ( TN ∼ 643 K )
-	 as BFO ) with space group R3c has become one of the most interesting materials due to its good electrical properties , and high Curie temperature ( TC ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
-	 – BFO ) is a prototypical lead - free single phase multiferroic which shows strong ferroelectric and antiferromagnetic properties simultaneously , together with high ferroelectric Curie temperature ( TFE ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
-	 ( BFO ) has been widely studied owing to its unique room - temperature ( RT ) multiferroic properties with a high Curie temperature ( Tc ∼ 1103 K ) and Néel temperature (TN ∼ 643 K )
-The cluster centroid pattern is: ( <CEM1> ) with high Tc ∼ 1103 K and <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 0
-Cluster 57 contains 1 phrases. With order 0213
-	 pure BFO , the value of TN is 643 K .
-The cluster centroid pattern is: pure <CEM1> , the value of <SPECIFIER1> is <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 58 contains 1 phrases. With order 0213
-	 or BFO ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( Nèel temperature (TN) ≈ 643 K and
-The cluster centroid pattern is: or <CEM1> ) is a state of the art multiferroic ( MF ) material that exhibits a magnetic and electric ordering temperature far above room temperature ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> and with confidence score 1.0
-Cluster 59 contains 1 phrases. With order 2013
-	 the Néel temperature of BFO ( ca . 643 K )
-The cluster centroid pattern is: the <SPECIFIER1> of <CEM1> ( ca . <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 60 contains 4 phrases. With order 0213
-	  BFO exhibits ferroelectric ( FE ) behavior with a Curie temperature ( TC ) of 1103 K and an antiferromagnetic ( AFM ) property with a Néel temperature (TN) of 643 K that
-	 ( BFO ) possesses a giant polarization with a high ferroelectric Curie temperature ( TC ) of ∼ 1100 K , and an antiferromagnetic structure with a Néel temperature of around 643 K .
-	 , Cr2O3 adopts the R3c structure and is antiferromagnetic ( AFM ) , with a Néel temperature of 308 K .
-	  Fe1-xS is an off - stoichiometric phase ( 0 ≤ x ≤ 0 . 125 ) which is paramagnetic and structurally disordered above its critical Néel temperature TN of 315 °C .
-The cluster centroid pattern is:  <CEM1> is an off - stoichiometric phase ( 0 ≤ x ≤ 0 . 125 ) which is paramagnetic and structurally disordered above its critical <SPECIFIER1> of <VALUE1>  <UNIT1> . with confidence score 0.0
-Cluster 61 contains 1 phrases. With order 0213
-	 of TlCrO3 ( TN ≈ 89 K )
-The cluster centroid pattern is: of <CEM1> ( <SPECIFIER1> ≈ <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 62 contains 1 phrases. With order 0213
-	 of TlCrO3 showed sharp anomalies near TN = 89 K (
-The cluster centroid pattern is: of <CEM1> showed sharp anomalies near <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
-Cluster 63 contains 1 phrases. With order 0213
-	 the FexO core , i . e . , TN = 240 K (
-The cluster centroid pattern is: the <CEM1> , i . e . , <SPECIFIER1> = <VALUE1>  <UNIT1> ( with confidence score 1.0
-Cluster 64 contains 1 phrases. With order 0213
-	 the FexO core is maintained up to roughly TN ∼ 240 K (
-The cluster centroid pattern is: the <CEM1> is maintained up to roughly <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ( with confidence score 1.0
-Cluster 65 contains 1 phrases. With order 0213
-	 in ScCrO3 with TN2 = 68 . 6 K and TN1 = 73.0 K .
-The cluster centroid pattern is: in <CEM1> with TN2 = 68 . 6 K and <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 66 contains 1 phrases. With order 2130
-	 with Néel temperatures of 13 K for MnTe6O13 and 21 K for CoTe6O13 .
-The cluster centroid pattern is: with <SPECIFIER1> of 13 K for MnTe6O13 and <VALUE1>  <UNIT1> for <CEM1> . with confidence score 1.0
-Cluster 67 contains 2 phrases. With order 013213
-	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K ,
-	 that Mn5O8 is an antiferromagnet with Néel temperature TN ≃ 128 K , TN ≃ 133 K , TN ≃ 131 K ,
-The cluster centroid pattern is: that <CEM1> is an antiferromagnet with Néel temperature TN ≃ <VALUE1>  <UNIT1> , <SPECIFIER1> ≃ <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 68 contains 1 phrases. With order 2130
-	 The TN was of 360 K for the pure GFO films ,
-The cluster centroid pattern is: The <SPECIFIER1> was of <VALUE1>  <UNIT1> for the pure <CEM1> , with confidence score 1.0
-Cluster 69 contains 2 phrases. With order 21300
-	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF ,
-	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF ,
-The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , with confidence score 1.0
-Cluster 70 contains 1 phrases. With order 2130
-	 < TN < 963 K ) , bulk α-Fe2O3 is
-The cluster centroid pattern is: < <SPECIFIER1> < <VALUE1>  <UNIT1> ) , bulk <CEM1> is with confidence score 0
-Cluster 71 contains 1 phrases. With order 2130
-	 ( Néel temperature is 955 K in hematite , but only 300 K in eskolaite )
-The cluster centroid pattern is: ( <SPECIFIER1> is 955 K in hematite , but only <VALUE1>  <UNIT1> in <CEM1> ) with confidence score 1.0
-Cluster 72 contains 2 phrases. With order 21300
-	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF ,
-	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF ,
-The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , Cr2CClBr , Cr2CHCl , <CEM1> , with confidence score 1.0
-Cluster 73 contains 1 phrases. With order 0213
-	  Rare earth orthoferrites RFeO3 are well known for their high Neel temperature (TN ∼ 620 K )
-The cluster centroid pattern is:  <CEM1> are well known for their high <SPECIFIER1> ∼ <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 74 contains 2 phrases. With order 0213
-	 in BiMnFe2O6 as a broad cusp at TN = 212 K ;
-	 in Fe1-xS as a function of temperature in the range 170 – 400 ° C , which extends across the known magnetostructural order – disorder transition temperature TN = 315 °C .
-The cluster centroid pattern is: in <CEM1> as a broad cusp at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0
-Cluster 75 contains 3 phrases. With order 0213
-	 in BiMnFe2O6 at TN = 212 K .
-	 , LiFeP2O7 phase can be detected , which exhibits a magnetic anomaly at the same temperature range ( TN = 27 K )
-	 compound Co4(OH)5(1a)0.5,H2O orders ferrimagnetically at TN = 9 K .
-The cluster centroid pattern is: compound <CEM1> at <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 0.0
-Cluster 76 contains 1 phrases. With order 0213
-	 and MnO2 are all AFM below the Neel temperature of 100 K , 116 K and 84 K respectively
-The cluster centroid pattern is: and <CEM1> are all AFM below the <SPECIFIER1> of 100 K , 116 K and <VALUE1>  <UNIT1> respectively with confidence score 1.0
-Cluster 77 contains 1 phrases. With order 0213
-	 is RBa2Cu3O7 ( RBCO ) with Tc ∼ 92 K and TN = 2.2 K ,
-The cluster centroid pattern is: is <CEM1> ( RBCO ) with Tc ∼ 92 K and <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 78 contains 1 phrases. With order 0213
-	 of HoFeO3 , the Fe - moments order antiferromagnetically below TN = 640 K ;
-The cluster centroid pattern is: of <CEM1> , the Fe - moments order antiferromagnetically below <SPECIFIER1> = <VALUE1>  <UNIT1> ; with confidence score 1.0
-Cluster 79 contains 3 phrases. With order 2130
-	 the Néel temperature of 953 K , α-Fe2O3 is
-	 the Néel temperature TN of 315 °C , where Fe1-xS is
-	 the Néel temperature of the sample calcined at 700 ° C was 33 K , which was lower than that of the commercially available Co3O4 bulk
-The cluster centroid pattern is: the <SPECIFIER1> of <VALUE1>  <UNIT1> , <CEM1> is with confidence score 0.5
-Cluster 80 contains 2 phrases. With order 02113
-	  CaM2O4 phases with M = Fe and Mn order antiferromagnetically , with Néel temperatures of 160 and 220 K ,
-	  CuO nanoparticles with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show Neel temperatures of 30 and 13 K ,
-The cluster centroid pattern is:  <CEM1> with size of ∼ 5 nm and ∼ 3 nm , in which finite size effects are more dominant , have been reported to show <SPECIFIER1> of <VALUE1> and <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 81 contains 1 phrases. With order 0213
-	 magnetic brownmillerite is still identified ; upon increasing the temperature above TN = 250 °C ,
-The cluster centroid pattern is: magnetic <CEM1> is still identified ; upon increasing the temperature above <SPECIFIER1> = <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 82 contains 1 phrases. With order 0213
-	 and LiMnPO4 are antiferromagnets with the Neel temperatures TN ≈ 52 and 35 K ;
-The cluster centroid pattern is: and <CEM1> are antiferromagnets with the <SPECIFIER1> ≈ 52 and <VALUE1>  <UNIT1> ; with confidence score 1.0
-Cluster 83 contains 1 phrases. With order 2013
-	 a Néel temperature of 52 K , and LiMnPO4 orders at 35 K along
-The cluster centroid pattern is: a <SPECIFIER1> of 52 K , and <CEM1> orders at <VALUE1>  <UNIT1> along with confidence score 1.0
-Cluster 84 contains 1 phrases. With order 0213
-	 show CuFeO2 crystals exhibit antiferromagnetic behavior , the Néel temperature (TN) about 12 K and
-The cluster centroid pattern is: show <CEM1> exhibit antiferromagnetic behavior , the <SPECIFIER1> about <VALUE1>  <UNIT1> and with confidence score 1.0
-Cluster 85 contains 1 phrases. With order 0132
-	 of Ba2CoS3 at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at 46 K ( see Fig . 3 ) and this is consistent with the signature of a TN in
-The cluster centroid pattern is: of <CEM1> at a temperature lower than the temperature of the peak related to short - range ordering ( T < Tmax = 130 K ) , we have detected a kink at <VALUE1>  <UNIT1> ( see Fig . 3 ) and this is consistent with the signature of a <SPECIFIER1> in with confidence score 1.0
-Cluster 86 contains 1 phrases. With order 2130
-	 a Néel temperature at 46 K , we measured the heat capacity of Ba2CoS3 as
-The cluster centroid pattern is: a <SPECIFIER1> at <VALUE1>  <UNIT1> , we measured the heat capacity of <CEM1> as with confidence score 1.0
-Cluster 87 contains 1 phrases. With order 0213
-	 insulating chromium sesquioxide is an antiferromagnet with a Néel temperature TN = 307.5 K .
-The cluster centroid pattern is: insulating <CEM1> is an antiferromagnet with a <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 88 contains 1 phrases. With order 0213
-	 spinel Co3O4 ( which has a Néel temperature of 33 K )
-The cluster centroid pattern is: spinel <CEM1> ( which has a <SPECIFIER1> of <VALUE1>  <UNIT1> ) with confidence score 1.0
-Cluster 89 contains 2 phrases. With order 0213
-	 the Co3O4 nanoparticles show a magnetic anomaly at a Néel temperature 33 K as
-	 the mesoporous Co3O4 behaves like an antiferromagnet with a Néel temperature, TN ∼ 30 K (
-The cluster centroid pattern is: the <CEM1> behaves like an antiferromagnet with a <SPECIFIER1>  <VALUE1>  <UNIT1> ( with confidence score 0
-Cluster 90 contains 1 phrases. With order 2130
-	 with Néel temperatures below 33 K ( the Néel temperature of the cobalt spinel , Co3O4 )
-The cluster centroid pattern is: with <SPECIFIER1> below <VALUE1>  <UNIT1> ( the Néel temperature of the cobalt spinel , <CEM1> ) with confidence score 1.0
-Cluster 91 contains 1 phrases. With order 0213
-	 analogue CaMnO3 although this has a noticeably lower transition temperature TN = 123 K .
-The cluster centroid pattern is: analogue <CEM1> although this has a noticeably lower transition temperature <SPECIFIER1> = <VALUE1>  <UNIT1> . with confidence score 1.0
-Cluster 92 contains 2 phrases. With order 0213
-	 of SrFeO2.50 relative to the mixture of the binary constituent oxides is large even far below TN = 685 K due
-	 of SrFeO2.50 relative to the mixture of the binary constituent oxides is large even far below TN = 685 K due
-The cluster centroid pattern is: of <CEM1> relative to the mixture of the binary constituent oxides is large even far below <SPECIFIER1> = <VALUE1>  <UNIT1> due with confidence score 1.0
-Cluster 93 contains 1 phrases. With order 0213
-	  Sr2CoB′O6 for both B ′ = Mo and W has higher Néel temperatures of approximately 30 K ,
-The cluster centroid pattern is:  <CEM1> for both B ′ = Mo and W has higher <SPECIFIER1> of approximately <VALUE1>  <UNIT1> , with confidence score 1.0
-Cluster 94 contains 1 phrases. With order 0213
-	 bulk HMO has been observed experimentally below the Néel temperature of 24.5 K ,
-The cluster centroid pattern is: bulk <CEM1> has been observed experimentally below the <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0
+Cluster 257 contains 1 phrases. With order 21300
+	 higher TN ( it is a canted antiferromagnet ) of 950 K . γ-Fe2O3 ( maghemite ) has a TC of 920 K , and converts to hematite when
+The cluster centroid pattern is: higher <SPECIFIER1> ( it is a canted antiferromagnet ) of <VALUE1>  <UNIT1> . <CEM1> ( maghemite ) has a TC of 920 K , and converts to <CEM1> when with confidence score 1.0
+Cluster 258 contains 1 phrases. With order 0213
+	 , SFWO is an antiferromagnetic ( AFM ) and insulator material showing a Neel temperature around 37 K .
+The cluster centroid pattern is: , <CEM1> is an antiferromagnetic ( AFM ) and insulator material showing a <SPECIFIER1> around <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 259 contains 2 phrases. With order 2130
+	 near TN1 ∼ 85 K ( the Mn ordering
+	 below TN2 ∼ 3.5 K induces magnetic transition at a critical field of H | | c ∼ 35 kOe ( ref . 9 ) due to the spin - flip / reorientation of the Yb (
+The cluster centroid pattern is: below <SPECIFIER1> ∼ <VALUE1>  <UNIT1> induces magnetic transition at a critical field of H | | c ∼ 35 kOe ( ref . 9 ) due to the spin - flip / reorientation of the <CEM1> ( with confidence score 1.0
+Cluster 260 contains 2 phrases. With order 2130
+	 transition TN1 ∼ 85 K and ferromagnetic transition TN2 ∼ 3 . 5 K which correspond to the long range magnetic ordering of Mn and
+	 transition TN2 ∼ 3.5 K which correspond to the long range magnetic ordering of Mn and Yb ions
+The cluster centroid pattern is: transition <SPECIFIER1> ∼ <VALUE1>  <UNIT1> and ferromagnetic transition TN2 ∼ 3 . 5 K which correspond to the long range magnetic ordering of <CEM1> ions with confidence score 0
+Cluster 261 contains 1 phrases. With order 2130
+	 in TN from 85 K for YbMnO3 (
+The cluster centroid pattern is: in <SPECIFIER1> from <VALUE1>  <UNIT1> for <CEM1> ( with confidence score 1.0
+Cluster 262 contains 1 phrases. With order 0213
+	 – Yb interactions below TN2 ∼ 3.5 K .
+The cluster centroid pattern is: – <CEM1> interactions below <SPECIFIER1> ∼ <VALUE1>  <UNIT1> . with confidence score 0
+Cluster 263 contains 1 phrases. With order 0213
+	 the Yb ordering temperature TN2 ≈ 3.5 K for
+The cluster centroid pattern is: the <CEM1> ordering temperature <SPECIFIER1> ≈ <VALUE1>  <UNIT1> for with confidence score 1.0
+Cluster 264 contains 1 phrases. With order 0213
+	  YCO is a biferroic material having canted anti - ferromagnetic ( AFM ) ordering below the Neel temperature (TN) of 140 K (
+The cluster centroid pattern is:  <CEM1> is a biferroic material having canted anti - ferromagnetic ( AFM ) ordering below the <SPECIFIER1> of <VALUE1>  <UNIT1> ( with confidence score 1.0
+Cluster 265 contains 1 phrases. With order 0213
+	  SmCrO3 is reported to be ordered in Γ4 ( Gx , Ay , Fz , FRz ) configuration below TN at 191 K and
+The cluster centroid pattern is:  <CEM1> is reported to be ordered in Γ4 ( Gx , Ay , Fz , FRz ) configuration below <SPECIFIER1> at <VALUE1>  <UNIT1> and with confidence score 1.0
+Cluster 266 contains 1 phrases. With order 0002131313
+	 Metallic Mn , MnO and MnO2 are all AFM below the Neel temperature of 100 K , 116 K and 84 K respectively
+The cluster centroid pattern is: Metallic <CEM3> , <CEM1> and <CEM2> are all AFM below the <SPECIFIER1> of <VALUE3>  <UNIT3> , <VALUE1>  <UNIT1> and <VALUE2>  <UNIT2> respectively with confidence score 1.0
+Cluster 267 contains 1 phrases. With order 2130
+	 predict Néel temperatures exceeding 100 K for the case of Mn .
+The cluster centroid pattern is: predict <SPECIFIER1> exceeding <VALUE1>  <UNIT1> for the case of <CEM1> . with confidence score 1.0
+Cluster 268 contains 1 phrases. With order 2130
+	 at TN = 108.4 K of the Mn4Nb2O9 single
+The cluster centroid pattern is: at <SPECIFIER1> = <VALUE1>  <UNIT1> of the <CEM1> single with confidence score 1.0
+Cluster 269 contains 1 phrases. With order 2130
+	 around TN = 108.4 K , which corresponds to the previously observed AFM transition in polycrystalline Mn4Nb2O9 ,
+The cluster centroid pattern is: around <SPECIFIER1> = <VALUE1>  <UNIT1> , which corresponds to the previously observed AFM transition in polycrystalline <CEM1> , with confidence score 1.0
+Cluster 270 contains 2 phrases. With order 0213
+	  FePbBiO4 orders antiferromagnetically with a Néel temperature of 24 K ;
+	 for FePbBiO4 are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a Néel temperature of 24 K ;
+The cluster centroid pattern is:  <CEM1> are shown in Fig . 6a and suggest a simple paramagnetic - antiferromagnetic transition with a <SPECIFIER1> of <VALUE1>  <UNIT1> ; with confidence score 0.0
+Cluster 271 contains 1 phrases. With order 2013
+	 since TN ( 24 K ) is significantly lower than that for FeSb2O4 , 46 K .
+The cluster centroid pattern is: since <SPECIFIER1> ( 24 K ) is significantly lower than that for <CEM1> , <VALUE1>  <UNIT1> . with confidence score 1.0
+Cluster 272 contains 2 phrases. With order 21300000
+	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , <CEM1> , <CEM1> , <CEM1> , and <CEM1> materials with confidence score 0.9999999999999999
+Cluster 273 contains 2 phrases. With order 21300000
+	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , <CEM1> , <CEM1> , <CEM1> , and <CEM1> materials with confidence score 0.9999999999999999
+Cluster 274 contains 2 phrases. With order 21300000
+	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , <CEM1> , <CEM1> , <CEM1> , and <CEM1> materials with confidence score 0.9999999999999999
+Cluster 275 contains 2 phrases. With order 21300000
+	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , <CEM1> , <CEM1> , <CEM1> , and <CEM1> materials with confidence score 0.9999999999999999
+Cluster 276 contains 2 phrases. With order 21300000
+	 A Néel temperature as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+	 A Néel temperatures as high as 400 K has been found for Cr2CFCl , Cr2CClBr , Cr2CHCl , Cr2CHF , and Cr2CFOH materials
+The cluster centroid pattern is: A <SPECIFIER1> as high as <VALUE1>  <UNIT1> has been found for <CEM1> , <CEM1> , <CEM1> , <CEM1> , and <CEM1> materials with confidence score 0.9999999999999999
+Cluster 277 contains 1 phrases. With order 0213
+	 whereas Ba2NdMoO6 shows clear antiferromagnetic ordering of both the molybdenum and neodymium moments below the Néel temperature of 15 K ,
+The cluster centroid pattern is: whereas <CEM1> shows clear antiferromagnetic ordering of both the molybdenum and neodymium moments below the <SPECIFIER1> of <VALUE1>  <UNIT1> , with confidence score 1.0

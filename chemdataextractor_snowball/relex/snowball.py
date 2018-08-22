@@ -497,7 +497,6 @@ class Snowball:
         self.new_relations = []
         self.candidate_phrases = []
         self.parse_element(element, training=False)
-
         # Now update the system
         self.update()
 
@@ -528,9 +527,9 @@ class Snowball:
             cems = s.cems
             #print(self.pperty)
             if self.pperty == 'neel_temperatures':
-                properties = [rec.neel_temperatures[i] for rec in s.records for i in range(0, len(rec.neel_temperatures)) if rec.neel_temperatures and not rec.names and not rec.labels]
+                properties = [rec.neel_temperatures[i] for rec in s.records for i in range(0, len(rec.neel_temperatures)) if rec.neel_temperatures]
             elif self.pperty == 'curie_temperatures':
-                properties = [rec.curie_temperatures[i] for rec in s.records for i in range(0, len(rec.curie_temperatures)) if rec.curie_temperatures and not rec.names and not rec.labels]
+                properties = [rec.curie_temperatures[i] for rec in s.records for i in range(0, len(rec.curie_temperatures)) if rec.curie_temperatures]
             else:
                 raise ValueError("Property type not known")
             self.candidate_phrases = self.extract(s, cems, properties)
@@ -570,9 +569,11 @@ class Snowball:
                     compounds.append((m, 'c'))
 
         # value and unit regex matches
+        print(properties)
         for nt in properties:
             if nt.value:
                 value_string = nt.value
+                print(value_string)
                 for ch in value_string:
                     index = 0
                     if ch.isdigit():
@@ -656,7 +657,8 @@ class Snowball:
 
             if phrase_match['compounds'] and phrase_match['specifiers'] and phrase_match['values'] and phrase_match['units']:
                 phrase_sets.append(phrase_match)
-
+        print(compounds, values, units)
+        print(phrase_sets)
         # Create phrases
         for p in phrase_sets:
             new_phrase = Phrase(sentence=sentence_str, matches=p)
@@ -691,6 +693,7 @@ class Snowball:
                         match_pattern = pattern
                         match_score = similarity
             confidence = 1 - confidence_term
+            print(confidence)
             if confidence >= self.minimum_relation_confidence:
                 if confidence > best_candidate_confidence:
                     best_candidate = candidate
