@@ -6,7 +6,7 @@ since name_1 has a specifier_1 at value_1 <EMPTY> units_1 . with confidence scor
 
 the specifier_1 <EMPTY> value_1 <EMPTY> units_1 ) of name_1 suggests with confidence score 1.0
 
-<EMPTY> name_1 is ferromagnetic with a specifier_1 of value_1 <EMPTY> units_1 and with confidence score 1.0
+<EMPTY> name_1 is ferromagnetic with a specifier_1 of value_1 <EMPTY> units_1 and with confidence score 0.75
 
 , name_1 has recently attracted much attention due to its high specifier_1 ∼ value_1 <EMPTY> units_1 ) with confidence score 1.0
 
