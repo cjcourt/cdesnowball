@@ -10,7 +10,7 @@ If using CDE in your work please cite:
 Swain, M. C., & Cole, J. M. "ChemDataExtractor: A Toolkit for Automated Extraction of Chemical Information from the Scientific Literature", J. Chem. Inf. Model. 2016, 56 (10), pp 1894–1904 10.1021/acs.jcim.6b00207
 ```
 
-See [magneticmaterials.org](http://magneticmaterials.org/documentation) for more details and documentation.
+See the jupyter notebook for example usage.
 
 
 # USAGE

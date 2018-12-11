@@ -188,18 +188,18 @@ class Document(BaseDocument):
                         head_def_record_i = i
 
             # Use Snowball to correct for unidentified records
-            if (isinstance(el, Paragraph)) and el.records:
-                unidentified_records_idx = [el.records.index(x) for x in el.records if x.is_unidentified]
-                if unidentified_records_idx:
-                    #print("Snowballing")
-                    snowball_records = el.snowball()
-                    if snowball_records:
-                        # delete unidentified records
-                        for uid in unidentified_records_idx:
-                            el.records.pop(uid)
-                            # add snowball records to list of models
-                        for sb_rec in snowball_records:
-                            records.append(sb_rec)
+            # if (isinstance(el, Paragraph)) and el.records:
+            #     unidentified_records_idx = [el.records.index(x) for x in el.records if x.is_unidentified]
+            #     if unidentified_records_idx:
+            #         #print("Snowballing")
+            #         snowball_records = el.snowball()
+            #         if snowball_records:
+            #             # delete unidentified records
+            #             for uid in unidentified_records_idx:
+            #                 el.records.pop(uid)
+            #                 # add snowball records to list of models
+            #             for sb_rec in snowball_records:
+            #                 records.append(sb_rec)
 
             # Interdependency resolution
             for record in el.records:

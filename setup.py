@@ -22,11 +22,11 @@ setup(
     long_description=long_description,
     keywords='text-mining mining chemistry cheminformatics nlp html xml science scientific',
     zip_safe=False,
-    entry_points={'console_scripts': ['cde = chemdataextractor_snowball.cli:cli']},
+    entry_points={'console_scripts': ['cde = chemdataextractor.cli:cli']},
     tests_require=['pytest'],
     install_requires=[
         'appdirs', 'beautifulsoup4', 'click', 'cssselect', 'lxml', 'nltk', 'pdfminer.six', 'python-dateutil',
-        'requests', 'six', 'python-crfsuite', 'DAWG', 'PyYAML'
+        'requests', 'six', 'python-crfsuite', 'DAWG', 'PyYAML', 'selenium'
     ],
     classifiers=[
         'Intended Audience :: Developers',
