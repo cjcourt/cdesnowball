@@ -2,3 +2,4 @@
 main.py
 *.pyc
 *.pyo
+chemdataextractor/**/__pycache__/*.pyc
