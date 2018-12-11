@@ -4,8 +4,6 @@ Relex package
 
 For performing semi-supervised chemical Relationship Extraction using the Snowball Algorithm
 
-This package is still under development, please use it for beta testing only and notify myself of any bugs
-
 cc889
 """
 

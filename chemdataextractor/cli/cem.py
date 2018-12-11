@@ -13,7 +13,7 @@ from __future__ import print_function
 
 import click
 
-from nlp.cem import CrfCemTagger
+from ..nlp.cem import CrfCemTagger
 
 
 @click.group()

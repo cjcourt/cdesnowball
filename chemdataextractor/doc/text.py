@@ -274,15 +274,15 @@ class Paragraph(Text):
     def _repr_html_(self):
         return '<p class="cde-paragraph">' + self.text + '</p>'
 
-    def snowball(self):
-        """ Run this paragraph through Snowball pipeline """
-        t0 = time.time()
-        snowball_records = []
-        for snowball_system in snowball_systems:
-            recs = snowball_system.records(element=self)
-            for r in recs:
-                snowball_records.append(r)
-        return snowball_records
+    # def snowball(self):
+    #     """ Run this paragraph through Snowball pipeline """
+    #     t0 = time.time()
+    #     snowball_records = []
+    #     for snowball_system in snowball_systems:
+    #         recs = snowball_system.records(element=self)
+    #         for r in recs:
+    #             snowball_records.append(r)
+    #     return snowball_records
 
 
 class Footnote(Text):

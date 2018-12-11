@@ -20,7 +20,7 @@ from lxml.etree import XMLParser
 from lxml.html import HTMLParser
 import six
 
-from chemdataextractor_snowball.errors import ReaderError
+from ..errors import ReaderError
 from ..doc.document import Document
 from ..doc.text import Title, Heading, Paragraph, Caption, Citation, Footnote, Text, Sentence
 from ..doc.table import Table, Cell
