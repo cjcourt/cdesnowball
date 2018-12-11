@@ -85,15 +85,24 @@ class Phrase:
         self.order = [e.tag.name for e in self.entities]
 
         # Create the phrase elements, prefix, middles, suffix
-        self.elements['prefix'] = {'tokens': [t for t in sentence[sorted_entity_list[0].start - self.prefix_length:sorted_entity_list[0].start]]}
+        prefix_tokens = [t for t in sentence[sorted_entity_list[0].start - self.prefix_length:sorted_entity_list[0].start]]
+        if len(prefix_tokens) == 0:
+            prefix_tokens = ['<EMPTY>']
+        self.elements['prefix'] = {'tokens': prefix_tokens}
 
 
         for m in range(0, number_of_middles):
             prev_entity_end = sorted_entity_list[m].end
             next_entitiy_start = sorted_entity_list[m+1].start
-            self.elements['middle_' + str(m+1)] = {'tokens': [t for t in sentence[prev_entity_end:next_entitiy_start]]}
+            middle_tokens = [t for t in sentence[prev_entity_end:next_entitiy_start]]
+            if len(middle_tokens) == 0:
+                middle_tokens = ['<EMPTY>']
+            self.elements['middle_' + str(m+1)] = {'tokens': middle_tokens}
 
-        self.elements['suffix'] = {'tokens': [t for t in sentence[sorted_entity_list[-1].end:sorted_entity_list[-1].end+self.suffix_length]]}
+        suffix_tokens = [t for t in sentence[sorted_entity_list[-1].end:sorted_entity_list[-1].end+self.suffix_length]]
+        if len(suffix_tokens) == 0:
+            suffix_tokens = ['<EMPTY>']
+        self.elements['suffix'] = {'tokens': suffix_tokens}
 
         return
 

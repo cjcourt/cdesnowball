@@ -30,8 +30,6 @@ from ..parse.tg import TgParser
 from ..parse.nmr import NmrParser
 from ..parse.uvvis import UvvisParser
 
-from ..relex import snowball_systems
-
 from ..nlp.lexicon import ChemLexicon
 from ..nlp.cem import CemTagger, IGNORE_PREFIX, IGNORE_SUFFIX, SPECIALS, SPLITS
 from ..nlp.abbrev import ChemAbbreviationDetector
