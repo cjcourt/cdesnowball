@@ -6,8 +6,8 @@ Cluster 1 contains 1 phrases
 	 The DC susceptibility curves of the EuS nanocrystals show a transition temperature TC at around 15 K ( estimated from the inflection point of the curves ) and a thermal irreversibility below Tir = 14 K .
 The cluster centroid pattern is: the name_1 show a transition temperature specifier_1 at around value_1 <EMPTY> units_1 ( with confidence score 1.0
 Cluster 2 contains 1 phrases
-	 In what concerns the other range ( > 40 K ) , we observe a maximum at 60 K ( Fig. 6b ) , probably related to a EuO - like environment located at the surface of the nanocrystals , since EuO has a Tc at 69 K .
-The cluster centroid pattern is: since name_1 has a specifier_1 at value_1 <EMPTY> units_1 . with confidence score 1.0
+	 The EuS nanocrystals have low coercive fields HC ( at 2 K , HC = 90 Oe ) and low remanence Mr , this rapidly approaches zero as temperature increases , being zero above TC ( Fig. 7 ) .
+The cluster centroid pattern is: The name_1 have low coercive fields HC ( at value_1 <EMPTY> units_1 , HC = 90 Oe ) and low remanence Mr , this rapidly approaches zero as temperature increases , being zero above specifier_1 ( with confidence score 1.0
 Cluster 3 contains 1 phrases
 	 The much smaller value of TB compared to the Curie temperature ( 627 K ) of bulk Ni suggests that the thickness of the Ni shell is very small .
 The cluster centroid pattern is: the specifier_1 <EMPTY> value_1 <EMPTY> units_1 ) of name_1 suggests with confidence score 1.0
