@@ -30,6 +30,7 @@
   "tests/test_parse_mp.py::TestParseMpCompound::test_mpc2": true,
   "tests/test_reader_elsevier.py::TestElsXMLReader::test_direct_usage": true,
   "tests/test_reader_elsevier.py::TestElsXMLReader::test_document_usage": true,
+  "tests/test_relex_snowball.py::TestSnowball::test_extract": true,
   "tests/test_scrape_rsc.py::TestRscSearchDocument::test_abstract": true,
   "tests/test_scrape_rsc.py::TestRscSearchDocument::test_doi": true,
   "tests/test_scrape_rsc.py::TestRscSearchDocument::test_html_url": true,

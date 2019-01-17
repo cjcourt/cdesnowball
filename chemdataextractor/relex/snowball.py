@@ -5,26 +5,25 @@ Chemdataextractor.relex.snowball
 The Snowball Relationship Extraction algorithm
 """
 import copy
+import io
 import os
 import pickle
-import six
+from collections import OrderedDict
 from itertools import combinations
 
 import numpy as np
-import io
-
-from ..parse import (Any, I, OneOrMore, Optional, R, W,
-                     ZeroOrMore, join, merge)
+import six
 
 from ..doc.document import Document, Paragraph
 from ..doc.text import Sentence
 from ..model import Compound
+from ..parse import Any, I, OneOrMore, Optional, R, W, ZeroOrMore, join, merge
 from ..parse.cem import chemical_name
 from .cluster import Cluster
 from .entity import Entity
 from .phrase import Phrase
 from .relationship import Relation
-from .utils import match
+from .utils import match, vectorise
 
 
 class Snowball(object):
@@ -57,7 +56,8 @@ class Snowball(object):
                  prefix_length=1,
                  suffix_length=1,
                  learning_rate=0.5,
-                 max_candidate_combinations=400):
+                 max_candidate_combinations=400,
+                 save_dir='chemdataextractor/relex/data/'):
         self.relationship = relationship
         self.relations = []
         self.phrases = []
@@ -65,7 +65,7 @@ class Snowball(object):
         self.cluster_counter = 0
         self.sentences = []
         self.max_candidate_combinations = max_candidate_combinations
-        self.save_dir = 'chemdataextractor/relex/data/'
+        self.save_dir = save_dir
         self.save_file_name = relationship.name
 
         # params
@@ -109,6 +109,12 @@ class Snowball(object):
 
         f = open(path, 'rb')
         return pickle.load(f)
+    
+    def set_learning_rate(self, alpha):
+        self.learning_rate =  alpha
+        for cluster in self.clusters:
+            cluster.learning_rate = alpha
+        return
 
     def update(self, sentence_tokens, relations=[]):
         """Update the learned extraction pattern clusters based on the incoming sentence and relation
@@ -166,9 +172,10 @@ class Snowball(object):
         Arguments:
             phrase {Phrase} -- The Phrase to cluster
         """
-
+        # print("Clustering new phrase", phrase)
         # If no clusters, create a new one
         if len(self.clusters) == 0:
+            # print("Creating new cluster", self.cluster_counter)
             cluster0 = Cluster(str(self.cluster_counter), learning_rate=self.learning_rate)
             cluster0.add_phrase(phrase)
             self.clusters.append(cluster0)
@@ -185,6 +192,7 @@ class Snowball(object):
         """
         to_del = self.clusters[idx]
         del to_del
+        self.cluster_counter -= 1
         return
 
     def classify(self, phrase):
@@ -197,27 +205,21 @@ class Snowball(object):
         for cluster in self.clusters:
             # Only compare clusters that have the same ordering of entities
             if phrase.order == cluster.order:
-                # vectorise the phrase using this cluster dictionary
-                cluster.vectorise(cluster.pattern)
-                cluster.vectorise(phrase)
 
                 # Check the level of similarity to the cluster pattern
-                similarity = match(phrase, cluster.pattern)
+                similarity = match(phrase, cluster, self.prefix_weight, self.middle_weight, self.suffix_weight)
 
                 if similarity >= self.minimum_cluster_similarity_score:
                     cluster.add_phrase(phrase)
                     phrase_added = True
-                else:
-                    phrase.reset_vectors()
-                    continue
 
         if phrase_added is False:
-            # Create a new cluster
             self.cluster_counter += 1
             # create a new cluster
             new_cluster = Cluster(str(self.cluster_counter), learning_rate=self.learning_rate)
             new_cluster.add_phrase(phrase)
             self.clusters.append(new_cluster)
+            
         return
 
     def extract(self, s):
@@ -236,7 +238,7 @@ class Snowball(object):
         for i in candidate_relations:
             for j in i.entities:
                 if j.tag.name == 'name':
-                    unique_names.update(j.text)
+                    unique_names.add(j.text)
 
         number_of_unique_name = len(unique_names)
         product = num_candidates * number_of_unique_name
@@ -257,26 +259,22 @@ class Snowball(object):
         best_candidate_phrase_score = 0
 
         for candidate_phrase in all_candidate_phrases:
+            # print("Evaluating candidate", candidate_phrase)
             # For each cluster
             # Compare the candidate phrase to the cluster extraction patter
             best_match_score = 0
             best_match_cluster = None
             confidence_term = 1
-
             for cluster in self.clusters:
                 if candidate_phrase.order != cluster.order:
-                    continue
-
-                cluster.vectorise(candidate_phrase)
-                cluster.vectorise(cluster.pattern)
-
-                match_score = cluster.get_phrase_match_score(candidate_phrase)
+                    continue   
+                match_score = match(candidate_phrase, cluster, self.prefix_weight, self.middle_weight, self.suffix_weight)
                 if match_score >= self.minimum_cluster_similarity_score:
                     confidence_term *= (1.0 - (match_score * cluster.pattern.confidence))
+
                 if match_score > best_match_score:
                     best_match_cluster = cluster
                     best_match_score = match_score
-                candidate_phrase.reset_vectors()
 
             # Confidence in the relationships we found
             phrase_confidence_score = 1.0 - confidence_term
@@ -288,8 +286,9 @@ class Snowball(object):
 
         if best_candidate_phrase and best_candidate_phrase_score >= self.minimum_relation_confidence:
             for candidate_relation in best_candidate_phrase.relations:
-                candidate_relation.confidence = phrase_confidence_score
+                candidate_relation.confidence = best_candidate_phrase_score
             # update the knowlegde base
+            # print("Best Candidate", best_candidate_phrase)
             best_candidate_cluster.add_phrase(best_candidate_phrase)
             self.save()
             return best_candidate_phrase.relations
@@ -314,7 +313,7 @@ class Snowball(object):
                         candidate_dict[str(i)] = candidate
                         print("Candidate " + str(i) + ' ' + str(candidate) + '\n')
 
-                    res = six.moves.input("...: ")
+                    res = six.moves.input("...: ").replace(' ', '')
                     if res:
                         chosen_candidate_idx = res.split(',')
                         chosen_candidates = []
@@ -329,14 +328,14 @@ class Snowball(object):
         f.close()
         return
 
-    def train(self, corpus):
+    def train(self, corpus, skip=0):
         """train the snowball algorithm on a specified corpus
 
         Arguments:
             corpus {str} -- path to a corpus of documents
         """
         corpus_list = os.listdir(corpus)
-        for i, file_name in enumerate(corpus_list):
+        for i, file_name in enumerate(corpus_list[skip:]):
             print('{}/{}:'.format(i + 1, len(corpus_list)), ' ', file_name)
             f = os.path.join(corpus, file_name)
             self.parse(f)
