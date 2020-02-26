@@ -13,7 +13,9 @@ See the jupyter notebook for example usage.
 
 
 # USAGE
-NOTE: This package will soon be incorporated in ChemDataExtractor, thus development on this repository will likely cease.
+NOTE: THIS PACKAGE WILL SOON BE INCORPORATED INTO CHEMDATAEXTRACTOR AND DEVELOPMENT WILL LIKELY CEASE.
+
+
 Clone this github repository and run 
 ```
 python3 setup.py install
