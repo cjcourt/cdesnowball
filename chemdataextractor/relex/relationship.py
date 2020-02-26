@@ -63,7 +63,7 @@ class ChemicalRelationship(object):
                 for i, text in enumerate(text_list):
                     if not text:
                         continue
-                    detected.append((text, e))
+                    detected.append((text, e.name, e))
 
         entities_dict = {}
 
@@ -71,23 +71,22 @@ class ChemicalRelationship(object):
             return []
 
         detected = list(set(detected))  # Remove duplicate entries (handled by indexing)
-        for text, tag in detected:
+        for text, tag, p in detected:
             text_length = len(text.split(' '))
             toks = [tok[0] for tok in tokens]
             start_indices = [s for s in KnuthMorrisPratt(toks, text.split(' '))]
 
             # Add specifier to dictionary  if it doesn't exist
-            if tag.name not in entities_dict.keys():
-                entities_dict[tag.name] = []
-
-            entities = [Entity(text, tag, index, index + text_length) for index in start_indices]
+            if tag not in entities_dict.keys():
+                entities_dict[tag] = []
+            entities = [Entity(text, tag, p, index, index + text_length) for index in start_indices]
             # Add entities to dictionary if new
             for entity in entities:
-                if entity not in entities_dict[tag.name]:
-                    entities_dict[tag.name].append(entity)
+                if entity not in entities_dict[tag]:
+                    entities_dict[tag].append(entity)
 
         # check all required entities are present
-        if not all(e.name in entities_dict.keys() for e in self.entities):
+        if not all(e.tag in entities_dict.keys() for e in self.entities):
             return []
 
         # Construct all valid combinations of entities
@@ -117,7 +116,7 @@ class ChemicalRelationship(object):
 
         for rel in candidate_rels:
             for entity_name in self.rule_values:  # Loop through entity names and create new attribute for each
-                setattr(self, str(entity_name), next(filter(lambda x: x.tag.name == entity_name, rel)))
+                setattr(self, str(entity_name), next(filter(lambda x: x.tag == entity_name, rel)))
             conditions = []
             for j in range(n_rules - 1):
                 conditions.append(getattr(self, str(self.rule_values[j])).start < getattr(self, str(self.rule_values[j + 1])).start)

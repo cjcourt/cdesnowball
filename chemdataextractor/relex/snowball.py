@@ -237,7 +237,7 @@ class Snowball(object):
         unique_names = set()
         for i in candidate_relations:
             for j in i.entities:
-                if j.tag.name == 'name':
+                if j.tag == 'name':
                     unique_names.add(j.text)
 
         number_of_unique_name = len(unique_names)

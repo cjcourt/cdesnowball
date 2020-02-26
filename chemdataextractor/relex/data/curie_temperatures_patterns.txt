@@ -1,18 +1,16 @@
-<Blank> name_1 is a ferromagnetic transition metal exhibiting a high specifier_1 of value_1 <Blank> units_1 ( with confidence score 1.0
+<Blank> name is a ferromagnetic transition metal exhibiting a high specifier of value <Blank> units ( with confidence score 1.0
 
-the name_1 show a transition temperature specifier_1 at around value_1 <Blank> units_1 ( with confidence score 1.0
+the name show a transition temperature specifier at around value <Blank> units ( with confidence score 1.0
 
-since name_1 has a specifier_1 at value_1 <Blank> units_1 . with confidence score 1.0
+since name has a specifier at value <Blank> units . with confidence score 1.0
 
-the specifier_1 <Blank> value_1 <Blank> units_1 ) of name_1 suggests with confidence score 1.0
+the specifier <Blank> value <Blank> units ) of name suggests with confidence score 1.0
 
-<Blank> name_1 is ferromagnetic with a specifier_1 of value_1 <Blank> units_1 and with confidence score 1.0
+<Blank> name is ferromagnetic with a specifier of value <Blank> units and with confidence score 1.0
 
-, name_1 has recently attracted much attention due to its high specifier_1 ∼ value_1 <Blank> units_1 ) with confidence score 1.0
+, name has recently attracted much attention due to its high specifier ∼ value <Blank> units ) with confidence score 1.0
 
-<Blank> name_1 is probably the most studied half metal because of it high specifier_1 ∼ value_1 <Blank> units_1 ) with confidence score 1.0
+<Blank> name is probably the most studied half metal because of it high specifier ∼ value <Blank> units ) with confidence score 1.0
 
-, name_1 has a high spin polarization ( > 95 % ) and a specifier_1 of value_1 <Blank> units_1 . with confidence score 1.0
-
-, name_1 ( BFO ) has received the most attention , due to its high ferroelectric specifier_1 ∼ value_1 <Blank> units_1 ) with confidence score 1.0
+, name ( name ) has received the most attention , due to its high ferroelectric specifier ∼ value <Blank> units ) with confidence score 1.0
 

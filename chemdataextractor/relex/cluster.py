@@ -14,7 +14,7 @@ from ..utils import first
 from .entity import Entity
 from .pattern import Pattern
 from .relationship import Relation
-from .utils import mode_rows
+from .utils import mode_rows, subfinder
 
 class Cluster:
     """
@@ -186,9 +186,9 @@ class Cluster:
             self.pattern.confidence = self.learning_rate*new_pattern_confidence + (1.0 - self.learning_rate)*self.old_pattern_confidence
             self.old_pattern_confidence = self.pattern.confidence
         return
-        
+
     def get_relations(self, tokens):
-        """Retrieve relations from a set of tokens using this clusters extraction patter
+        """Retrieve relations from a set of tokens using this clusters extraction pattern
         
         Arguments:
             tokens {list} -- Tokens to extract from
@@ -196,16 +196,34 @@ class Cluster:
         Returns:
             Relations -- The found Relations
         """
-
+        # print("Getting relations from", ' '.join([t[0] for t in tokens]))
         relations = []
-        for res in self.pattern.phrase_element.scan(tokens):
+        entity_type_indexes = {}
+
+        for res in self.pattern.parse_expression.scan(tokens):
             match = res[0]
             for pattern_relation in self.pattern.relations:
                 found_entities = []
                 for pattern_entity in pattern_relation.entities:
-                    entity_text = first(match.xpath('./' + pattern_entity.tag.name + '/text()'))
-                    found_entity = Entity(entity_text, pattern_entity.tag, 0, 0)
+                    if pattern_entity.tag not in entity_type_indexes.keys():
+                        entity_type_indexes[pattern_entity.tag] = [pattern_entity]
+                    else:
+                        if pattern_entity not in entity_type_indexes[pattern_entity.tag]:
+                            entity_type_indexes[pattern_entity.tag].append(pattern_entity)
+                    if '__' in pattern_entity.tag:
+                        xpath_str = '/'.join([i for i in pattern_entity.tag.split('__')])
+                    else:
+                        xpath_str = pattern_entity.tag
+                    entity_matches = match.xpath('./' + xpath_str + '/text()')
+                    if len(entity_matches) > 0:
+                        entity_text = entity_matches[entity_type_indexes[pattern_entity.tag].index(pattern_entity)]
+                    else:
+                        entity_text = entity_matches[0]
+                    entity_tokens = [s[0] for s in Sentence(entity_text).tagged_tokens]
+                    start_idx, end_idx = subfinder([t[0] for t in tokens], entity_tokens)
+                    found_entity = Entity(entity_text, pattern_entity.tag, pattern_entity.parse_expression, start_idx, end_idx)
                     found_entities.append(found_entity)
                 found_relation = Relation(found_entities, confidence=0)
                 relations.append(found_relation)
+        
         return relations
