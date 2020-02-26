@@ -9,19 +9,17 @@ If using CDE in your work please cite:
 ```
 Swain, M. C., & Cole, J. M. "ChemDataExtractor: A Toolkit for Automated Extraction of Chemical Information from the Scientific Literature", J. Chem. Inf. Model. 2016, 56 (10), pp 1894–1904 10.1021/acs.jcim.6b00207
 ```
-
 See the jupyter notebook for example usage.
 
 
 # USAGE
+NOTE: This package will soon be incorporated in ChemDataExtractor, thus development on this repository will likely cease.
 Clone this github repository and run 
 ```
 python3 setup.py install
 ```
 
 Or simply use the code in your own project.
-
-Recommended toolkit usage is with the [magdb](https://github.com/cjcourt/magdb) database creation package.
 
 # LICENSE
 All source code is licensed under the MIT license.
